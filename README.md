@@ -5,6 +5,7 @@ Average residential electricity price, usage and bill for every U.S. electric ut
 - **1,510 rows**, all 50 states + DC
 - 1,328 `utility`, 62 `retail_provider`, 6 `tx_delivery_utility`, 114 `behind_the_meter_solar`
 - Files: [`data/electricbillmath-utilities-2025.csv`](data/electricbillmath-utilities-2025.csv) (CSV, UTF-8) and [`data/electricbillmath-utilities-2025.json`](data/electricbillmath-utilities-2025.json) (JSON)
+- Mirrors: [GitHub](https://github.com/electricbillmath/us-utility-rates) · [Kaggle](https://www.kaggle.com/datasets/plainnumbers/us-electric-utility-rates-2025-eia-861) · [Hugging Face](https://huggingface.co/datasets/electricbillmath/us-utility-rates)
 - Browse it: [electricbillmath.com](https://electricbillmath.com/) · [average electric bill by state](https://electricbillmath.com/average-electric-bill/) · [methodology](https://electricbillmath.com/methodology/)
 
 ## Columns
