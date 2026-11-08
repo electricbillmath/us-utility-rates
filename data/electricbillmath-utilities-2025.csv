@@ -1,0 +1,1511 @@
+eia_id,state,name_eia,name_common,ownership,type,residential_customers,avg_cents_per_kwh,avg_kwh_per_month,avg_bill_usd_per_month,delivery_only_customers,delivery_cents_per_kwh,comparable,page_url
+3522,AK,Chugach Electric Assn Inc,Chugach Electric Association,Cooperative,utility,97742,22.97,491,112.81,,,yes,https://electricbillmath.com/utility/ak/chugach-electric-assn-inc/
+11824,AK,Matanuska Electric Assn Inc,Matanuska Electric Association,Cooperative,utility,65371,24.54,589,144.43,,,yes,https://electricbillmath.com/utility/ak/matanuska-electric-assn-inc/
+7353,AK,Golden Valley Elec Assn Inc,Golden Valley Electric Association,Cooperative,utility,40931,31.47,567,178.48,,,yes,
+19558,AK,Homer Electric Assn Inc,Homer Electric Association,Cooperative,utility,30143,31.51,474,149.43,,,yes,
+213,AK,Alaska Electric Light & Power Co.,Alaska Electric Light & Power,Investor Owned,utility,15516,13.73,907,124.58,,,yes,
+221,AK,"Alaska Village Elec Coop, Inc",Alaska Village Electric Cooperative,Cooperative,utility,7853,65.93,484,318.94,,,yes,
+10210,AK,Ketchikan Public Utilities,Ketchikan Public Utilities,Municipal,utility,6608,13.88,993,137.82,,,yes,
+219,AK,Alaska Power and Telephone Co,Alaska Power and Telephone,Investor Owned,utility,5798,41.78,412,171.93,,,yes,
+10433,AK,Kodiak Electric Assn Inc,Kodiak Electric Association,Cooperative,utility,4676,19.47,686,133.61,,,yes,
+10451,AK,Kotzebue Electric Assn Inc,Kotzebue Electric Association,Cooperative,utility,1217,52.23,529,276.12,,,yes,
+195,AL,Alabama Power Co,Alabama Power,Investor Owned,utility,1342827,17.91,1129,202.13,,,yes,https://electricbillmath.com/utility/al/alabama-power-co/
+9094,AL,City of Huntsville,City of Huntsville,Municipal,utility,201803,12.51,1148,143.69,,,yes,https://electricbillmath.com/utility/al/city-of-huntsville/
+1149,AL,Baldwin County El Member Corp,Baldwin County EMC,Cooperative,utility,85081,14.17,1131,160.35,,,yes,https://electricbillmath.com/utility/al/baldwin-county-el-member-corp/
+6491,AL,Foley Board of Utilities,Foley Board of Utilities,Municipal,utility,53818,13.97,1178,164.57,,,yes,https://electricbillmath.com/utility/al/foley-board-of-utilities/
+944,AL,City of Athens,City of Athens,Municipal,utility,52200,11.58,1312,152.01,,,yes,https://electricbillmath.com/utility/al/city-of-athens/
+3222,AL,Central Alabama Electric Coop,Central Alabama Electric Cooperative,Cooperative,utility,45580,17.21,1157,199.14,,,yes,
+6422,AL,City of Florence,City of Florence,Municipal,utility,41690,12.39,1278,158.32,,,yes,
+4618,AL,"Cullman Electric Coop, Inc",Cullman Electric Cooperative,Cooperative,utility,40027,14.59,1258,183.62,,,yes,
+9739,AL,Joe Wheeler Elec Member Corp,Joe Wheeler EMC,Cooperative,utility,37109,15.44,1359,209.94,,,yes,
+18203,AL,Tallapoosa River Elec Coop Inc,Tallapoosa River Electric Cooperative,Cooperative,utility,30157,14.81,1160,171.82,,,yes,
+16629,AL,Sand Mountain Electric Coop,Sand Mountain Electric Cooperative,Cooperative,utility,27485,13.55,1193,161.58,,,yes,
+5309,AL,City of Dothan,City of Dothan,Municipal,utility,26932,10.66,1172,124.96,,,yes,
+4430,AL,"Covington Electric Coop, Inc",Covington Electric Cooperative,Cooperative,utility,23625,17.62,1135,199.91,,,yes,
+20841,AL,"Wiregrass Electric Coop, Inc",Wiregrass Electric Cooperative,Cooperative,utility,22857,15.97,1215,194.11,,,yes,
+4958,AL,Decatur Utilities,Decatur Utilities,Municipal,utility,22830,12.14,1177,142.86,,,yes,
+5204,AL,Dixie Electric Coop,Dixie Electric Cooperative,Cooperative,utility,22315,15.44,1171,180.88,,,yes,
+17646,AL,"Southern Pine Elec Coop, Inc",Southern Pine Electric Cooperative,Cooperative,utility,20846,14.55,1047,152.33,,,yes,
+1780,AL,Black Warrior Elec Member Corp,Black Warrior EMC,Cooperative,utility,19934,15.07,1134,170.81,,,yes,
+3426,AL,Cherokee Electric Coop,Cherokee Electric Cooperative,Cooperative,utility,19006,15.98,1142,182.46,,,yes,
+40127,AL,Clarke-Washington E M C,Clarke-Washington EMC,Cooperative,utility,18723,15.89,992,157.63,,,yes,
+11714,AL,Marshall-De Kalb Electric Coop,Marshall-De Kalb Electric Cooperative,Cooperative,utility,17449,13.15,1263,166.17,,,yes,
+17534,AL,"South Alabama Elec Coop, Inc",South Alabama Electric Cooperative,Cooperative,utility,16940,15.82,1006,159.21,,,yes,
+4327,AL,Coosa Valley Electric Coop Inc,Coosa Valley Electric Cooperative,Cooperative,utility,15806,16.91,1205,203.85,,,yes,
+17033,AL,Sheffield Utilities,Sheffield Utilities,Municipal,utility,15662,12.98,1277,165.67,,,yes,
+14602,AL,Pea River Electric Coop,Pea River Electric Cooperative,Cooperative,utility,15013,17.58,1144,201.12,,,yes,
+750,AL,Arab Electric Coop Inc,Arab Electric Cooperative,Cooperative,utility,14159,12.75,1252,159.62,,,yes,
+14146,AL,City of Opelika,City of Opelika,Municipal,utility,13898,13.17,1008,132.77,,,yes,
+13669,AL,North Alabama Electric Coop,North Alabama Electric Cooperative,Cooperative,utility,13121,13.81,1273,175.76,,,yes,
+1640,AL,City of Bessemer Utilities,City of Bessemer Utilities,Municipal,utility,9302,13.28,1035,137.4,,,yes,
+241,AL,Albertville Municipal Utilities Board (AL),Albertville Municipal Utilities Board,Municipal,utility,8385,11.22,1264,141.81,,,yes,
+19225,AL,City of Troy,City of Troy,Municipal,utility,7856,9.51,1054,100.18,,,yes,
+13144,AL,City of Muscle Shoals,City of Muscle Shoals,Municipal,utility,7202,12.9,1213,156.38,,,yes,
+16829,AL,City of Scottsboro,City of Scottsboro,Municipal,utility,7107,13.78,1184,163.2,,,yes,
+4617,AL,Cullman Power Board,Cullman Power Board,Municipal,utility,7079,13.62,1076,146.61,,,yes,
+6612,AL,Fort Payne Improvement Authority,Fort Payne Improvement Authority,Municipal,utility,6963,13.01,1177,153.18,,,yes,
+6717,AL,Franklin Electric Coop,Franklin Electric Cooperative,Cooperative,utility,5997,14.61,1127,164.64,,,yes,
+7827,AL,Guntersville Electric Board,Guntersville Electric Board,Municipal,utility,4879,13.78,1216,167.52,,,yes,
+8226,AL,City of Hartselle,City of Hartselle,Municipal,utility,4645,13,1146,149,,,yes,
+19307,AL,City of Tuscumbia,City of Tuscumbia,Municipal,utility,4042,12.63,1110,140.19,,,yes,
+16458,AL,City of Russellville,City of Russellville,Municipal,utility,3918,13.85,1077,149.23,,,yes,
+604,AL,City of Andalusia,City of Andalusia,Municipal,utility,3587,16.16,976,157.63,,,yes,
+18472,AL,City of Tarrant,City of Tarrant,Municipal,utility,2076,14.02,1157,162.21,,,yes,
+19219,AL,Diverse Power Incorporated,Diverse Power Incorporated,Cooperative,utility,597,17.81,1142,203.45,,,yes,
+40364,AL,City of Courtland,City of Courtland,Municipal,utility,552,13.08,1093,142.96,,,yes,
+17252,AL,Singing River Elec Cooperative,Singing River Electric Cooperative,Cooperative,utility,336,13.49,1250,168.58,,,yes,
+814,AR,Entergy Arkansas LLC,Entergy Arkansas,Investor Owned,utility,612254,13.36,1085,144.92,,,yes,https://electricbillmath.com/utility/ar/entergy-arkansas-llc/
+17698,AR,Southwestern Electric Power Co,SWEPCO (Southwestern Electric Power),Investor Owned,utility,109777,12.14,890,108.1,,,yes,https://electricbillmath.com/utility/ar/southwestern-electric-power-co/
+3093,AR,Carroll Electric Coop Corp,Carroll Electric Cooperative,Cooperative,utility,104579,13.4,1085,145.32,,,yes,https://electricbillmath.com/utility/ar/carroll-electric-coop-corp/
+6342,AR,First Electric Coop Corp,First Electric Cooperative,Cooperative,utility,96685,12.93,1202,155.38,,,yes,https://electricbillmath.com/utility/ar/first-electric-coop-corp/
+14289,AR,Ozarks Electric Coop Corp,Ozarks Electric Cooperative,Cooperative,utility,74247,13.73,1020,139.95,,,yes,https://electricbillmath.com/utility/ar/ozarks-electric-coop-corp/
+14063,AR,Oklahoma Gas & Electric Co,OG&E (Oklahoma Gas and Electric),Investor Owned,utility,58569,11.65,1037,120.79,,,yes,https://electricbillmath.com/utility/ar/oklahoma-gas-and-electric-co/
+817,AR,Arkansas Valley Elec Coop Corp,Arkansas Valley Electric Cooperative,Cooperative,utility,55000,14.11,1103,155.62,,,yes,https://electricbillmath.com/utility/ar/arkansas-valley-elec-coop-corp/
+13676,AR,"North Arkansas Elec Coop, Inc",North Arkansas Electric Cooperative,Cooperative,utility,36595,14.17,1011,143.25,,,yes,
+13718,AR,City of North Little Rock,City of North Little Rock,Municipal,utility,35721,12.49,898,112.16,,,yes,
+9879,AR,City Water and Light Plant,City Water and Light Plant,Municipal,utility,35335,7.14,1258,89.77,,,yes,
+4280,AR,Conway Corporation,Conway,Municipal,utility,31376,9.49,1006,95.56,,,yes,
+4509,AR,Craighead Electric Coop Corp,Craighead Electric Cooperative,Cooperative,utility,25180,12.46,1344,167.49,,,yes,
+17671,AR,Southwest Arkansas E C C,Southwest Arkansas E C C,Cooperative,utility,24974,13.93,1260,175.47,,,yes,
+1586,AR,City of Bentonville,City of Bentonville,Municipal,utility,22559,11.77,1084,127.6,,,yes,
+2678,AR,C & L Electric Coop Corp,C & L Electric Cooperative,Cooperative,utility,20020,13.84,1097,151.86,,,yes,
+14864,AR,Petit Jean Electric Coop Corp,Petit Jean Electric Cooperative,Cooperative,utility,18878,16.62,960,159.56,,,yes,
+1581,AR,City of Benton,City of Benton,Municipal,utility,13371,10.39,996,103.55,,,yes,
+14446,AR,Paragould Municipal Utilities (AR),Paragould Municipal Utilities,Municipal,utility,12647,8.99,1382,124.21,,,yes,
+20963,AR,Woodruff Electric Coop Corp,Woodruff Electric Cooperative,Cooperative,utility,12100,12.51,1201,150.31,,,yes,
+3712,AR,Clay County Electric Coop Corp,Clay County Electric Cooperative,Cooperative,utility,10503,14.43,930,134.19,,,yes,
+20382,AR,City of West Memphis,City of West Memphis,Municipal,utility,10187,8.43,1150,96.93,,,yes,
+17540,AR,"South Central Ark El Coop, Inc",South Central Ark El Coop,Cooperative,utility,9447,16.05,981,157.42,,,yes,
+17184,AR,City of Siloam Springs,City of Siloam Springs,Municipal,utility,9137,11.46,861,98.62,,,yes,
+14238,AR,Ouachita Electric Coop Corp,Ouachita Electric Cooperative,Cooperative,utility,8392,13.46,1026,138.15,,,yes,
+8840,AR,City of Hope,City of Hope,Municipal,utility,5792,12.36,935,115.5,,,yes,
+5860,AR,Empire District Electric Co,Liberty Utilities (Empire District Electric),Investor Owned,utility,4898,13.8,944,130.25,,,yes,
+3705,AR,Clarksville Connected Utilities,Clarksville Connected Utilities,Municipal,utility,3812,10.4,987,102.58,,,yes,
+12681,AR,Mississippi County Electric Co,Mississippi County Electric,Cooperative,utility,3247,9.4,1482,139.28,,,yes,
+66036,AR,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,3,12,1111,133.33,,,no,
+803,AZ,Arizona Public Service Co,Arizona Public Service (APS),Investor Owned,utility,1287097,17.03,966,164.54,,,yes,https://electricbillmath.com/utility/az/arizona-public-service-co/
+16572,AZ,Salt River Project,Salt River Project (SRP),Political Subdivision,utility,1074095,13.98,1143,159.71,,,yes,https://electricbillmath.com/utility/az/salt-river-project/
+24211,AZ,Tucson Electric Power Co,Tucson Electric Power (TEP),Investor Owned,utility,416268,14.88,784,116.62,,,yes,https://electricbillmath.com/utility/az/tucson-electric-power-co/
+19728,AZ,"UNS Electric, Inc",UNS Electric,Investor Owned,utility,95288,16.99,849,144.18,,,yes,https://electricbillmath.com/utility/az/uns-electric-inc/
+19189,AZ,Trico Electric Cooperative Inc,Trico Electric Cooperative,Cooperative,utility,53721,14.26,922,131.4,,,yes,https://electricbillmath.com/utility/az/trico-electric-cooperative-inc/
+18280,AZ,Sulphur Springs Valley E C Inc,Sulphur Springs Valley E C,Cooperative,utility,46398,14.61,733,107.04,,,yes,
+21538,AZ,"Mohave Electric Cooperative, Inc.",Mohave Electric Cooperative,Cooperative,utility,41741,11.27,913,102.87,,,yes,
+13318,AZ,"Navopache Electric Coop, Inc",Navopache Electric Cooperative,Cooperative,utility,40795,13.48,599,80.75,,,yes,
+59647,AZ,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,40046,14.39,1048,150.77,,,no,
+57313,AZ,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,39812,12.23,919,112.33,,,no,
+30518,AZ,Electrical Dist No3 Pinal County,Electrical Dist No3 Pinal County,Political Subdivision,utility,32951,14.02,1158,162.35,,,yes,
+13314,AZ,Navajo Tribal Utility Authority,Navajo Tribal Utility Authority,State,utility,26978,16.54,489,80.93,,,yes,
+12351,AZ,City of Mesa,City of Mesa,Municipal,utility,15507,20.56,822,169.04,,,yes,
+19604,AZ,USBIA-San Carlos Project,USBIA-San Carlos Project,Federal,utility,12018,16.37,865,141.57,,,yes,
+59580,AZ,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,11357,16.76,797,133.47,,,no,
+15048,AZ,Electrical Dist No2 Pinal County,Electrical Dist No2 Pinal County,Political Subdivision,utility,5592,13.32,981,130.62,,,yes,
+66026,AZ,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,5524,14.75,1229,181.28,,,no,
+59943,AZ,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,3606,10.94,922,100.93,,,no,
+40165,AZ,"Dixie Escalante R E A, Inc",Dixie Escalante R E A,Cooperative,utility,2821,10.25,1025,105.04,,,yes,
+65261,AZ,Gila River Indian Utility Authority (GRICUA),Gila River Indian Utility Authority (GRICUA),Cooperative,utility,2707,14.27,1411,201.39,,,yes,
+12919,AZ,Morenci Water and Electric,Morenci Water and Electric,Investor Owned,utility,2241,6.02,781,47.03,,,yes,
+66036,AZ,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,1951,12.31,1183,145.61,,,no,
+6957,AZ,"Garkane Energy Coop, Inc",Garkane Energy Cooperative,Cooperative,utility,1484,12.14,1532,186.02,,,yes,
+176,AZ,Ajo Improvement Co,Ajo Improvement,Investor Owned,utility,808,13.53,512,69.22,,,yes,
+25866,AZ,Ak-Chin Electric Utility Authority,Ak-Chin Electric Utility Authority,State,utility,319,12.9,1471,189.81,,,yes,
+17609,CA,Southern California Edison Co,Southern California Edison (SCE),Investor Owned,utility,3262177,31.48,474,149.07,1365070,19.19,yes,https://electricbillmath.com/utility/ca/southern-california-edison-co/
+14328,CA,Pacific Gas & Electric Co.,Pacific Gas and Electric (PG&E),Investor Owned,utility,1738444,37.52,464,173.95,3317112,24.6,yes,https://electricbillmath.com/utility/ca/pacific-gas-and-electric-co/
+11208,CA,Los Angeles Department of Water & Power,Los Angeles Department of Water and Power (LADWP),Municipal,utility,1415602,26.48,469,124.2,,,yes,https://electricbillmath.com/utility/ca/los-angeles-department-of-water-and-power/
+16534,CA,Sacramento Municipal Util Dist,Sacramento Municipal Utility District (SMUD),Political Subdivision,utility,601275,18.93,663,125.42,,,yes,https://electricbillmath.com/utility/ca/sacramento-municipal-util-dist/
+59647,CA,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,359783,31.17,604,188.19,,,no,
+16609,CA,San Diego Gas & Electric Co,San Diego Gas & Electric (SDG&E),Investor Owned,utility,284416,45.77,367,167.87,1094049,27.33,yes,https://electricbillmath.com/utility/ca/san-diego-gas-and-electric-co/
+57313,CA,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,146091,18.91,555,104.92,,,no,
+9216,CA,Imperial Irrigation District,Imperial Irrigation District,Political Subdivision,utility,142916,18.69,1083,202.3,,,yes,https://electricbillmath.com/utility/ca/imperial-irrigation-district/
+590,CA,City of Anaheim,Anaheim Public Utilities,Municipal,utility,107148,19.37,476,92.09,,,yes,https://electricbillmath.com/utility/ca/city-of-anaheim/
+12745,CA,Modesto Irrigation District,Modesto Irrigation District,Political Subdivision,utility,104671,23.03,751,173.07,,,yes,https://electricbillmath.com/utility/ca/modesto-irrigation-district/
+16088,CA,City of Riverside,Riverside Public Utilities,Municipal,utility,101042,21.94,616,135.25,,,yes,https://electricbillmath.com/utility/ca/city-of-riverside/
+19281,CA,Turlock Irrigation District,Turlock Irrigation District,Political Subdivision,utility,80976,17.4,814,141.66,,,yes,https://electricbillmath.com/utility/ca/turlock-irrigation-district/
+7294,CA,City of Glendale,Glendale Water & Power,Municipal,utility,78071,35.51,391,138.89,,,yes,https://electricbillmath.com/utility/ca/city-of-glendale/
+59580,CA,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,73491,25.7,549,140.99,,,no,
+16295,CA,City of Roseville,Roseville Electric,Municipal,utility,64556,21.29,681,145.07,,,yes,https://electricbillmath.com/utility/ca/city-of-roseville/
+14534,CA,City of Pasadena,Pasadena Water and Power,Municipal,utility,58602,25.11,460,115.61,,,yes,https://electricbillmath.com/utility/ca/city-of-pasadena/
+16655,CA,City of Santa Clara,Silicon Valley Power (Santa Clara),Municipal,utility,54000,17.88,398,71.17,,,yes,https://electricbillmath.com/utility/ca/city-of-santa-clara/
+2507,CA,City of Burbank Water and Power,City of Burbank Water and Power,Municipal,utility,46719,21.5,491,105.63,,,yes,
+57483,CA,Liberty Utilities,Liberty Utilities,Investor Owned,utility,44507,27.65,510,141.13,,,yes,
+15783,CA,City of Redding,City of Redding,Municipal,utility,39152,18.97,803,152.25,,,yes,
+14354,CA,PacifiCorp,PacifiCorp,Investor Owned,utility,36339,24.18,829,200.43,,,yes,
+207,CA,Alameda Municipal Power,Alameda Municipal Power,Municipal,utility,32364,24.01,361,86.77,,,yes,
+66036,CA,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,26148,25.71,687,176.52,,,no,
+14401,CA,City of Palo Alto,City of Palo Alto,Municipal,utility,25672,21.36,516,110.23,,,yes,
+59943,CA,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,25201,19.27,654,125.98,,,no,
+11124,CA,City of Lodi,City of Lodi,Municipal,utility,24215,22.78,562,128.02,,,yes,
+17612,CA,Bear Valley Electric Service,Bear Valley Electric Service,Investor Owned,utility,23395,41.12,298,122.37,,,yes,
+4003,CA,City of Colton,City of Colton,Municipal,utility,17367,23,517,118.87,,,yes,
+1050,CA,City of Azusa,City of Azusa,Municipal,utility,15646,20.77,503,104.38,,,yes,
+12312,CA,Merced Irrigation District,Merced Irrigation District,Political Subdivision,utility,11850,24.15,597,144.1,,,yes,
+66026,CA,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,9079,19.2,882,169.42,,,no,
+55787,CA,City of Moreno Valley,City of Moreno Valley,Municipal,utility,7952,40.6,463,187.89,,,yes,
+17896,CA,City of Shasta Lake,City of Shasta Lake,Municipal,utility,4278,22.91,785,179.91,,,yes,
+16612,CA,City & County of San Francisco,City & County of San Francisco,Municipal,utility,3670,27.13,1089,295.48,,,yes,
+18260,CA,Surprise Valley Electrification,Surprise Valley Electrification,Cooperative,utility,2788,13.5,948,127.93,,,yes,
+4390,CA,City of Corona,City of Corona,Municipal,utility,1305,15.76,532,83.83,,,yes,
+19798,CA,City of Vernon,City of Vernon,Municipal,utility,73,12.99,378,49.09,,,yes,
+19840,CA,"Valley Electric Assn, Inc",Valley Electric Association,Cooperative,utility,12,18.69,583,109.03,,,yes,
+15466,CO,Public Service Co of Colorado,Xcel Energy Colorado,Investor Owned,utility,1379910,15.9,584,92.91,,,yes,https://electricbillmath.com/utility/co/public-service-co-of-colorado/
+3989,CO,City of Colorado Springs,Colorado Springs Utilities,Municipal,utility,220059,15.43,602,92.91,,,yes,https://electricbillmath.com/utility/co/city-of-colorado-springs/
+9336,CO,CORE Electric Cooperative,CORE Electric Cooperative,Cooperative,utility,168587,15.62,843,131.72,,,yes,https://electricbillmath.com/utility/co/core-electric-cooperative/
+19499,CO,"United Power, Inc",United Power,Cooperative,utility,103104,16.5,797,131.45,,,yes,https://electricbillmath.com/utility/co/united-power-inc/
+56146,CO,"Black Hills Colorado Electric, LLC",Black Hills Colorado Electric,Investor Owned,utility,97888,18.71,506,94.77,,,yes,https://electricbillmath.com/utility/co/black-hills-colorado-electric-llc/
+6604,CO,City of Fort Collins,Fort Collins Utilities,Municipal,utility,71804,14.34,610,87.43,,,yes,https://electricbillmath.com/utility/co/city-of-fort-collins/
+13058,CO,"Mountain View Elec Assn, Inc",Mountain View Electric Association,Cooperative,utility,61343,15.65,877,137.24,,,yes,https://electricbillmath.com/utility/co/mountain-view-elec-assn-inc/
+15257,CO,"Poudre Valley REA, Inc",Poudre Valley REA,Cooperative,utility,50933,12.47,875,109.05,,,yes,https://electricbillmath.com/utility/co/poudre-valley-rea-inc/
+8773,CO,"Holy Cross Electric Assn, Inc",Holy Cross Electric Association,Cooperative,utility,50431,12.45,1124,140,,,yes,https://electricbillmath.com/utility/co/holy-cross-electric-assn-inc/
+11187,CO,City of Longmont,City of Longmont,Municipal,utility,41483,13.12,674,88.39,,,yes,
+10539,CO,"La Plata Electric Assn, Inc",La Plata Electric Association,Cooperative,utility,40369,18.33,642,117.64,,,yes,
+11256,CO,City of Loveland,City of Loveland,Municipal,utility,37387,15.29,618,94.55,,,yes,
+5086,CO,Delta Montrose Electric Assn,Delta Montrose Electric Association,Cooperative,utility,32985,14.9,718,106.93,,,yes,
+21081,CO,Yampa Valley Electric Assn Inc,Yampa Valley Electric Association,Cooperative,utility,23604,16.98,859,145.84,,,yes,
+16616,CO,"San Isabel Electric Assn, Inc",San Isabel Electric Association,Cooperative,utility,23415,18.86,628,118.4,,,yes,
+13050,CO,"Mountain Parks Electric, Inc",Mountain Parks Electric,Cooperative,utility,19571,17.54,730,128.04,,,yes,
+7563,CO,Grand Valley Power,Grand Valley Power,Cooperative,utility,17657,16.2,796,129.01,,,yes,
+6638,CO,City of Fountain,City of Fountain,Municipal,utility,17088,14.05,713,100.09,,,yes,
+5862,CO,"Empire Electric Assn, Inc",Empire Electric Association,Cooperative,utility,13016,15.68,703,110.29,,,yes,
+57313,CO,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,12824,12.48,543,67.75,,,no,
+16622,CO,"San Miguel Power Assn, Inc",San Miguel Power Association,Cooperative,utility,12379,16.84,799,134.5,,,yes,
+59647,CO,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,9437,17.09,645,110.14,,,no,
+16603,CO,"San Luis Valley R E C, Inc",San Luis Valley R E C,Cooperative,utility,8948,19.4,649,125.92,,,yes,
+17592,CO,Southeast Colorado Power Assn,Southeast Colorado Power Association,Cooperative,utility,8169,17.92,708,126.81,,,yes,
+12860,CO,Morgan County Rural Elec Assn,Morgan County Rural Electric Association,Cooperative,utility,5891,14.46,1011,146.24,,,yes,
+6610,CO,City of Fort Morgan,City of Fort Morgan,Municipal,utility,5434,7.31,1028,75.16,,,yes,
+8570,CO,Highline Electric Assn,Highline Electric Association,Cooperative,utility,5013,15.16,903,136.88,,,yes,
+21075,CO,Y-W Electric Assn Inc,Y-W Electric Association,Cooperative,utility,4878,15.66,777,121.7,,,yes,
+10066,CO,K C Electric Association,K C Electric Association,Cooperative,utility,3411,13.02,984,128.05,,,yes,
+20576,CO,"White River Electric Assn, Inc",White River Electric Association,Cooperative,utility,2641,14.69,701,102.94,,,yes,
+66026,CO,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,1670,15.61,705,110.05,,,no,
+12866,CO,Moon Lake Electric Assn Inc,Moon Lake Electric Association,Cooperative,utility,1525,9.71,828,80.39,,,yes,
+59580,CO,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,1302,23.85,260,61.89,,,no,
+59943,CO,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,1043,9.28,684,63.42,,,no,
+27058,CO,"High West Energy, Inc",High West Energy,Cooperative,utility,671,15.13,831,125.81,,,yes,
+66036,CO,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,590,15.46,795,122.95,,,no,
+20510,CO,"Wheatland Electric Coop, Inc",Wheatland Electric Cooperative,Cooperative,utility,29,20.32,356,72.41,,,yes,
+19160,CO,"Tri-County Electric Coop, Inc (OK)",Tri-County Electric Cooperative,Cooperative,utility,14,16.17,482,77.98,,,yes,
+60025,CO,Greenbacker Renewable Energy Corporation,Greenbacker Renewable Energy,Behind the Meter,behind_the_meter_solar,11,11.11,409,45.45,,,no,
+17715,CO,Southwestern Electric Coop Inc,Southwestern Electric Cooperative,Cooperative,utility,5,21.58,1267,273.33,,,yes,
+4176,CT,Connecticut Light & Power Co,Eversource Connecticut (CL&P),Investor Owned,utility,995130,28.88,677,195.35,198451,18.65,yes,https://electricbillmath.com/utility/ct/connecticut-light-and-power-co/
+19497,CT,United Illuminating Co,United Illuminating (UI),Investor Owned,utility,261151,35.4,516,182.78,53758,20.17,yes,https://electricbillmath.com/utility/ct/united-illuminating-co/
+20038,CT,Town of Wallingford,Town of Wallingford,Municipal,utility,21426,17.78,852,151.51,,,yes,
+59647,CT,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,19341,28.71,579,166.18,,,no,
+13831,CT,City of Norwich,City of Norwich,Municipal,utility,18967,23.35,633,147.77,,,yes,
+7716,CT,Groton Dept of Utilities,Groton Dept of Utilities,Municipal,utility,12596,18.05,740,133.62,,,yes,
+57313,CT,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,8394,17.44,524,91.41,,,no,
+59580,CT,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,3658,19.14,852,163.04,,,no,
+2089,CT,Bozrah Light & Power Company,Bozrah Light & Power,Municipal,utility,2440,19.75,857,169.33,,,yes,
+66026,CT,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,1864,22.56,664,149.7,,,no,
+59943,CT,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,1841,16.96,615,104.22,,,no,
+66036,CT,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,1352,24.97,547,136.59,,,no,
+15270,DC,Potomac Electric Power Co,Pepco,Investor Owned,utility,291516,20.77,593,123.11,33247,6.87,yes,https://electricbillmath.com/utility/dc/potomac-electric-power-co/
+57313,DC,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,501,13.87,305,42.25,,,no,
+59647,DC,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,57,13.53,488,66.08,,,no,
+5027,DE,Delmarva Power,Delmarva Power,Investor Owned,utility,278793,18.16,890,161.72,26556,7.61,yes,https://electricbillmath.com/utility/de/delmarva-power/
+5070,DE,Delaware Electric Cooperative,Delaware Electric Cooperative,Cooperative,utility,108801,13.89,1054,146.37,,,yes,https://electricbillmath.com/utility/de/delaware-electric-cooperative/
+5335,DE,City of Dover,City of Dover,Municipal,utility,21793,16.16,813,131.42,,,yes,
+13519,DE,City of Newark,City of Newark,Municipal,utility,11925,19.75,686,135.43,,,yes,
+12478,DE,Town of Middletown,Town of Middletown,Municipal,utility,9193,16.64,912,151.82,,,yes,
+12540,DE,City of Milford,City of Milford,Municipal,utility,7504,15.86,926,146.96,,,yes,
+57313,DE,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,3296,16.71,678,113.25,,,no,
+59647,DE,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,392,15.69,521,81.8,,,no,
+6452,FL,Florida Power & Light Co,Florida Power & Light (FPL),Investor Owned,utility,5337118,14.62,1111,162.38,,,yes,https://electricbillmath.com/utility/fl/florida-power-and-light-co/
+6455,FL,"Duke Energy Florida, LLC",Duke Energy Florida,Investor Owned,utility,1819962,18.36,1009,185.26,,,yes,https://electricbillmath.com/utility/fl/duke-energy-florida-llc/
+18454,FL,Tampa Electric Co,Tampa Electric,Investor Owned,utility,768806,17.32,1117,193.55,,,yes,https://electricbillmath.com/utility/fl/tampa-electric-co/
+9617,FL,JEA,JEA,Municipal,utility,479288,13.84,1057,146.38,,,yes,https://electricbillmath.com/utility/fl/jea/
+14610,FL,Orlando Utilities Comm,Orlando Utilities Commission (OUC),Municipal,utility,254552,13.22,974,128.69,,,yes,https://electricbillmath.com/utility/fl/orlando-utilities-comm/
+18304,FL,"Sumter Electric Coop, Inc",Sumter Electric Cooperative,Cooperative,utility,240241,14.98,1010,151.31,,,yes,https://electricbillmath.com/utility/fl/sumter-electric-coop-inc/
+10857,FL,"Lee County Electric Coop, Inc",Lee County Electric Cooperative,Cooperative,utility,236578,14.2,1176,166.98,,,yes,https://electricbillmath.com/utility/fl/lee-county-electric-coop-inc/
+20885,FL,Withlacoochee River Elec Coop,Withlacoochee River Electric Cooperative,Cooperative,utility,231677,13.7,1248,170.89,,,yes,https://electricbillmath.com/utility/fl/withlacoochee-river-elec-coop/
+3757,FL,"Clay Electric Cooperative, Inc",Clay Electric Cooperative,Cooperative,utility,173966,14.02,1220,171.01,,,yes,https://electricbillmath.com/utility/fl/clay-electric-cooperative-inc/
+10623,FL,City of Lakeland,Lakeland Electric,Municipal,utility,122506,11.73,1160,136.09,,,yes,https://electricbillmath.com/utility/fl/city-of-lakeland/
+18445,FL,City of Tallahassee,City of Tallahassee Utilities,Municipal,utility,105945,13.97,934,130.5,,,yes,https://electricbillmath.com/utility/fl/city-of-tallahassee/
+6909,FL,Gainesville Regional Utilities,Gainesville Regional Utilities (GRU),Municipal,utility,93214,14.72,798,117.41,,,yes,https://electricbillmath.com/utility/fl/gainesville-regional-utilities/
+10376,FL,Kissimmee Utility Authority,Kissimmee Utility Authority (KUA),Municipal,utility,82785,11.7,1129,132.11,,,yes,https://electricbillmath.com/utility/fl/kissimmee-utility-authority/
+14606,FL,"Peace River Electric Coop, Inc",Peace River Electric Cooperative,Cooperative,utility,62018,12.84,1177,151.12,,,yes,https://electricbillmath.com/utility/fl/peace-river-electric-coop-inc/
+3502,FL,"Choctawhatche Elec Coop, Inc",CHELCO (Choctawhatchee Electric Cooperative),Cooperative,utility,59407,14.04,1202,168.82,,,yes,https://electricbillmath.com/utility/fl/choctawhatche-elec-coop-inc/
+18449,FL,"Talquin Electric Coop, Inc",Talquin Electric Cooperative,Cooperative,utility,54454,15.24,1139,173.55,,,yes,https://electricbillmath.com/utility/fl/talquin-electric-coop-inc/
+13955,FL,City of Ocala,City of Ocala,Municipal,utility,48538,11.68,1015,118.54,,,yes,
+3245,FL,"Central Florida Elec Coop, Inc",Central Florida Electric Cooperative,Cooperative,utility,32972,15.23,1048,159.56,,,yes,
+9616,FL,Beaches Energy Services,Beaches Energy Services,Municipal,utility,30738,11.97,1198,143.4,,,yes,
+6443,FL,"Florida Keys El Coop Assn, Inc",Florida Keys El Coop Assn,Cooperative,utility,29098,13.91,1326,184.41,,,yes,
+13485,FL,New Smyrna Beach City of,New Smyrna Beach City of,Municipal,utility,28355,10.96,922,101.06,,,yes,
+10226,FL,"Utility Board of the City of Key West, F","Utility Board of the City of Key West, F",Municipal,utility,27460,15.07,1182,178.08,,,yes,
+20371,FL,"West Florida El Coop Assn, Inc",West Florida El Coop Assn,Cooperative,utility,26632,16.65,1094,182.08,,,yes,
+18360,FL,Suwannee Valley Elec Coop Inc,Suwannee Valley Electric Cooperative,Cooperative,utility,26174,17.58,1113,195.6,,,yes,
+6457,FL,Florida Public Utilities Co,Florida Public Utilities,Investor Owned,utility,26053,17.8,1020,181.49,,,yes,
+10868,FL,City of Leesburg,City of Leesburg,Municipal,utility,24894,13.57,972,131.88,,,yes,
+10620,FL,City of Lake Worth Beach,City of Lake Worth Beach,Municipal,utility,24821,12.29,1107,136.08,,,yes,
+6616,FL,Fort Pierce Utilities Authority,Fort Pierce Utilities Authority,Municipal,utility,24790,13.33,866,115.48,,,yes,
+8795,FL,City of Homestead,City of Homestead,Municipal,utility,24277,11.39,1403,159.78,,,yes,
+7785,FL,"Gulf Coast Electric Coop, Inc",Gulf Coast Electric Cooperative,Cooperative,utility,21703,14.89,1195,177.95,,,yes,
+19161,FL,"Tri-County Electric Coop, Inc (FL)",Tri-County Electric Cooperative,Cooperative,utility,18085,18.44,869,160.16,,,yes,
+59647,FL,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,16514,18.35,1043,191.49,,,no,
+7264,FL,"Glades Electric Coop, Inc",Glades Electric Cooperative,Cooperative,utility,14819,18.27,1092,199.47,,,yes,
+58124,FL,City of Winter Park,City of Winter Park,Municipal,utility,12874,13.11,1232,161.51,,,yes,
+5964,FL,"Escambia River Elec Coop, Inc",Escambia River Electric Cooperative,Cooperative,utility,12199,15.9,1248,198.4,,,yes,
+1300,FL,City of Bartow,City of Bartow,Municipal,utility,11763,11.69,1163,135.91,,,yes,
+31833,FL,Okefenoke Rural El Member Corp,Okefenoke Rural EMC,Cooperative,utility,11266,14,1309,183.17,,,yes,
+66026,FL,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,8841,14.84,1106,164.14,,,no,
+57313,FL,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,702,4.48,499,22.36,,,no,
+15776,FL,Central Florida Tourism Oversight District,Central Florida Tourism Oversight District,Municipal,utility,9,11.43,1296,148.15,,,yes,
+7140,GA,Georgia Power Co,Georgia Power,Investor Owned,utility,2480484,16.28,990,161.13,,,yes,https://electricbillmath.com/utility/ga/georgia-power-co/
+9601,GA,Jackson Electric Member Corp,Jackson EMC,Cooperative,utility,245849,11.87,1211,143.77,,,yes,https://electricbillmath.com/utility/ga/jackson-electric-member-corp/
+3916,GA,Cobb Electric Membership Corp,Cobb EMC,Cooperative,utility,203131,11.55,1115,128.8,,,yes,https://electricbillmath.com/utility/ga/cobb-electric-membership-corp/
+16865,GA,Sawnee Electric Membership Corporation,Sawnee EMC,Cooperative,utility,182849,12.82,1191,152.73,,,yes,https://electricbillmath.com/utility/ga/sawnee-electric-membership-corporation/
+7090,GA,GreyStone Power Corporation,GreyStone Power,Cooperative,utility,142841,12.55,1189,149.26,,,yes,https://electricbillmath.com/utility/ga/greystone-power-corporation/
+20065,GA,Walton Electric Member Corp,Walton EMC,Cooperative,utility,133581,14.1,1240,174.78,,,yes,https://electricbillmath.com/utility/ga/walton-electric-member-corp/
+17832,GA,Snapping Shoals El Member Corp,Snapping Shoals EMC,Cooperative,utility,106304,12.99,1287,167.24,,,yes,https://electricbillmath.com/utility/ga/snapping-shoals-el-member-corp/
+13716,GA,North Georgia Elec Member Corp,North Georgia EMC,Cooperative,utility,90932,12.93,1364,176.35,,,yes,https://electricbillmath.com/utility/ga/north-georgia-elec-member-corp/
+6411,GA,Flint Electric Membership Corp,Flint EMC,Cooperative,utility,85358,13.41,1269,170.22,,,yes,https://electricbillmath.com/utility/ga/flint-electric-membership-corp/
+4432,GA,Coweta-Fayette El Member Corp,Coweta-Fayette EMC,Cooperative,utility,83660,13.22,1238,163.68,,,yes,https://electricbillmath.com/utility/ga/coweta-fayette-el-member-corp/
+40212,GA,Colquitt Electric Membership Corp,Colquitt EMC,Cooperative,utility,66177,13.95,1191,166.21,,,yes,https://electricbillmath.com/utility/ga/colquitt-electric-membership-corp/
+3248,GA,Central Georgia El Member Corp,Central Georgia EMC,Cooperative,utility,62546,13.06,1283,167.67,,,yes,https://electricbillmath.com/utility/ga/central-georgia-el-member-corp/
+16674,GA,Satilla Rural Elec Member Corporation,Satilla Rural EMC,Cooperative,utility,54207,14.65,1187,173.97,,,yes,https://electricbillmath.com/utility/ga/satilla-rural-elec-member-corporation/
+3081,GA,Carroll Electric Member Corp,Carroll EMC,Cooperative,utility,53707,13.94,1212,169.02,,,yes,https://electricbillmath.com/utility/ga/carroll-electric-member-corp/
+562,GA,Amicalola Electric Member Corp,Amicalola EMC,Cooperative,utility,51657,13.67,1255,171.52,,,yes,https://electricbillmath.com/utility/ga/amicalola-electric-member-corp/
+11646,GA,City of Marietta,City of Marietta,Municipal,utility,36288,11.92,830,98.99,,,yes,
+7887,GA,Habersham Electric Membership Corp,Habersham EMC,Cooperative,utility,35519,13.99,1078,150.89,,,yes,
+9689,GA,Jefferson Electric Member Corp,Jefferson EMC,Cooperative,utility,34651,14.59,1120,163.4,,,yes,
+19219,GA,Diverse Power Incorporated,Diverse Power Incorporated,Cooperative,utility,32557,17.23,1235,212.68,,,yes,
+230,GA,Albany Utility Board,Albany Utility Board,Municipal,utility,31706,13.45,916,123.26,,,yes,
+1891,GA,Blue Ridge Mountain EMC,Blue Ridge Mountain EMC,Cooperative,utility,30863,14.81,954,141.39,,,yes,
+8210,GA,Hart Electric Member Corp,Hart EMC,Cooperative,utility,30698,13.11,1152,151.07,,,yes,
+31833,GA,Okefenoke Rural El Member Corp,Okefenoke Rural EMC,Cooperative,utility,28463,14.28,1176,168.03,,,yes,
+2903,GA,Canoochee Electric Member Corp,Canoochee EMC,Cooperative,utility,24733,14.18,1163,164.89,,,yes,
+5905,GA,Excelsior Electric Member Corp,Excelsior EMC,Cooperative,utility,23762,13.91,1198,166.66,,,yes,
+3843,GA,Coastal Electric Member Corp,Coastal EMC,Cooperative,utility,21397,14.38,1259,181.06,,,yes,
+12706,GA,Mitchell Electric Member Corp,Mitchell EMC,Cooperative,utility,21350,17.12,1179,201.9,,,yes,
+18956,GA,Tri-County Elec Member Corp (GA),Tri-County EMC,Cooperative,utility,21329,15.79,1179,186.1,,,yes,
+10624,GA,Southern Rivers Energy,Southern Rivers Energy,Cooperative,utility,20770,16.35,1269,207.46,,,yes,
+407,GA,Altamaha Electric Member Corp,Altamaha EMC,Cooperative,utility,19623,16.3,1066,173.79,,,yes,
+7450,GA,Grady Electric Membership Corp,Grady EMC,Cooperative,utility,19416,15.03,1150,172.8,,,yes,
+15700,GA,Rayle Electric Membership Corp,Rayle EMC,Cooperative,utility,16474,14.64,1121,164.13,,,yes,
+14649,GA,Planters Electric Member Corp,Planters EMC,Cooperative,utility,16417,14.85,1168,173.33,,,yes,
+5582,GA,City of East Point,City of East Point,Municipal,utility,16204,11.99,838,100.39,,,yes,
+20146,GA,Washington Elec Member Corp,Washington EMC,Cooperative,utility,15170,15.36,1021,156.77,,,yes,
+18305,GA,Sumter Electric Member Corp,Sumter EMC,Cooperative,utility,15145,14.62,1303,190.56,,,yes,
+10800,GA,City of Lawrenceville,City of Lawrenceville,Municipal,utility,14747,15.01,633,95.07,,,yes,
+18848,GA,City of Thomasville,City of Thomasville,Municipal,utility,14275,13.59,1154,156.86,,,yes,
+18499,GA,Three Notch Elec Member Corp,Three Notch EMC,Cooperative,utility,13680,16.91,916,154.9,,,yes,
+7679,GA,City of Griffin,City of Griffin,Municipal,utility,13584,14.95,1010,150.96,,,yes,
+4744,GA,Dalton Utilities,Dalton Utilities,Municipal,utility,13473,10.34,995,102.89,,,yes,
+4433,GA,City of Covington,City of Covington,Municipal,utility,13302,14.82,1042,154.36,,,yes,
+19154,GA,Tri-State Electric Member Corp,Tri-State EMC,Cooperative,utility,13218,14.9,1041,155.08,,,yes,
+10585,GA,City of La Grange,City of La Grange,Municipal,utility,13081,12.83,945,121.26,,,yes,
+3408,GA,City of Chattanooga,City of Chattanooga,Municipal,utility,11305,13.35,1155,154.25,,,yes,
+13962,GA,Oconee Electric Member Corp,Oconee EMC,Cooperative,utility,10868,15.65,1158,181.27,,,yes,
+13547,GA,"Newnan Wtr, Sewer & Light Comm","Newnan Wtr, Sewer & Light Comm",Municipal,utility,9259,13.21,903,119.29,,,yes,
+4538,GA,Crisp County Power Comm,Crisp County Power Comm,Political Subdivision,utility,9210,17.84,1305,232.9,,,yes,
+3939,GA,City of College Park,City of College Park,Municipal,utility,7794,11.89,821,97.63,,,yes,
+3108,GA,City of Cartersville,City of Cartersville,Municipal,utility,7507,14.58,988,144.04,,,yes,
+2812,GA,City of Calhoun,City of Calhoun,Municipal,utility,5042,14.03,865,121.38,,,yes,
+5325,GA,City of Douglas,City of Douglas,Municipal,utility,4129,10.42,1181,122.97,,,yes,
+2487,GA,City of Buford,City of Buford,Municipal,utility,3004,13.43,1121,150.58,,,yes,
+16637,GA,City of Sandersville,City of Sandersville,Municipal,utility,2215,10.51,1000,105.03,,,yes,
+18397,GA,City of Sylvania,City of Sylvania,Municipal,utility,1909,13.39,996,133.35,,,yes,
+20140,GA,City of Washington,City of Washington,Municipal,utility,1884,15.96,888,141.79,,,yes,
+66026,GA,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,831,16.65,827,137.75,,,no,
+3475,GA,City of Chickamauga,City of Chickamauga,Municipal,utility,828,14.21,1116,158.62,,,yes,
+8333,GA,Haywood Electric Member Corp,Haywood EMC,Cooperative,utility,435,17.13,733,125.48,,,yes,
+19547,HI,Hawaiian Electric Co Inc,Hawaiian Electric (Oahu),Investor Owned,utility,276853,40.54,468,189.9,,,yes,https://electricbillmath.com/utility/hi/hawaiian-electric-co-inc/
+8287,HI,Hawaii Electric Light Co Inc,Hawaiian Electric (Hawaii Island),Investor Owned,utility,79318,45.8,450,206.09,,,yes,https://electricbillmath.com/utility/hi/hawaii-electric-light-co-inc/
+11843,HI,Maui Electric Co Ltd,Hawaiian Electric (Maui County),Investor Owned,utility,61877,41.97,502,210.81,,,yes,https://electricbillmath.com/utility/hi/maui-electric-co-ltd/
+10071,HI,Kauai Island Utility Cooperative,Kauai Island Utility Cooperative,Cooperative,utility,30335,38.43,553,212.58,,,yes,
+59647,HI,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,17565,32.2,660,212.55,,,no,
+57313,HI,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,2367,17.74,712,126.35,,,no,
+59580,HI,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,1082,62.58,297,185.98,,,no,
+59943,HI,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,481,12.01,847,101.7,,,no,
+66036,HI,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,43,36.99,649,240.12,,,no,
+12341,IA,MidAmerican Energy Co,MidAmerican Energy,Investor Owned,utility,639558,11.21,828,92.85,,,yes,https://electricbillmath.com/utility/ia/midamerican-energy-co/
+9417,IA,Interstate Power and Light Co,Alliant Energy Iowa (IPL),Investor Owned,utility,419451,17.77,739,131.38,,,yes,https://electricbillmath.com/utility/ia/interstate-power-and-light-co/
+11053,IA,Corridor Energy Cooperative,Corridor Energy Cooperative,Cooperative,utility,30992,14.18,887,125.74,,,yes,
+554,IA,City of Ames,City of Ames,Municipal,utility,25123,12.12,597,72.36,,,yes,
+5605,IA,Eastern Iowa Light & Power Coop,Eastern Iowa Light & Power Coop,Cooperative,utility,20472,14.81,1197,177.31,,,yes,
+3203,IA,Cedar Falls Utilities,Cedar Falls Utilities,Municipal,utility,17746,11.56,836,96.58,,,yes,
+12450,IA,Midland Power Coop,Midland Power Coop,Cooperative,utility,12083,13.66,1479,202.01,,,yes,
+12642,IA,Maquoketa Valley Rrl Elec Coop,Maquoketa Valley Rrl Electric Cooperative,Cooperative,utility,11161,13.8,1112,153.48,,,yes,
+13143,IA,Board of Water Electric & Communications,Board of Water Electric & Communications,Municipal,utility,10105,12.89,833,107.43,,,yes,
+9425,IA,Iowa Lakes Electric Coop,Iowa Lakes Electric Cooperative,Cooperative,utility,9757,13.78,1520,209.52,,,yes,
+17260,IA,North West Rural Electric Coop,North West Rural Electric Cooperative,Cooperative,utility,9461,9.42,2299,216.47,,,yes,
+16611,IA,Access Energy Coop,Access Energy Cooperative,Cooperative,utility,8890,14.81,1098,162.68,,,yes,
+5588,IA,East-Central Iowa Rural Elec Coop,East-Central Iowa Rural Electric Cooperative,Cooperative,utility,7417,13.13,1420,186.49,,,yes,
+11788,IA,Consumers Energy Coop,Consumers Energy Cooperative,Cooperative,utility,7121,14.85,1081,160.49,,,yes,
+19157,IA,MiEnergy Cooperative,MiEnergy Cooperative,Cooperative,utility,6023,17.2,1031,177.37,,,yes,
+8319,IA,Heartland Power Coop,Heartland Power Coop,Cooperative,utility,4357,12.84,1619,207.87,,,yes,
+2652,IA,Butler County Rural Elec Coop,Butler County Rural Electric Cooperative,Cooperative,utility,3903,14.5,1439,208.64,,,yes,
+15291,IA,Prairie Energy Coop,Prairie Energy Cooperative,Cooperative,utility,3433,14.14,1363,192.71,,,yes,
+11611,IA,City of Maquoketa,City of Maquoketa,Municipal,utility,2804,13.56,726,98.43,,,yes,
+9230,IA,City of Independence,City of Independence,Municipal,utility,2737,14.45,676,97.65,,,yes,
+471,IA,Amana Society Service Co,Amana Society Service,Investor Owned,utility,709,17.02,836,142.22,,,yes,
+4305,IA,City of Coon Rapids,City of Coon Rapids,Municipal,utility,630,9.78,1020,99.84,,,yes,
+15349,IA,City of Preston,City of Preston,Municipal,utility,502,13.75,671,92.28,,,yes,
+6258,IA,Federated Rural Electric Assn,Federated Rural Electric Association,Cooperative,utility,53,12.89,1403,180.82,,,yes,
+6782,IA,Freeborn Mower Electric Cooperative,Freeborn Mower Electric Cooperative,Cooperative,utility,6,14.63,1708,250,,,yes,
+9191,ID,Idaho Power Co,Idaho Power,Investor Owned,utility,540032,11.78,899,105.89,,,yes,https://electricbillmath.com/utility/id/idaho-power-co/
+20169,ID,Avista Corp,Avista,Investor Owned,utility,129181,11.84,900,106.63,,,yes,https://electricbillmath.com/utility/id/avista-corp/
+14354,ID,PacifiCorp,PacifiCorp,Investor Owned,utility,75599,13.53,889,120.34,,,yes,https://electricbillmath.com/utility/id/pacificorp/
+10454,ID,Kootenai Electric Cooperative,Kootenai Electric Cooperative,Cooperative,utility,31004,13.44,1120,150.46,,,yes,
+9187,ID,City of Idaho Falls,City of Idaho Falls,Municipal,utility,29403,9.6,925,88.86,,,yes,
+13758,ID,"Northern Lights, Inc",Northern Lights,Cooperative,utility,18172,12.17,1116,135.76,,,yes,
+6169,ID,Fall River Rural Elec Coop Inc,Fall River Rural Electric Cooperative,Cooperative,utility,15952,11.11,1172,130.11,,,yes,
+19502,ID,"United Electric Co-op, Inc",United Electric Co-op,Cooperative,utility,5169,8.5,1580,134.24,,,yes,
+16565,ID,Salmon River Electric Coop Inc,Salmon River Electric Cooperative,Cooperative,utility,2426,9.87,1251,123.49,,,yes,
+8699,ID,Inland Power & Light Company,Inland Power & Light,Cooperative,utility,2175,9.45,1441,136.1,,,yes,
+11273,ID,Lower Valley Energy Inc,Lower Valley Energy,Cooperative,utility,1663,7.84,1077,84.44,,,yes,
+22814,ID,Raft Rural Elec Coop Inc,Raft Rural Electric Cooperative,Cooperative,utility,1398,10.16,1436,145.92,,,yes,
+12692,ID,"Missoula Electric Coop, Inc",Missoula Electric Cooperative,Cooperative,utility,44,10.5,1148,120.45,,,yes,
+4110,IL,Commonwealth Edison Co,ComEd (Commonwealth Edison),Investor Owned,utility,3020130,17.71,606,107.32,733794,8.89,yes,https://electricbillmath.com/utility/il/commonwealth-edison-co/
+56697,IL,Ameren Illinois Company,Ameren Illinois,Investor Owned,utility,587659,16.7,888,148.32,475151,8.77,yes,https://electricbillmath.com/utility/il/ameren-illinois-company/
+12341,IL,MidAmerican Energy Co,MidAmerican Energy,Investor Owned,utility,73481,9.99,744,74.33,,,yes,https://electricbillmath.com/utility/il/midamerican-energy-co/
+17828,IL,City of Springfield,"City Water, Light & Power (CWLP, Springfield)",Municipal,utility,59366,13.09,864,113.16,,,yes,https://electricbillmath.com/utility/il/city-of-springfield/
+13208,IL,City of Naperville,Naperville Electric Utility,Municipal,utility,57225,14.61,769,112.32,,,yes,https://electricbillmath.com/utility/il/city-of-naperville/
+59647,IL,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,38135,17.02,661,112.45,,,no,
+4362,IL,Corn Belt Energy Corporation,Corn Belt Energy,Cooperative,utility,34952,15.59,949,147.98,,,yes,
+17697,IL,Southwestern Electric Coop Inc,Southwestern Electric Cooperative,Cooperative,utility,24414,15.37,1160,178.24,,,yes,
+17585,IL,"Southeastern IL Elec Coop, Inc",Southeastern IL Electric Cooperative,Cooperative,utility,22607,14.8,1222,180.79,,,yes,
+13292,IL,Norris Electric Coop,Norris Electric Cooperative,Cooperative,utility,18163,15.06,1178,177.38,,,yes,
+9750,IL,"Jo-Carroll Energy, Inc",Jo-Carroll Energy,Cooperative,utility,17278,20.49,727,148.91,,,yes,
+18955,IL,"Tri-County Electric Coop, Inc (IL)",Tri-County Electric Cooperative,Cooperative,utility,16203,16.18,1241,200.77,,,yes,
+17860,IL,City of St Charles,City of St Charles,Municipal,utility,14901,14.58,711,103.61,,,yes,
+5535,IL,Egyptian Electric Coop Assn,Egyptian Electric Cooperative Assn,Cooperative,utility,13695,16.21,1208,195.84,,,yes,
+20222,IL,Wayne-White Counties Elec Coop,Wayne-White Counties Electric Cooperative,Cooperative,utility,11792,16.39,1074,176,,,yes,
+5585,IL,Eastern Illinois Elec Coop,Eastern Illinois Electric Cooperative,Cooperative,utility,11001,17.68,1291,228.22,,,yes,
+66036,IL,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,10410,15.01,810,121.68,,,no,
+1325,IL,City of Batavia,City of Batavia,Municipal,utility,10072,14.04,747,104.92,,,yes,
+17040,IL,"Shelby Electric Coop, Inc",Shelby Electric Cooperative,Cooperative,utility,9882,21.54,1087,234.14,,,yes,
+16196,IL,Rock Energy Cooperative,Rock Energy Cooperative,Cooperative,utility,9421,14.86,762,113.26,,,yes,
+12395,IL,Menard Electric Coop,Menard Electric Cooperative,Cooperative,utility,9036,19.45,1022,198.69,,,yes,
+7096,IL,City of Geneva,City of Geneva,Municipal,utility,8675,11.68,770,89.89,,,yes,
+3931,IL,Coles-Moultrie Electric Coop,Coles-Moultrie Electric Cooperative,Cooperative,utility,8505,17.6,1170,205.96,,,yes,
+16179,IL,Rochelle Municipal Utilities,Rochelle Municipal Utilities,Municipal,utility,5993,13.12,639,83.82,,,yes,
+14840,IL,City of Peru,City of Peru,Municipal,utility,4793,12.48,673,84.03,,,yes,
+13032,IL,Mt Carmel Public Utility Co,Mt Carmel Public Utility,Investor Owned,utility,4337,19.68,898,176.7,,,yes,
+66026,IL,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,4103,13.65,662,90.4,,,no,
+16740,IL,Scenic Rivers Energy Coop,Scenic Rivers Energy Cooperative,Cooperative,utility,12,15.07,972,146.53,,,yes,
+57313,IL,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,4,10,500,50,,,no,
+15470,IN,"Duke Energy Indiana, LLC",Duke Energy Indiana,Investor Owned,utility,808572,14.98,992,148.57,,,yes,https://electricbillmath.com/utility/in/duke-energy-indiana-llc/
+9273,IN,AES Indiana,AES Indiana,Investor Owned,utility,469634,14.69,941,138.29,,,yes,https://electricbillmath.com/utility/in/aes-indiana/
+13756,IN,Northern Indiana Pub Serv Co,NIPSCO,Investor Owned,utility,433889,22.05,672,148.15,,,yes,https://electricbillmath.com/utility/in/northern-indiana-pub-serv-co/
+9324,IN,Indiana Michigan Power Co,Indiana Michigan Power,Investor Owned,utility,425007,17.16,853,146.33,,,yes,https://electricbillmath.com/utility/in/indiana-michigan-power-co/
+17633,IN,Southern Indiana Gas & Elec Co,CenterPoint Energy Indiana South (SIGECO),Investor Owned,utility,134700,19.78,895,176.99,,,yes,https://electricbillmath.com/utility/in/southern-indiana-gas-and-elec-co/
+8447,IN,Hendricks County Rural E M C,Hendricks County Rural EMC,Cooperative,utility,38554,13.68,1211,165.6,,,yes,
+12929,IN,South Central Indiana REMC,South Central Indiana REMC,Cooperative,utility,35216,17.54,1133,198.64,,,yes,
+20603,IN,Northeastern Rural E M C,Northeastern Rural EMC,Cooperative,utility,31034,15.43,1026,158.22,,,yes,
+636,IN,City of Anderson,City of Anderson,Municipal,utility,29600,12.67,852,108.01,,,yes,
+18940,IN,Tipmont Rural Elec Member Corp,Tipmont Rural EMC,Cooperative,utility,29540,16.37,996,162.98,,,yes,
+9778,IN,Johnson County Rural E M C,Johnson County Rural EMC,Cooperative,utility,29132,13.45,1121,150.79,,,yes,
+22822,IN,Clark County Rural E M C,Clark County Rural EMC,Cooperative,utility,27707,14.32,1247,178.56,,,yes,
+17599,IN,Southeastern Indiana R E M C,Southeastern Indiana R EMC,Cooperative,utility,26271,15.63,1206,188.48,,,yes,
+12674,IN,City of Mishawaka,City of Mishawaka,Municipal,utility,25180,12.38,613,75.86,,,yes,
+9576,IN,Jackson County Rural E M C,Jackson County Rural EMC,Cooperative,utility,24354,14.4,1344,193.51,,,yes,
+8179,IN,Harrison County Rural E M C,Harrison County Rural EMC,Cooperative,utility,23482,13.57,1333,180.88,,,yes,
+24753,IN,Boone County Rural EMC,Boone County Rural EMC,Cooperative,utility,19224,15.8,1255,198.37,,,yes,
+19667,IN,Utilities Dist-Western IN REMC,Utilities Dist-Western IN REMC,Cooperative,utility,19049,15.67,1125,176.29,,,yes,
+9999,IN,Kankakee Valley Rural E M C,Kankakee Valley Rural EMC,Cooperative,utility,19027,14.72,986,145.18,,,yes,
+8000,IN,NineStar Connect,NineStar Connect,Cooperative,utility,18751,16.5,1258,207.63,,,yes,
+59505,IN,Heartland REMC,Heartland REMC,Cooperative,utility,18144,14.51,1237,179.47,,,yes,
+10448,IN,Kosciusko County Rural E M C,Kosciusko County Rural EMC,Cooperative,utility,17473,13.1,929,121.72,,,yes,
+15989,IN,City of Richmond,City of Richmond,Municipal,utility,16253,12.4,961,119.17,,,yes,
+25295,IN,Western Indiana Energy REMC,Western Indiana Energy REMC,Cooperative,utility,15012,14.73,1231,181.32,,,yes,
+27599,IN,Carroll-White REMC,Carroll-White REMC,Cooperative,utility,14853,15.45,1106,170.91,,,yes,
+17038,IN,RushShelby Energy,RushShelby Energy,Cooperative,utility,14766,16.36,1204,196.99,,,yes,
+5394,IN,Dubois Rural Electric Coop Inc,Dubois Rural Electric Cooperative,Cooperative,utility,13484,13.92,1081,150.49,,,yes,
+20216,IN,Whitewater Valley Rural EMC,Whitewater Valley Rural EMC,Cooperative,utility,12035,15.39,1188,182.95,,,yes,
+7627,IN,City of Greenfield,City of Greenfield,Municipal,utility,12009,13.05,813,106.11,,,yes,
+11142,IN,City of Logansport,City of Logansport,Municipal,utility,11507,10.31,785,80.99,,,yes,
+1283,IN,Bartholomew County Rural E M C,Bartholomew County Rural EMC,Cooperative,utility,11493,14.53,1192,173.22,,,yes,
+13647,IN,Noble County R E M C,Noble County R EMC,Cooperative,utility,11036,13.36,1067,142.59,,,yes,
+18100,IN,Steuben County Rural E M C,Steuben County Rural EMC,Cooperative,utility,9193,14.05,879,123.39,,,yes,
+19445,IN,"Southern Indiana R E C, Inc",Southern Indiana R E C,Cooperative,utility,8957,15.47,1017,157.43,,,yes,
+14839,IN,City of Peru,City of Peru,Municipal,utility,8847,13.25,838,110.99,,,yes,
+4508,IN,"Crawfordsville Elec, Lgt & Pwr","Crawfordsville Electric, Lgt & Pwr",Municipal,utility,8685,12.83,850,109.12,,,yes,
+9613,IN,City of Lebanon,City of Lebanon,Municipal,utility,8328,11.82,817,96.62,,,yes,
+4960,IN,Decatur County Rural E M C,Decatur County Rural EMC,Cooperative,utility,8187,15.02,1224,183.87,,,yes,
+4848,IN,Daviess Martin County R E M C,Daviess Martin County R EMC,Cooperative,utility,8024,14.9,1296,193.08,,,yes,
+6707,IN,City of Frankfort,City of Frankfort,Municipal,utility,7857,11.35,830,94.24,,,yes,
+9665,IN,Jasper County Rural E M C,Jasper County Rural EMC,Cooperative,utility,7786,16.09,1138,183.01,,,yes,
+994,IN,City of Auburn,City of Auburn,Municipal,utility,6826,7.53,824,62.09,,,yes,
+9667,IN,City of Jasper,City of Jasper,Municipal,utility,6499,11.03,956,105.44,,,yes,
+1896,IN,City of Bluffton,City of Bluffton,Municipal,utility,5003,10.16,857,87.13,,,yes,
+14599,IN,"Paulding-Putman Elec Coop, Inc",Paulding-Putman Electric Cooperative,Cooperative,utility,3965,14.05,1153,162.04,,,yes,
+12377,IN,Midwest Energy Cooperative,Midwest Energy Cooperative,Cooperative,utility,320,18.52,1059,196.12,,,yes,
+22500,KS,"Evergy Kansas Central, Inc",Evergy Kansas Central,Investor Owned,utility,343712,14.56,850,123.78,,,yes,https://electricbillmath.com/utility/ks/evergy-kansas-central-inc/
+10005,KS,"Evergy Kansas South, Inc",Evergy Kansas South,Investor Owned,utility,305665,14.54,858,124.79,,,yes,https://electricbillmath.com/utility/ks/evergy-kansas-south-inc/
+10000,KS,Evergy Metro,Evergy Metro,Investor Owned,utility,247426,13.21,977,129,,,yes,https://electricbillmath.com/utility/ks/evergy-metro/
+9996,KS,City of Kansas City,Kansas City Board of Public Utilities (BPU),Municipal,utility,62103,14.93,803,119.94,,,yes,https://electricbillmath.com/utility/ks/city-of-kansas-city/
+12524,KS,Midwest Energy Inc,Midwest Energy,Cooperative,utility,29779,12.01,894,107.41,,,yes,
+20510,KS,"Wheatland Electric Coop, Inc",Wheatland Electric Cooperative,Cooperative,utility,20109,15.01,870,130.48,,,yes,
+10019,KS,FreeState Electric Coop,FreeState Electric Cooperative,Cooperative,utility,17654,17.84,1088,194.15,,,yes,
+19820,KS,Victory Electric Coop Assn Inc,Victory Electric Cooperative Assn,Cooperative,utility,14374,12.35,838,103.55,,,yes,
+13799,KS,Prairie Land Electric Coop Inc,Prairie Land Electric Cooperative,Cooperative,utility,13245,14.79,839,124.1,,,yes,
+60839,KS,Southern Pioneer Electric Company,Southern Pioneer Electric,Cooperative,utility,12608,16.43,757,124.33,,,yes,
+6941,KS,City of Garden City,City of Garden City,Municipal,utility,10458,16.51,680,112.19,,,yes,
+5860,KS,Empire District Electric Co,Liberty Utilities (Empire District Electric),Investor Owned,utility,8465,13.35,1064,141.95,,,yes,
+12208,KS,City of McPherson,City of McPherson,Municipal,utility,7462,9.51,1018,96.85,,,yes,
+20813,KS,City of Winfield,City of Winfield,Municipal,utility,6299,13.52,815,110.15,,,yes,
+20476,KS,Western Coop Electric Assn Inc,Western Coop Electric Association,Cooperative,utility,5800,14.56,873,127.03,,,yes,
+15073,KS,"Pioneer Electric Coop, Inc",Pioneer Electric Cooperative,Cooperative,utility,5038,11.85,1021,120.95,,,yes,
+3892,KS,City of Coffeyville,City of Coffeyville,Municipal,utility,4717,12.42,861,106.92,,,yes,
+3355,KS,City of Chanute (KS),City of Chanute,Municipal,utility,4553,14.56,780,113.57,,,yes,
+2774,KS,CMS Electric Coop Inc,CMS Electric Cooperative,Cooperative,utility,3221,21.72,662,143.7,,,yes,
+19160,KS,"Tri-County Electric Coop, Inc (OK)",Tri-County Electric Cooperative,Cooperative,utility,1110,16.34,615,100.5,,,yes,
+296,KS,"Alfalfa Electric Coop, Inc",Alfalfa Electric Cooperative,Cooperative,utility,203,11.03,1489,164.2,,,yes,
+66026,KS,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,77,16.27,1278,207.9,,,no,
+10171,KY,Kentucky Utilities Co,Kentucky Utilities,Investor Owned,utility,454021,11.9,1164,138.47,,,yes,https://electricbillmath.com/utility/ky/kentucky-utilities-co/
+11249,KY,Louisville Gas & Electric Co,Louisville Gas and Electric (LG&E),Investor Owned,utility,388146,12.42,937,116.37,,,yes,https://electricbillmath.com/utility/ky/louisville-gas-and-electric-co/
+19446,KY,Duke Energy Kentucky,Duke Energy Kentucky,Investor Owned,utility,140950,13.86,926,128.35,,,yes,https://electricbillmath.com/utility/ky/duke-energy-kentucky/
+22053,KY,Kentucky Power Co,Kentucky Power,Investor Owned,utility,130322,15.95,1235,196.99,,,yes,https://electricbillmath.com/utility/ky/kentucky-power-co/
+17564,KY,South Kentucky Rural E C C,South Kentucky RECC,Cooperative,utility,65346,13.55,1058,143.35,,,yes,https://electricbillmath.com/utility/ky/south-kentucky-rural-e-c-c/
+14251,KY,Owen Electric Coop Inc,Owen Electric Cooperative,Cooperative,utility,65069,12.59,1149,144.68,,,yes,https://electricbillmath.com/utility/ky/owen-electric-coop-inc/
+1886,KY,Blue Grass Energy Coop Corp,Blue Grass Energy Cooperative,Cooperative,utility,61870,12.61,1244,156.88,,,yes,https://electricbillmath.com/utility/ky/blue-grass-energy-coop-corp/
+20130,KY,Warren Rural Elec Coop Corp,Warren Rural Electric Cooperative,Cooperative,utility,61500,12.67,1319,167.1,,,yes,https://electricbillmath.com/utility/ky/warren-rural-elec-coop-corp/
+16587,KY,Salt River Electric Coop Corp,Salt River Electric Cooperative,Cooperative,utility,54002,10.94,1258,137.72,,,yes,https://electricbillmath.com/utility/ky/salt-river-electric-coop-corp/
+9575,KY,Jackson Energy Coop Corp,Jackson Energy Cooperative,Cooperative,utility,49590,14.76,1184,174.77,,,yes,
+9964,KY,Kenergy Corp,Kenergy,Cooperative,utility,47514,16.29,1229,200.19,,,yes,
+14724,KY,Pennyrile Rural Electric Coop,Pennyrile Rural Electric Cooperative,Cooperative,utility,40704,13.86,1243,172.34,,,yes,
+13651,KY,Nolin Rural Electric Coop Corp,Nolin Rural Electric Cooperative,Cooperative,utility,36631,12.78,1151,147.19,,,yes,
+20377,KY,West Kentucky Rural E C C,West Kentucky Rural E C C,Cooperative,utility,32248,14.17,1210,171.47,,,yes,
+12243,KY,Meade County Rural E C C,Meade County Rural E C C,Cooperative,utility,29572,15.26,1034,157.74,,,yes,
+2056,KY,City of Bowling Green,City of Bowling Green,Municipal,utility,27433,12.15,905,109.97,,,yes,
+9292,KY,Inter County Energy Coop Corp,Inter County Energy Cooperative,Cooperative,utility,26993,13.7,1156,158.35,,,yes,
+3687,KY,Clark Energy Coop Inc,Clark Energy Cooperative,Cooperative,utility,26315,13.35,1120,149.57,,,yes,
+6194,KY,Farmers Rural Electric Coop Corp,Farmers Rural Electric Cooperative,Cooperative,utility,25109,13.04,1095,142.77,,,yes,
+18498,KY,Taylor County Rural E C C,Taylor County Rural E C C,Cooperative,utility,24888,13.38,1074,143.62,,,yes,
+9605,KY,Jackson Purchase Energy Corporation,Jackson Purchase Energy,Cooperative,utility,23989,17.66,1214,214.41,,,yes,
+6442,KY,Fleming-Mason Energy Coop Inc,Fleming-Mason Energy Cooperative,Cooperative,utility,23845,13.03,1079,140.48,,,yes,
+14268,KY,City of Owensboro,City of Owensboro,Municipal,utility,23316,13.4,800,107.23,,,yes,
+4622,KY,"Cumberland Valley Electric, Inc.",Cumberland Valley Electric,Cooperative,utility,22506,13.11,1129,147.98,,,yes,
+19162,KY,Tri-County Elec Member Corp (TN),Tri-County EMC,Cooperative,utility,20632,13.13,1198,157.3,,,yes,
+14371,KY,City of Paducah,City of Paducah,Municipal,utility,18967,15.35,906,139.07,,,yes,
+6708,KY,City of Frankfort,City of Frankfort,Municipal,utility,17258,11.11,1046,116.13,,,yes,
+17044,KY,"Shelby Energy Coop, Inc",Shelby Energy Cooperative,Cooperative,utility,17245,13.95,1275,177.81,,,yes,
+11011,KY,Licking Valley Rural E C C,Licking Valley Rural E C C,Cooperative,utility,16861,15.21,953,145,,,yes,
+7558,KY,Grayson Rural Electric Coop Corp,Grayson Rural Electric Cooperative,Cooperative,utility,14471,15.99,1008,161.18,,,yes,
+1708,KY,Big Sandy Rural Elec Coop Corp,Big Sandy Rural Electric Cooperative,Cooperative,utility,11521,14.81,1151,170.41,,,yes,
+8449,KY,Henderson City Utility Comm,Henderson City Utility Comm,Municipal,utility,10505,10.9,972,105.97,,,yes,
+8846,KY,City of Hopkinsville,City of Hopkinsville,Municipal,utility,9760,13.27,1019,135.18,,,yes,
+11488,KY,Madisonville Municipal Utils,Madisonville Municipal Utils,Municipal,utility,6923,11.92,920,109.66,,,yes,
+13138,KY,City of Murray,City of Murray,Municipal,utility,6187,14.27,891,127.2,,,yes,
+7270,KY,City of Glasgow,City of Glasgow,Municipal,utility,5675,13.96,988,137.93,,,yes,
+49998,KY,City of Berea Municipal Utility,City of Berea Municipal Utility,Municipal,utility,4698,9.52,1088,103.56,,,yes,
+6718,KY,City of Franklin,City of Franklin,Municipal,utility,4621,13.42,1042,139.85,,,yes,
+11871,KY,City of Mayfield Plant Board,City of Mayfield Plant Board,Municipal,utility,4351,13.87,916,126.98,,,yes,
+16459,KY,City of Russellville,City of Russellville,Municipal,utility,3098,12.61,1026,129.33,,,yes,
+7174,KY,Gibson Electric Members Corp,Gibson Electric Members,Cooperative,utility,2531,14.04,1210,169.83,,,yes,
+1582,KY,City of Benton,City of Benton,Municipal,utility,1891,14.95,1076,160.89,,,yes,
+9697,KY,City of Jellico,City of Jellico,Municipal,utility,1755,14.1,1117,157.5,,,yes,
+6840,KY,City of Fulton,City of Fulton,Municipal,utility,1195,14.11,986,139.12,,,yes,
+8548,KY,City of Hickman,City of Hickman,Municipal,utility,813,14.99,978,146.68,,,yes,
+11241,LA,Entergy Louisiana LLC,Entergy Louisiana,Investor Owned,utility,961871,11.9,1233,146.76,,,yes,https://electricbillmath.com/utility/la/entergy-louisiana-llc/
+3265,LA,Cleco Power LLC,Cleco Power,Investor Owned,utility,252816,14.26,1245,177.57,,,yes,https://electricbillmath.com/utility/la/cleco-power-llc/
+17698,LA,Southwestern Electric Power Co,SWEPCO (Southwestern Electric Power),Investor Owned,utility,206984,13.85,1175,162.77,,,yes,https://electricbillmath.com/utility/la/southwestern-electric-power-co/
+13478,LA,"Entergy New Orleans, LLC",Entergy New Orleans,Investor Owned,utility,188385,13.2,1047,138.23,,,yes,https://electricbillmath.com/utility/la/entergy-new-orleans-llc/
+5202,LA,Dixie Electric Membership Corp,Dixie EMC,Cooperative,utility,111329,13.53,1331,180.07,,,yes,https://electricbillmath.com/utility/la/dixie-electric-membership-corp/
+17684,LA,Southwest Louisiana E M C,SLEMCO (Southwest Louisiana EMC),Cooperative,utility,109628,11.57,1404,162.4,,,yes,https://electricbillmath.com/utility/la/southwest-louisiana-e-m-c/
+9096,LA,City of Lafayette,Lafayette Utilities System (LUS),Municipal,utility,60634,11.51,1208,138.97,,,yes,https://electricbillmath.com/utility/la/city-of-lafayette/
+21567,LA,"Washington-St Tammany E C, Inc",Washington-St. Tammany Electric Cooperative,Cooperative,utility,51187,11.04,1323,146.02,,,yes,https://electricbillmath.com/utility/la/washington-st-tammany-e-c-inc/
+1458,LA,"Beauregard Electric Coop, Inc",Beauregard Electric Cooperative,Cooperative,utility,40452,13.14,1280,168.18,,,yes,
+3641,LA,"Claiborne Electric Coop, Inc",Claiborne Electric Cooperative,Cooperative,utility,21354,13.32,1150,153.16,,,yes,
+298,LA,City of Alexandria,City of Alexandria,Municipal,utility,19425,11.05,1193,131.78,,,yes,
+17565,LA,South Louisiana Elec Coop Assn,South Louisiana Electric Cooperative Assn,Cooperative,utility,17335,12.25,1263,154.65,,,yes,
+4153,LA,"Concordia Electric Coop, Inc",Concordia Electric Cooperative,Cooperative,utility,11832,13.15,977,128.42,,,yes,
+13783,LA,Northeast Louisiana Power Coop Inc.,Northeast Louisiana Power Coop,Cooperative,utility,11593,11.2,1422,159.19,,,yes,
+8884,LA,Terrebonne Parish Consol Gov't,Terrebonne Parish Consol Gov't,Municipal,utility,11403,10.73,1278,137.09,,,yes,
+16463,LA,City of Ruston,City of Ruston,Municipal,utility,10021,5.62,936,52.56,,,yes,
+9682,LA,"Jefferson Davis Elec Coop, Inc",Jefferson Davis Electric Cooperative,Cooperative,utility,9366,14.8,1235,182.77,,,yes,
+14424,LA,"Panola-Harrison Elec Coop, Inc",Panola-Harrison Electric Cooperative,Cooperative,utility,8485,9.92,1295,128.44,,,yes,
+15175,LA,Pointe Coupee Elec Member Corp,Pointe Coupee EMC,Cooperative,utility,8254,14.78,1203,177.74,,,yes,
+13228,LA,City of Natchitoches,City of Natchitoches,Municipal,utility,7196,10.63,1054,111.98,,,yes,
+59943,LA,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,88,7.7,515,39.68,,,no,
+11804,MA,Massachusetts Electric Co,National Grid Massachusetts,Investor Owned,utility,438150,33.66,487,163.79,793715,18.73,yes,https://electricbillmath.com/utility/ma/massachusetts-electric-co/
+54913,MA,NSTAR Electric Company,Eversource Massachusetts (NSTAR Electric),Investor Owned,utility,306795,21.49,474,101.86,968061,20.06,yes,https://electricbillmath.com/utility/ma/nstar-electric-company/
+59647,MA,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,65770,28.97,558,161.71,,,no,
+18488,MA,City of Taunton,City of Taunton,Municipal,utility,34952,18.81,693,130.41,,,yes,
+15748,MA,Town of Reading,Town of Reading,Municipal,utility,26573,19.95,826,164.67,,,yes,
+3477,MA,City of Chicopee,City of Chicopee,Municipal,utility,23231,16.21,726,117.66,,,yes,
+14605,MA,City of Peabody,City of Peabody,Municipal,utility,22697,16.88,716,120.87,,,yes,
+57313,MA,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,19076,16.71,541,90.44,,,no,
+20481,MA,City of Westfield,City of Westfield,Municipal,utility,16386,18.46,678,125.17,,,yes,
+17127,MA,Town of Shrewsbury,Town of Shrewsbury,Municipal,utility,15206,15.53,770,119.61,,,yes,
+8774,MA,City of Holyoke,City of Holyoke,Municipal,utility,15155,16.36,619,101.23,,,yes,
+12473,MA,Town of Middleborough,Town of Middleborough,Municipal,utility,14978,15.59,795,124,,,yes,
+2144,MA,Town of Braintree,Town of Braintree,Municipal,utility,14090,16.17,721,116.58,,,yes,
+13839,MA,City of Norwood,City of Norwood,Municipal,utility,13617,17.61,558,98.36,,,yes,
+13679,MA,Town of North Attleborough,Town of North Attleborough,Municipal,utility,12650,15.87,781,123.99,,,yes,
+5480,MA,Town of Danvers,Town of Danvers,Municipal,utility,11677,16.55,701,115.98,,,yes,
+8973,MA,Town of Hudson,Town of Hudson,Municipal,utility,11582,13.14,779,102.38,,,yes,
+11586,MA,Town of Mansfield,Town of Mansfield,Municipal,utility,9406,15.04,737,110.9,,,yes,
+20310,MA,Town of Wellesley,Town of Wellesley,Municipal,utility,9338,16.04,1013,162.43,,,yes,
+11085,MA,Town of Littleton,Town of Littleton,Municipal,utility,6762,14.17,894,126.69,,,yes,
+6374,MA,Fitchburg Gas & Elec Light Co,Fitchburg Gas & Electric Light,Investor Owned,utility,3657,36.24,453,164.23,22752,21.5,yes,
+59943,MA,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,3391,15.3,549,83.98,,,no,
+66036,MA,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,3340,26.26,638,167.46,,,no,
+13206,MA,Nantucket Electric Co,Nantucket Electric,Investor Owned,utility,2215,35.91,822,295.26,10751,20.75,yes,
+59580,MA,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,1432,22.01,622,136.91,,,no,
+66026,MA,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,1255,29.7,696,206.79,,,no,
+1167,MD,Baltimore Gas & Electric Co,Baltimore Gas and Electric (BGE),Investor Owned,utility,1143710,20.19,878,177.19,76934,7.4,yes,https://electricbillmath.com/utility/md/baltimore-gas-and-electric-co/
+15270,MD,Potomac Electric Power Co,Pepco,Investor Owned,utility,531090,21.74,835,181.58,27719,9.21,yes,https://electricbillmath.com/utility/md/potomac-electric-power-co/
+15263,MD,The Potomac Edison Company,Potomac Edison,Investor Owned,utility,252583,15.44,1114,172.04,5940,4.08,yes,https://electricbillmath.com/utility/md/the-potomac-edison-company/
+5027,MD,Delmarva Power,Delmarva Power,Investor Owned,utility,181839,21.81,981,214.05,5975,9.06,yes,https://electricbillmath.com/utility/md/delmarva-power/
+17637,MD,Southern Maryland Elec Coop Inc,Southern Maryland Electric Cooperative,Cooperative,utility,162860,16.43,1171,192.34,591,6.17,yes,https://electricbillmath.com/utility/md/southern-maryland-elec-coop-inc/
+3503,MD,"Choptank Electric Cooperative, Inc",Choptank Electric Cooperative,Cooperative,utility,50981,17.11,1169,199.93,,,yes,https://electricbillmath.com/utility/md/choptank-electric-cooperative-inc/
+57313,MD,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,26777,16.1,623,100.36,,,no,
+59647,MD,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,25906,19.5,556,108.44,,,no,
+7908,MD,Hagerstown Light Department,Hagerstown Light Department,Municipal,utility,14878,11.23,947,106.41,,,yes,
+5625,MD,Easton Utilities Comm,Easton Utilities Comm,Municipal,utility,8884,15.18,1046,158.76,,,yes,
+66036,MD,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,861,17.37,855,148.5,,,no,
+66026,MD,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,819,19.75,445,87.9,,,no,
+59943,MD,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,577,12.59,674,84.84,,,no,
+84,MD,A & N Electric Coop,A & N Electric Cooperative,Cooperative,utility,226,14.54,858,124.82,,,yes,
+3266,ME,Central Maine Power Co,Central Maine Power,Investor Owned,utility,537632,27.41,538,147.32,46830,17.11,yes,https://electricbillmath.com/utility/me/central-maine-power-co/
+1179,ME,Versant Power,Versant Power,Investor Owned,utility,131540,30.15,496,149.54,6299,19.27,yes,https://electricbillmath.com/utility/me/versant-power/
+5609,ME,Eastern Maine Electric Coop,Eastern Maine Electric Cooperative,Cooperative,utility,10808,19.36,520,100.74,,,yes,
+10144,ME,Kennebunk Light & Power Dist,Kennebunk Light & Power Dist,Municipal,utility,6723,13.46,764,102.75,,,yes,
+8883,ME,Houlton Water Company,Houlton Water,Municipal,utility,3907,14.16,772,109.33,,,yes,
+11477,ME,Town of Madison,Town of Madison,Municipal,utility,2447,15.01,710,106.49,,,yes,
+66036,ME,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,1670,24.59,615,151.32,,,no,
+59622,ME,"Ahana Renewables, LLC",Ahana Renewables,Behind the Meter,behind_the_meter_solar,882,17.08,626,107.01,,,no,
+66026,ME,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,63,27.67,987,273.02,,,no,
+59647,ME,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,23,16.86,1837,309.78,,,no,
+5109,MI,DTE Electric Company,DTE Electric,Investor Owned,utility,2078315,20.25,623,126.06,13,10.45,yes,https://electricbillmath.com/utility/mi/dte-electric-company/
+4254,MI,Consumers Energy Co,Consumers Energy,Investor Owned,utility,1662741,20.66,649,134.01,,,yes,https://electricbillmath.com/utility/mi/consumers-energy-co/
+38084,MI,Great Lakes Energy Coop,Great Lakes Energy Cooperative,Cooperative,utility,123277,20.32,632,128.38,,,yes,https://electricbillmath.com/utility/mi/great-lakes-energy-coop/
+9324,MI,Indiana Michigan Power Co,Indiana Michigan Power,Investor Owned,utility,112973,17.19,830,142.67,,,yes,https://electricbillmath.com/utility/mi/indiana-michigan-power-co/
+10704,MI,City of Lansing,Lansing Board of Water & Light (BWL),Municipal,utility,87026,19.44,537,104.44,,,yes,https://electricbillmath.com/utility/mi/city-of-lansing/
+19578,MI,Upper Peninsula Power Company,Upper Peninsula Power,Investor Owned,utility,47805,27.98,447,124.96,,,yes,
+3828,MI,Cloverland Electric Co-op,Cloverland Electric Co-op,Cooperative,utility,36144,14.27,705,100.59,,,yes,
+3436,MI,Cherryland Electric Coop Inc,Cherryland Electric Cooperative,Cooperative,utility,35548,17.29,706,122.18,,,yes,
+60631,MI,Upper Michigan Energy Resources Corp.,Upper Michigan Energy Resources,Investor Owned,utility,33339,17.46,578,100.95,,,yes,
+15340,MI,Presque Isle Elec & Gas Coop,Presque Isle Electric & Gas Coop,Cooperative,utility,32519,23.93,448,107.17,,,yes,
+12377,MI,Midwest Energy Cooperative,Midwest Energy Cooperative,Cooperative,utility,29359,19.49,970,189.09,,,yes,
+8723,MI,City of Holland,City of Holland,Municipal,utility,27007,11.43,613,70.06,,,yes,
+19396,MI,Tri-County Electric Coop (MI),Tri-County Electric Cooperative,Cooperative,utility,23136,18.33,830,152.12,,,yes,
+1366,MI,City of Bay City,City of Bay City,Municipal,utility,17994,15.34,598,91.64,,,yes,
+11701,MI,City of Marquette,City of Marquette,Municipal,utility,15202,16.77,527,88.45,,,yes,
+392,MI,Alpena Power Co,Alpena Power,Investor Owned,utility,13754,18.66,533,99.55,,,yes,
+7483,MI,City of Grand Haven,City of Grand Haven,Municipal,utility,13290,15.12,581,87.83,,,yes,
+21048,MI,Wyandotte Municipal Serv Comm,Wyandotte Municipal Serv Comm,Municipal,utility,11746,16.95,556,94.24,,,yes,
+19125,MI,City of Traverse City,City of Traverse City,Municipal,utility,10097,13.42,525,70.51,,,yes,
+305,MI,Alger-Delta Coop Electric Assn,Alger-Delta Coop Electric Association,Cooperative,utility,9837,23.2,465,107.99,,,yes,
+13780,MI,Northern States Power Co,Northern States Power,Investor Owned,utility,7567,15.48,601,92.96,,,yes,
+3915,MI,Coldwater Board of Public Util,Coldwater Board of Public Util,Municipal,utility,6420,15.61,597,93.16,,,yes,
+18252,MI,City of Sturgis,City of Sturgis,Municipal,utility,6112,16.03,674,108.02,,,yes,
+21158,MI,City of Zeeland,City of Zeeland,Municipal,utility,6058,9.98,686,68.51,,,yes,
+7265,MI,City of Gladstone,City of Gladstone,Municipal,utility,2546,16.88,545,91.92,,,yes,
+13352,MI,City of Negaunee,City of Negaunee,Municipal,utility,1982,20.6,482,99.34,,,yes,
+13826,MI,City of Norway,City of Norway,Municipal,utility,1878,18.47,596,110.2,,,yes,
+4604,MI,City of Crystal Falls,City of Crystal Falls,Municipal,utility,1462,19.19,435,83.52,,,yes,
+10508,MI,Village of L'Anse,Village of L'Anse,Municipal,utility,1342,18.18,304,55.27,,,yes,
+1196,MI,Village of Baraga,Village of Baraga,Municipal,utility,557,16.34,458,74.87,,,yes,
+66026,MI,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,524,19.91,354,70.58,,,no,
+13781,MN,Northern States Power Co - Minnesota,Xcel Energy (Northern States Power),Investor Owned,utility,1243236,17.07,615,104.99,,,yes,https://electricbillmath.com/utility/mn/northern-states-power-co-minnesota/
+689,MN,Connexus Energy,Connexus Energy,Cooperative,utility,136082,14.11,802,113.11,,,yes,https://electricbillmath.com/utility/mn/connexus-energy/
+12647,MN,"ALLETE, Inc.",Minnesota Power (ALLETE),Investor Owned,utility,126520,15.86,673,106.8,,,yes,https://electricbillmath.com/utility/mn/allete-inc/
+25177,MN,Dakota Electric Association,Dakota Electric Association,Cooperative,utility,109148,15.63,745,116.41,,,yes,https://electricbillmath.com/utility/mn/dakota-electric-association/
+5574,MN,East Central Energy,East Central Energy,Cooperative,utility,55839,17.63,857,151.16,,,yes,https://electricbillmath.com/utility/mn/east-central-energy/
+16181,MN,Rochester Public Utilities,Rochester Public Utilities,Municipal,utility,55728,18.58,581,107.89,,,yes,https://electricbillmath.com/utility/mn/rochester-public-utilities/
+20996,MN,Wright-Hennepin Coop Elec Assn,Wright-Hennepin Cooperative Electric Association,Cooperative,utility,54582,15,936,140.42,,,yes,https://electricbillmath.com/utility/mn/wright-hennepin-coop-elec-assn/
+14232,MN,Otter Tail Power Co,Otter Tail Power,Investor Owned,utility,50219,11.27,904,101.91,,,yes,https://electricbillmath.com/utility/mn/otter-tail-power-co/
+10697,MN,Lake Country Power,Lake Country Power,Cooperative,utility,47386,18.34,873,160.13,,,yes,
+4577,MN,Crow Wing Cooperative Power & Light Comp,Crow Wing Cooperative Power & Light Comp,Cooperative,utility,45155,14.3,862,123.31,,,yes,
+12651,MN,Minnesota Valley Electric Coop,Minnesota Valley Electric Cooperative,Cooperative,utility,43682,14.39,1012,145.67,,,yes,
+10618,MN,Lake Region Electric Cooperative,Lake Region Electric Cooperative,Cooperative,utility,27496,13.6,1052,143.05,,,yes,
+18019,MN,Stearns Cooperative Elec Assn,Stearns Cooperative Electric Association,Cooperative,utility,26275,14.07,1261,177.36,,,yes,
+14468,MN,People's Cooperative Services,People's Cooperative Services,Cooperative,utility,21741,17.19,919,157.98,,,yes,
+1529,MN,"Beltrami Electric Coop, Inc",Beltrami Electric Cooperative,Cooperative,utility,20929,15.47,1157,179.05,,,yes,
+16971,MN,Shakopee Public Utilities Comm,Shakopee Public Utilities Comm,Municipal,utility,18970,15.91,664,105.55,,,yes,
+12894,MN,City of Moorhead,City of Moorhead,Municipal,utility,18556,11.52,844,97.26,,,yes,
+1884,MN,BENCO Electric Cooperative,BENCO Electric Cooperative,Cooperative,utility,18500,16.14,978,157.87,,,yes,
+6782,MN,Freeborn Mower Electric Cooperative,Freeborn Mower Electric Cooperative,Cooperative,utility,17664,15.28,893,136.36,,,yes,
+19157,MN,MiEnergy Cooperative,MiEnergy Cooperative,Cooperative,utility,15320,16.9,981,165.74,,,yes,
+12546,MN,Mille Lacs Energy Cooperative,Mille Lacs Energy Cooperative,Cooperative,utility,14603,17.5,743,129.96,,,yes,
+16368,MN,Runestone Electric Assn,Runestone Electric Association,Cooperative,utility,14349,14.75,1192,175.87,,,yes,
+20639,MN,"Wild Rice Electric Coop, Inc",Wild Rice Electric Cooperative,Cooperative,utility,14001,14.7,1237,181.79,,,yes,
+5773,MN,City of Elk River,City of Elk River,Municipal,utility,11935,16.27,761,123.77,,,yes,
+691,MN,City of Anoka,City of Anoka,Municipal,utility,11624,16.2,568,91.96,,,yes,
+14246,MN,City of Owatonna,City of Owatonna,Municipal,utility,11597,15.03,650,97.67,,,yes,
+9475,MN,Itasca-Mantrap Co-op Electrical Assn,Itasca-Mantrap Co-op Electrical Assn,Cooperative,utility,11412,13.11,969,126.98,,,yes,
+3400,MN,City of Chaska,City of Chaska,Municipal,utility,11194,16.75,670,112.27,,,yes,
+1009,MN,City of Austin,City of Austin,Municipal,utility,10820,15.35,625,95.86,,,yes,
+18047,MN,Steele-Waseca Cooperative Electric,Steele-Waseca Cooperative Electric,Cooperative,utility,10788,16.46,980,161.25,,,yes,
+295,MN,City of Alexandria,City of Alexandria,Municipal,utility,8871,11.99,759,91.04,,,yes,
+12227,MN,Meeker Coop Light & Power Assn,Meeker Coop Light & Power Association,Cooperative,utility,8593,14.03,1409,197.71,,,yes,
+20737,MN,Willmar Municipal Utilities (MN),Willmar Municipal Utilities,Municipal,utility,8521,13.77,676,93.07,,,yes,
+2138,MN,Brainerd Public Utilities,Brainerd Public Utilities,Municipal,utility,7014,12.1,662,80.11,,,yes,
+9130,MN,Hutchinson Utilities Comm,Hutchinson Utilities Comm,Municipal,utility,6731,11.02,706,77.85,,,yes,
+11731,MN,City of Marshall,City of Marshall,Municipal,utility,5864,9.85,894,88.09,,,yes,
+6258,MN,Federated Rural Electric Assn,Federated Rural Electric Association,Cooperative,utility,5733,12.81,1248,159.91,,,yes,
+40304,MN,Minnesota Valley Coop L&P Assn,Minnesota Valley Coop L&P Assn,Cooperative,utility,4946,13.23,2154,284.94,,,yes,
+21013,MN,City of Worthington,City of Worthington,Municipal,utility,4667,12.16,655,79.65,,,yes,
+17550,MN,South Central Electric Assn,South Central Electric Association,Cooperative,utility,4657,15.51,1396,216.54,,,yes,
+155,MN,Agralite Electric Coop,Agralite Electric Cooperative,Cooperative,utility,4348,13.74,1392,191.28,,,yes,
+17267,MN,Sioux Valley SW Elec Coop,Sioux Valley SW Electric Cooperative,Cooperative,utility,3371,13.54,2089,282.82,,,yes,
+7292,MN,Glencoe Light & Power Comm,Glencoe Light & Power Comm,Municipal,utility,2589,9.25,707,65.42,,,yes,
+10596,MN,City of Lake Crystal,City of Lake Crystal,Municipal,utility,1080,20.01,669,133.97,,,yes,
+13815,MN,Northwestern Wisconsin Elec Co,Northwestern Wisconsin Electric,Investor Owned,utility,51,14.74,500,73.69,,,yes,
+8319,MN,Heartland Power Coop,Heartland Power Coop,Cooperative,utility,38,12.76,2068,263.82,,,yes,
+19436,MO,Union Electric Co,Ameren Missouri,Investor Owned,utility,1100654,13.26,1032,136.92,,,yes,https://electricbillmath.com/utility/mo/union-electric-co/
+12698,MO,Evergy Missouri West,Evergy Missouri West,Investor Owned,utility,308573,12.1,996,120.51,,,yes,https://electricbillmath.com/utility/mo/evergy-missouri-west/
+10000,MO,Evergy Metro,Evergy Metro,Investor Owned,utility,276162,13.63,818,111.44,,,yes,https://electricbillmath.com/utility/mo/evergy-metro/
+5860,MO,Empire District Electric Co,Liberty Utilities (Empire District Electric),Investor Owned,utility,144059,14.77,1044,154.21,,,yes,https://electricbillmath.com/utility/mo/empire-district-electric-co/
+17833,MO,City Utilities of Springfield,City Utilities of Springfield,Municipal,utility,105859,11.65,866,100.8,,,yes,https://electricbillmath.com/utility/mo/city-utilities-of-springfield/
+4675,MO,Cuivre River Electric Coop Inc,Cuivre River Electric Cooperative,Cooperative,utility,74261,11.36,1318,149.77,,,yes,https://electricbillmath.com/utility/mo/cuivre-river-electric-coop-inc/
+9231,MO,City of Independence,Independence Power & Light,Municipal,utility,54199,16.54,811,134.11,,,yes,https://electricbillmath.com/utility/mo/city-of-independence/
+4045,MO,City of Columbia,City of Columbia,Municipal,utility,45899,15.5,800,124,,,yes,
+27238,MO,"Southwest Electric Coop, Inc",Southwest Electric Cooperative,Cooperative,utility,41670,12.33,1109,136.75,,,yes,
+20574,MO,White River Valley El Coop Inc,White River Valley El Coop,Cooperative,utility,39401,15.47,1061,164.07,,,yes,
+10603,MO,"Laclede Electric Coop, Inc",Laclede Electric Cooperative,Cooperative,utility,35275,12.39,1279,158.48,,,yes,
+2001,MO,Boone Electric Coop,Boone Electric Cooperative,Cooperative,utility,34098,13.57,1091,148.15,,,yes,
+14285,MO,Ozark Border Electric Coop,Ozark Border Electric Cooperative,Cooperative,utility,33262,12.28,1360,167.01,,,yes,
+14288,MO,Ozark Electric Coop Inc,Ozark Electric Cooperative,Cooperative,utility,31915,15.64,1152,180.11,,,yes,
+4063,MO,Co-Mo Electric Coop Inc,Co-Mo Electric Cooperative,Cooperative,utility,31352,14.93,1120,167.24,,,yes,
+9331,MO,Intercounty Electric Coop Assn,Intercounty Electric Cooperative Assn,Cooperative,utility,30009,13.03,1259,163.99,,,yes,
+3600,MO,Citizens Electric Corporation,Citizens Electric,Cooperative,utility,24997,15.24,1038,158.18,,,yes,
+15138,MO,"Platte-Clay Electric Coop, Inc",Platte-Clay Electric Cooperative,Cooperative,utility,23816,12.9,1333,171.95,,,yes,
+8934,MO,"Howell-Oregon Elec Coop, Inc",Howell-Oregon Electric Cooperative,Cooperative,utility,23203,13.12,1141,149.75,,,yes,
+16751,MO,Three Rivers Electric Coop,Three Rivers Electric Cooperative,Cooperative,utility,22757,13.03,1175,153.04,,,yes,
+1775,MO,Black River Electric Coop,Black River Electric Cooperative,Cooperative,utility,21606,13.61,1151,156.7,,,yes,
+4524,MO,"Crawford Electric Coop, Inc",Crawford Electric Cooperative,Cooperative,utility,19861,13.21,1151,152.12,,,yes,
+13520,MO,"New-Mac Electric Coop, Inc",New-Mac Electric Cooperative,Cooperative,utility,19527,13.44,1342,180.32,,,yes,
+20318,MO,Webster Electric Coop,Webster Electric Cooperative,Cooperative,utility,19050,10.35,1406,145.55,,,yes,
+14192,MO,Osage Valley Elec Coop Assn,Osage Valley Electric Cooperative Assn,Cooperative,utility,16710,14.8,1297,191.85,,,yes,
+20363,MO,West Central Electric Coop Inc,West Central Electric Cooperative,Cooperative,utility,15556,12.93,1473,190.48,,,yes,
+4160,MO,Callaway Electric Cooperative,Callaway Electric Cooperative,Cooperative,utility,12767,16.76,1209,202.63,,,yes,
+6181,MO,"Farmers Electric Coop, Inc",Farmers Electric Cooperative,Cooperative,utility,12497,13.64,1139,155.39,,,yes,
+3093,MO,Carroll Electric Coop Corp,Carroll Electric Cooperative,Cooperative,utility,12212,13.81,917,126.58,,,yes,
+3268,MO,Central Missouri Elec Coop Inc,Central Missouri Electric Cooperative,Cooperative,utility,11259,12.63,1434,181.14,,,yes,
+16805,MO,SEMO Electric Cooperative,SEMO Electric Cooperative,Cooperative,utility,10798,13.51,1389,187.72,,,yes,
+11463,MO,Macon Electric Coop,Macon Electric Cooperative,Cooperative,utility,10059,15.75,1056,166.33,,,yes,
+10370,MO,City of Kirkwood,City of Kirkwood,Municipal,utility,9522,14.49,891,129.12,,,yes,
+7024,MO,Gascosage Electric Coop,Gascosage Electric Cooperative,Cooperative,utility,9292,13.26,1273,168.81,,,yes,
+16259,MO,City of Rolla,City of Rolla,Municipal,utility,8097,11.1,1062,117.86,,,yes,
+15229,MO,City of Poplar Bluff,City of Poplar Bluff,Municipal,utility,7710,11.06,1290,142.65,,,yes,
+4237,MO,Consolidated Electric Coop,Consolidated Electric Cooperative,Cooperative,utility,7698,13.54,1326,179.53,,,yes,
+8055,MO,City of Hannibal,City of Hannibal,Municipal,utility,7673,14.03,871,122.24,,,yes,
+6205,MO,City of Farmington,City of Farmington,Municipal,utility,7396,14.59,892,130.15,,,yes,
+3113,MO,City of Carthage,City of Carthage,Municipal,utility,7234,14.28,931,132.95,,,yes,
+17177,MO,City of Sikeston,City of Sikeston,Municipal,utility,6928,9.84,1422,139.95,,,yes,
+10832,MO,City of Lebanon,City of Lebanon,Municipal,utility,6078,10.25,1127,115.58,,,yes,
+12700,MO,Missouri Rural Electric Coop,Missouri Rural Electric Cooperative,Cooperative,utility,5077,14.24,1134,161.51,,,yes,
+12782,MO,City of Monett,City of Monett,Municipal,utility,4174,12.86,968,124.43,,,yes,
+3712,MO,Clay County Electric Coop Corp,Clay County Electric Cooperative,Cooperative,utility,51,14.71,915,134.64,,,yes,
+66026,MO,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,3,34.29,194,66.67,,,no,
+12685,MS,Entergy Mississippi LLC,Entergy Mississippi,Investor Owned,utility,384493,13.86,1210,167.8,,,yes,https://electricbillmath.com/utility/ms/entergy-mississippi-llc/
+12686,MS,Mississippi Power Co,Mississippi Power,Investor Owned,utility,158206,15.69,1139,178.65,,,yes,https://electricbillmath.com/utility/ms/mississippi-power-co/
+3841,MS,Coast Electric Power Assn,Coast Electric Power Association,Cooperative,utility,84194,14.01,1232,172.66,,,yes,https://electricbillmath.com/utility/ms/coast-electric-power-assn/
+17252,MS,Singing River Elec Cooperative,Singing River Electric Cooperative,Cooperative,utility,73398,13.54,1212,164.11,,,yes,https://electricbillmath.com/utility/ms/singing-river-elec-cooperative/
+17647,MS,Southern Pine Electric Cooperative,Southern Pine Electric Cooperative,Cooperative,utility,65580,14.47,1165,168.66,,,yes,https://electricbillmath.com/utility/ms/southern-pine-electric-cooperative/
+14563,MS,Pearl River Valley El Pwr Assn,Pearl River Valley Electric Power Association,Cooperative,utility,52557,15.58,1199,186.86,,,yes,https://electricbillmath.com/utility/ms/pearl-river-valley-el-pwr-assn/
+6641,MS,4-County Electric Power Assn,4-County Electric Power Association,Cooperative,utility,41491,13.68,1209,165.43,,,yes,
+5175,MS,Dixie Electric Power Assn,Dixie Electric Power Association,Cooperative,utility,37963,13.9,1211,168.35,,,yes,
+19007,MS,Tombigbee Electric Power Assn,Tombigbee Electric Power Association,Cooperative,utility,37347,13.03,1281,167.01,,,yes,
+11519,MS,Magnolia Electric Power Assn,Magnolia Electric Power Association,Cooperative,utility,31161,16.06,1092,175.46,,,yes,
+2849,MS,Central Electric Power Assn,Central Electric Power Association,Cooperative,utility,31032,12.95,1273,164.78,,,yes,
+13735,MS,Northcentral Mississippi E P A,Northcentral Mississippi E P A,Cooperative,utility,29392,13.32,1424,189.73,,,yes,
+40302,MS,North East Mississippi EPA,North East Mississippi EPA,Cooperative,utility,26836,14.19,1161,164.69,,,yes,
+17683,MS,Southwest Mississippi E P A,Southwest Mississippi E P A,Cooperative,utility,23095,15.34,993,152.29,,,yes,
+18447,MS,Tallahatchie Valley E P A,Tallahatchie Valley E P A,Cooperative,utility,21509,12.95,1332,172.54,,,yes,
+22815,MS,Delta Electric Power Assn,Delta Electric Power Association,Cooperative,utility,21089,12.7,1020,129.54,,,yes,
+15211,MS,Pontotoc Electric Power Assn,Pontotoc Electric Power Association,Cooperative,utility,16453,13.77,1236,170.22,,,yes,
+276,MS,Alcorn County Elec Power Assn,Alcorn County Electric Power Association,Cooperative,utility,14987,13.48,1212,163.35,,,yes,
+18006,MS,City of Starkville,City of Starkville,Municipal,utility,12799,12.71,841,106.88,,,yes,
+13227,MS,Natchez Trace Elec Power Assn,Natchez Trace Electric Power Association,Cooperative,utility,12599,13.46,1140,153.49,,,yes,
+18951,MS,Tishomingo County E P A,Tishomingo County E P A,Cooperative,utility,10997,13.33,1126,150.11,,,yes,
+15334,MS,Prentiss County Elec Pwr Assn,Prentiss County Electric Pwr Assn,Cooperative,utility,10994,11.51,1191,137.15,,,yes,
+19273,MS,City of Tupelo,City of Tupelo,Municipal,utility,10646,11.8,1095,129.27,,,yes,
+18943,MS,Tippah Electric Power Assn,Tippah Electric Power Association,Cooperative,utility,10534,13.94,1145,159.61,,,yes,
+40303,MS,Monroe County Elec Power Assn,Monroe County Electric Power Association,Cooperative,utility,10247,13.15,1365,179.43,,,yes,
+5578,MS,East Mississippi Elec Pwr Assn,East Mississippi Electric Pwr Assn,Cooperative,utility,9883,14.94,1079,161.24,,,yes,
+21114,MS,Yazoo Valley Elec Power Assn,Yazoo Valley Electric Power Association,Cooperative,utility,9475,16.33,1081,176.53,,,yes,
+8748,MS,City of Holly Springs,City of Holly Springs,Municipal,utility,9398,12.56,1197,150.35,,,yes,
+4068,MS,City of Columbus,City of Columbus,Municipal,utility,8852,12.84,1121,143.94,,,yes,
+14275,MS,City of Oxford,City of Oxford,Municipal,utility,8620,12.23,915,111.96,,,yes,
+13412,MS,City of New Albany,City of New Albany,Municipal,utility,8170,13.24,1168,154.58,,,yes,
+7651,MS,Greenwood Utilities Comm,Greenwood Utilities Comm,Municipal,utility,7273,11.42,1097,125.35,,,yes,
+14078,MS,City of Okolona,City of Okolona,Municipal,utility,4288,13.84,1145,158.47,,,yes,
+20394,MS,City of West Point,City of West Point,Municipal,utility,2987,12.88,938,120.8,,,yes,
+571,MS,City of Amory,City of Amory,Municipal,utility,2836,12.31,1107,136.31,,,yes,
+14947,MS,City of Philadelphia,City of Philadelphia,Municipal,utility,2669,12.57,1155,145.15,,,yes,
+55,MS,City of Aberdeen,City of Aberdeen,Municipal,utility,2577,13.19,1034,136.33,,,yes,
+11247,MS,Louisville Electric System,Louisville Electric System,Municipal,utility,2447,11.5,1024,117.76,,,yes,
+20176,MS,City of Water Valley,City of Water Valley,Municipal,utility,1523,13.21,1097,145,,,yes,
+11458,MS,City of Macon,City of Macon,Municipal,utility,893,13.71,1036,142.12,,,yes,
+12825,MT,NorthWestern Energy LLC,NorthWestern Energy,Investor Owned,utility,333711,14.42,707,101.97,2,8,yes,https://electricbillmath.com/utility/mt/northwestern-energy-llc/
+6395,MT,Flathead Electric Coop Inc,Flathead Electric Cooperative,Cooperative,utility,64334,10.04,1184,118.87,,,yes,https://electricbillmath.com/utility/mt/flathead-electric-coop-inc/
+20997,MT,Yellowstone Valley Elec Co-op,Yellowstone Valley Electric Co-op,Cooperative,utility,21471,14.22,893,126.96,,,yes,
+12199,MT,Montana-Dakota Utilities Co,Montana-Dakota Utilities,Investor Owned,utility,19626,12.33,773,95.31,,,yes,
+19603,MT,USBIA-Mission Valley Power,USBIA-Mission Valley Power,Federal,utility,16353,9.39,1274,119.71,,,yes,
+12692,MT,"Missoula Electric Coop, Inc",Missoula Electric Cooperative,Cooperative,utility,14867,10.93,1068,116.71,,,yes,
+21513,MT,"Fergus Electric Coop, Inc",Fergus Electric Cooperative,Cooperative,utility,6855,15.91,896,142.55,,,yes,
+13758,MT,"Northern Lights, Inc",Northern Lights,Cooperative,utility,4700,13.06,905,118.17,,,yes,
+11272,MT,"Lower Yellowstone R E A, Inc",Lower Yellowstone R E A,Cooperative,utility,3247,9.2,1160,106.75,,,yes,
+6169,MT,Fall River Rural Elec Coop Inc,Fall River Rural Electric Cooperative,Cooperative,utility,1525,11.11,1102,122.46,,,yes,
+19156,MT,Powder River Energy Corp,Powder River Energy,Cooperative,utility,51,13.2,848,111.93,,,yes,
+12087,MT,McKenzie Electric Coop Inc,McKenzie Electric Cooperative,Cooperative,utility,25,8.93,1333,119,,,yes,
+19545,MT,"Black Hills Power, Inc.",Black Hills Power,Investor Owned,utility,13,6.99,788,55.13,,,yes,
+20169,MT,Avista Corp,Avista,Investor Owned,utility,10,8.67,1633,141.67,,,yes,
+5416,NC,"Duke Energy Carolinas, LLC",Duke Energy Carolinas,Investor Owned,utility,1961108,13.41,996,133.63,,,yes,https://electricbillmath.com/utility/nc/duke-energy-carolinas-llc/
+3046,NC,Duke Energy Progress,Duke Energy Progress,Investor Owned,utility,1383941,15.19,1046,158.9,,,yes,https://electricbillmath.com/utility/nc/duke-energy-progress/
+21632,NC,EnergyUnited Elec Member Corp,EnergyUnited EMC,Cooperative,utility,124446,11.61,1215,141.14,,,yes,https://electricbillmath.com/utility/nc/energyunited-elec-member-corp/
+19876,NC,Virginia Electric & Power Co,Dominion Energy North Carolina,Investor Owned,utility,109057,12.74,1285,163.67,,,yes,https://electricbillmath.com/utility/nc/virginia-electric-and-power-co/
+24889,NC,Brunswick Electric Member Corp,Brunswick EMC,Cooperative,utility,108087,13.34,1081,144.13,,,yes,https://electricbillmath.com/utility/nc/brunswick-electric-member-corp/
+19435,NC,Union Electric Membership Corp,Union EMC,Cooperative,utility,86852,13.92,1220,169.85,,,yes,https://electricbillmath.com/utility/nc/union-electric-membership-corp/
+9837,NC,Jones-Onslow Elec Member Corp,Jones-Onslow EMC,Cooperative,utility,81070,13.39,1131,151.43,,,yes,https://electricbillmath.com/utility/nc/jones-onslow-elec-member-corp/
+6235,NC,Fayetteville Public Works Commission,Fayetteville PWC,Municipal,utility,75618,12.14,1004,121.9,,,yes,https://electricbillmath.com/utility/nc/fayetteville-public-works-commission/
+1889,NC,Blue Ridge Elec Member Corp,Blue Ridge EMC,Cooperative,utility,72320,14.92,904,134.77,,,yes,https://electricbillmath.com/utility/nc/blue-ridge-elec-member-corp/
+16496,NC,Rutherford Elec Member Corp,Rutherford EMC,Cooperative,utility,72060,13.02,1144,148.99,,,yes,https://electricbillmath.com/utility/nc/rutherford-elec-member-corp/
+7639,NC,Greenville Utilities Comm,Greenville Utilities Commission (GUC),Municipal,utility,66779,12.68,1032,130.88,,,yes,https://electricbillmath.com/utility/nc/greenville-utilities-comm/
+11291,NC,Lumbee River Elec Member Corp,Lumbee River EMC,Cooperative,utility,65422,14.32,1352,193.67,,,yes,https://electricbillmath.com/utility/nc/lumbee-river-elec-member-corp/
+19981,NC,Wake Electric Membership Corp,Wake EMC,Cooperative,utility,56069,14.29,1122,160.31,,,yes,https://electricbillmath.com/utility/nc/wake-electric-membership-corp/
+17572,NC,South River Elec Member Corp,South River EMC,Cooperative,utility,46422,14.56,1305,189.98,,,yes,
+3107,NC,Carteret-Craven El Member Corp,Carteret-Craven EMC,Cooperative,utility,39424,12.46,1055,131.43,,,yes,
+8571,NC,Town of High Point,Town of High Point,Municipal,utility,38553,11.66,932,108.65,,,yes,
+6784,NC,French Broad Elec Member Corp,French Broad EMC,Cooperative,utility,36049,16.21,808,130.89,,,yes,
+20785,NC,City of Wilson,City of Wilson,Municipal,utility,32472,12.85,1115,143.25,,,yes,
+15671,NC,Randolph Electric Member Corp,Randolph EMC,Cooperative,utility,31531,16.15,1054,170.22,,,yes,
+6640,NC,Four County Elec Member Corp,Four County EMC,Cooperative,utility,31222,15.1,1279,193.13,,,yes,
+15023,NC,Piedmont Electric Member Corp,Piedmont EMC,Cooperative,utility,30640,15.63,1189,185.81,,,yes,
+8333,NC,Haywood Electric Member Corp,Haywood EMC,Cooperative,utility,30307,16.86,823,138.66,,,yes,
+4150,NC,City of Concord,City of Concord,Municipal,utility,30029,11.57,1034,119.65,,,yes,
+719,NC,Town of Apex,Town of Apex,Municipal,utility,29754,16.72,762,127.38,,,yes,
+18339,NC,Surry-Yadkin Elec Member Corp,Surry-Yadkin EMC,Cooperative,utility,28296,17.53,1059,185.65,,,yes,
+7027,NC,City of Gastonia,City of Gastonia,Municipal,utility,27524,12.34,902,111.39,,,yes,
+16226,NC,City of Rocky Mount,City of Rocky Mount,Municipal,utility,24395,13.16,1095,144.16,,,yes,
+18957,NC,Tri-County Elec Member Corp (NC),Tri-County EMC,Cooperative,utility,22887,13.29,1297,172.37,,,yes,
+19108,NC,Tideland Electric Member Corp,Tideland EMC,Cooperative,utility,21906,16.41,979,160.61,,,yes,
+13416,NC,City of New Bern,City of New Bern,Municipal,utility,21545,14.76,1054,155.54,,,yes,
+3250,NC,Central Electric Membership Corp.,Central EMC,Cooperative,utility,20677,15.37,1434,220.28,,,yes,
+14717,NC,Pee Dee Electric Member Corp,Pee Dee EMC,Cooperative,utility,19435,15.58,1177,183.35,,,yes,
+10966,NC,City of Lexington,City of Lexington,Municipal,utility,18282,11.62,1125,130.71,,,yes,
+1891,NC,Blue Ridge Mountain EMC,Blue Ridge Mountain EMC,Cooperative,utility,16040,14.78,958,141.61,,,yes,
+13027,NC,"Mountain Electric Coop, Inc",Mountain Electric Cooperative,Cooperative,utility,15494,13.17,980,129.09,,,yes,
+240,NC,Albemarle Electric Member Corp,Albemarle EMC,Cooperative,utility,12810,15.15,1307,197.94,,,yes,
+18022,NC,City of Statesville,City of Statesville,Municipal,utility,12442,11.5,912,104.84,,,yes,
+16101,NC,Roanoke Electric Member Corp,Roanoke EMC,Cooperative,utility,12045,20.7,1176,243.38,,,yes,
+20142,NC,City of Washington,City of Washington,Municipal,utility,11572,12.98,1037,134.62,,,yes,
+5760,NC,City of Elizabeth City,City of Elizabeth City,Municipal,utility,11554,12.03,1144,137.66,,,yes,
+12801,NC,City of Monroe,City of Monroe,Municipal,utility,11313,11.72,969,113.58,,,yes,
+232,NC,City of Albemarle,City of Albemarle,Municipal,utility,11302,11.27,1100,124.04,,,yes,
+5656,NC,Edgecombe-Martin County E M C,Edgecombe-Martin County EMC,Cooperative,utility,10810,16.51,1182,195.23,,,yes,
+10345,NC,City of Kinston,City of Kinston,Municipal,utility,10040,12.96,1100,142.47,,,yes,
+11318,NC,City of Lumberton,City of Lumberton,Municipal,utility,9938,13.86,824,114.14,,,yes,
+9087,NC,Town of Huntersville,Town of Huntersville,Municipal,utility,8617,12.57,894,112.33,,,yes,
+13482,NC,New River Light & Power Co,New River Light & Power,State,utility,7318,12.06,735,88.63,,,yes,
+12944,NC,City of Morganton,City of Morganton,Municipal,utility,7066,11.59,895,103.76,,,yes,
+18466,NC,Town of Tarboro,Town of Tarboro,Municipal,utility,5520,13.93,971,135.25,,,yes,
+40441,NC,Town of Murphy,Town of Murphy,Municipal,utility,3725,13.39,1096,146.8,,,yes,
+19154,NC,Tri-State Electric Member Corp,Tri-State EMC,Cooperative,utility,1581,15.56,847,131.88,,,yes,
+2212,NC,"Broad River Electric Coop, Inc",Broad River Electric Cooperative,Cooperative,utility,490,16.65,1132,188.5,,,yes,
+66026,NC,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,178,19.04,988,188.2,,,no,
+12260,NC,Mecklenburg Electric Cooperative,Mecklenburg Electric Cooperative,Cooperative,utility,138,13.9,1153,160.27,,,yes,
+21002,NC,York Electric Coop Inc,York Electric Cooperative,Cooperative,utility,16,12.9,1453,187.5,,,yes,
+13781,ND,Northern States Power Co - Minnesota,Xcel Energy (Northern States Power),Investor Owned,utility,83434,13.54,767,103.92,,,yes,https://electricbillmath.com/utility/nd/northern-states-power-co-minnesota/
+12199,ND,Montana-Dakota Utilities Co,Montana-Dakota Utilities,Investor Owned,utility,79711,11.06,828,91.6,,,yes,https://electricbillmath.com/utility/nd/montana-dakota-utilities-co/
+24949,ND,Cass County Elec Coop Inc,Cass County Electric Cooperative,Cooperative,utility,52785,12.66,1034,130.85,,,yes,https://electricbillmath.com/utility/nd/cass-county-elec-coop-inc/
+14232,ND,Otter Tail Power Co,Otter Tail Power,Investor Owned,utility,45437,11.07,1084,120.04,,,yes,
+12301,ND,Nodak Electric Coop Inc,Nodak Electric Cooperative,Cooperative,utility,20715,12.69,1538,195.2,,,yes,
+2985,ND,"Capital Electric Coop, Inc",Capital Electric Cooperative,Cooperative,utility,19650,13.53,1032,139.59,,,yes,
+19790,ND,Verendrye Electric Coop Inc,Verendrye Electric Cooperative,Cooperative,utility,14357,11.19,1337,149.51,,,yes,
+20413,ND,Mountrail-Williams Elec Coop,Mountrail-Williams Electric Cooperative,Cooperative,utility,11485,7.25,1493,108.23,,,yes,
+55959,ND,Roughrider Electric Cooperativ,Roughrider Electric Cooperativ,Cooperative,utility,11246,10.82,1258,136.14,,,yes,
+13196,ND,Northern Plains Electric Coop,Northern Plains Electric Cooperative,Cooperative,utility,10472,10.88,1875,204.08,,,yes,
+13694,ND,"North Central Elec Coop, Inc",North Central Electric Cooperative,Cooperative,utility,6088,10.94,1918,209.76,,,yes,
+4717,ND,Dakota Valley Elec Coop Inc,Dakota Valley Electric Cooperative,Cooperative,utility,5790,12.74,1816,231.29,,,yes,
+12087,ND,McKenzie Electric Coop Inc,McKenzie Electric Cooperative,Cooperative,utility,5367,8.02,1804,144.71,,,yes,
+12090,ND,"McLean Electric Coop, Inc",McLean Electric Cooperative,Cooperative,utility,3706,14.64,1269,185.73,,,yes,
+17261,ND,Slope Electric Coop Inc,Slope Electric Cooperative,Cooperative,utility,3214,14.27,1149,163.97,,,yes,
+2394,ND,Burke-Divide Electric Coop Inc,Burke-Divide Electric Cooperative,Cooperative,utility,1804,8.61,1951,167.96,,,yes,
+11272,ND,"Lower Yellowstone R E A, Inc",Lower Yellowstone R E A,Cooperative,utility,680,8.95,1371,122.72,,,yes,
+14127,NE,Omaha Public Power District,Omaha Public Power District (OPPD),Political Subdivision,utility,368728,13.29,909,120.78,,,yes,https://electricbillmath.com/utility/ne/omaha-public-power-district/
+11018,NE,Lincoln Electric System,Lincoln Electric System (LES),Municipal,utility,136859,11.15,839,93.59,,,yes,https://electricbillmath.com/utility/ne/lincoln-electric-system/
+13337,NE,Nebraska Public Power District,Nebraska Public Power District (NPPD),Political Subdivision,utility,74220,10.95,954,104.49,,,yes,https://electricbillmath.com/utility/ne/nebraska-public-power-district/
+40606,NE,City of Grand Island,City of Grand Island,Municipal,utility,22563,10.32,855,88.27,,,yes,
+13664,NE,Norris Public Power District,Norris Public Power District,Political Subdivision,utility,19395,9.54,1550,147.86,,,yes,
+11251,NE,Loup River Public Power Dist,Loup River Public Power Dist,Political Subdivision,utility,16449,10.82,1279,138.37,,,yes,
+4911,NE,Dawson Power District,Dawson Power District,Political Subdivision,utility,16116,11.32,1308,148.03,,,yes,
+17642,NE,Southern Public Power District,Southern Public Power District,Political Subdivision,utility,15389,9.1,1343,122.2,,,yes,
+6779,NE,City of Fremont,City of Fremont,Municipal,utility,14170,12.27,885,108.57,,,yes,
+13725,NE,City of North Platte,City of North Platte,Municipal,utility,12062,11.68,826,96.47,,,yes,
+8245,NE,City of Hastings,City of Hastings,Municipal,utility,11655,11.83,813,96.21,,,yes,
+4373,NE,Cornhusker Public Power Dist,Cornhusker Public Power Dist,Political Subdivision,utility,7406,11.02,1493,164.5,,,yes,
+13739,NE,Northeast Power,Northeast Power,Political Subdivision,utility,6860,9.56,1420,135.84,,,yes,
+5780,NE,Elkhorn Rural Public Pwr Dist,Elkhorn Rural Public Pwr Dist,Political Subdivision,utility,6178,9.29,1486,138.06,,,yes,
+3205,NE,Cedar-Knox Public Power Dist,Cedar-Knox Public Power Dist,Political Subdivision,utility,6017,9.01,1381,124.51,,,yes,
+17577,NE,City of South Sioux City,City of South Sioux City,Municipal,utility,5111,12.91,843,108.79,,,yes,
+2643,NE,Butler Public Power District,Butler Public Power District,Political Subdivision,utility,4825,11.64,1182,137.59,,,yes,
+4671,NE,Custer Public Power District,Custer Public Power District,Political Subdivision,utility,4707,13.09,1332,174.41,,,yes,
+21111,NE,Perennial Public Power Dist,Perennial Public Power Dist,Political Subdivision,utility,4147,10.06,1583,159.27,,,yes,
+10967,NE,City of Lexington,City of Lexington,Municipal,utility,3911,10.4,1229,127.76,,,yes,
+17548,NE,South Central Public Pwr Dist,South Central Public Pwr Dist,Political Subdivision,utility,3778,9.48,1396,132.42,,,yes,
+12539,NE,Midwest Electric Member Corp,Midwest EMC,Cooperative,utility,2400,12.03,1204,144.84,,,yes,
+17692,NE,Southwest Public Power Dist,Southwest Public Power Dist,Political Subdivision,utility,2178,10.54,1321,139.19,,,yes,
+17979,NE,Stanton County Public Pwr Dist,Stanton County Public Pwr Dist,Political Subdivision,utility,2147,10.87,1180,128.23,,,yes,
+27058,NE,"High West Energy, Inc",High West Energy,Cooperative,utility,1775,14.62,882,129.03,,,yes,
+8570,NE,Highline Electric Assn,Highline Electric Association,Cooperative,utility,749,15.3,889,135.98,,,yes,
+15472,NH,Public Service Co of NH,Eversource New Hampshire (PSNH),Investor Owned,utility,263458,24.17,620,149.82,200566,14.2,yes,https://electricbillmath.com/utility/nh/public-service-co-of-nh/
+13441,NH,New Hampshire Elec Coop Inc,New Hampshire Electric Cooperative (NHEC),Cooperative,utility,70173,24.7,610,150.58,4446,14.32,yes,https://electricbillmath.com/utility/nh/new-hampshire-elec-coop-inc/
+24590,NH,Unitil Energy Systems,Unitil Energy Systems,Investor Owned,utility,24452,21.72,601,130.56,44629,11.48,yes,
+26510,NH,Liberty Utilities (Granite State Electri,Liberty Utilities (Granite State Electri,Investor Owned,utility,23432,22.59,709,160.06,16383,13.64,yes,
+59647,NH,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,4209,30.89,673,208.02,,,no,
+57313,NH,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,1197,18.1,557,100.87,,,no,
+66036,NH,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,266,23.93,685,164.04,,,no,
+66026,NH,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,49,29.3,849,248.64,,,no,
+15477,NJ,Public Service Elec & Gas Co,PSE&G (Public Service Electric and Gas),Investor Owned,utility,1978222,25.03,561,140.45,94117,6.02,yes,https://electricbillmath.com/utility/nj/public-service-elec-and-gas-co/
+9726,NJ,Jersey Central Power & Lt Co,Jersey Central Power & Light (JCP&L),Investor Owned,utility,955852,18.39,788,144.81,91835,4.9,yes,https://electricbillmath.com/utility/nj/jersey-central-power-and-lt-co/
+963,NJ,Atlantic City Electric Co,Atlantic City Electric,Investor Owned,utility,473195,25.84,636,164.27,35820,10.58,yes,https://electricbillmath.com/utility/nj/atlantic-city-electric-co/
+16213,NJ,Rockland Electric Co,Rockland Electric,Investor Owned,utility,64101,23.24,901,209.37,2577,7.92,yes,https://electricbillmath.com/utility/nj/rockland-electric-co/
+59647,NJ,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,48497,20.51,577,118.26,,,no,
+19856,NJ,City of Vineland,City of Vineland,Municipal,utility,22866,18.55,746,138.35,,,yes,
+59943,NJ,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,14507,12.25,809,99.16,,,no,
+57313,NJ,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,9939,18.24,554,101,,,no,
+59580,NJ,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,5732,16.77,783,131.4,,,no,
+66026,NJ,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,719,19.81,432,85.5,,,no,
+66036,NJ,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,638,17.35,631,109.4,,,no,
+15473,NM,Public Service Co of NM,PNM (Public Service Company of New Mexico),Investor Owned,utility,496914,16.35,555,90.82,,,yes,https://electricbillmath.com/utility/nm/public-service-co-of-nm/
+17718,NM,Southwestern Public Service Co,Xcel Energy (Southwestern Public Service),Investor Owned,utility,101203,12.86,973,125.11,,,yes,https://electricbillmath.com/utility/nm/southwestern-public-service-co/
+5701,NM,El Paso Electric Co,El Paso Electric,Investor Owned,utility,97258,10.34,718,74.3,,,yes,https://electricbillmath.com/utility/nm/el-paso-electric-co/
+6204,NM,City of Farmington,City of Farmington,Municipal,utility,36031,12.95,651,84.33,,,yes,
+9699,NM,"Jemez Mountains Elec Coop, Inc",Jemez Mountains Electric Cooperative,Cooperative,utility,28185,15.76,570,89.84,,,yes,
+10378,NM,"Kit Carson Electric Coop, Inc",Kit Carson Electric Cooperative,Cooperative,utility,26286,15.68,495,77.55,,,yes,
+4265,NM,Continental Divide El Coop Inc,Continental Divide El Coop,Cooperative,utility,20474,16.87,592,99.89,,,yes,
+3273,NM,"Central New Mexico El Coop, Inc",Central New Mexico El Coop,Cooperative,utility,19323,17.39,580,100.83,,,yes,
+14224,NM,Otero County Electric Coop Inc,Otero County Electric Cooperative,Cooperative,utility,16517,19.56,560,109.54,,,yes,
+6198,NM,"Farmers Electric Coop, Inc",Farmers Electric Cooperative,Cooperative,utility,10310,13.68,819,111.99,,,yes,
+13314,NM,Navajo Tribal Utility Authority,Navajo Tribal Utility Authority,State,utility,9768,16.44,521,85.73,,,yes,
+11204,NM,Los Alamos County,Los Alamos County,Municipal,utility,8395,14.79,630,93.19,,,yes,
+10817,NM,"Lea County Electric Coop, Inc",Lea County Electric Cooperative,Cooperative,utility,7292,11.03,1076,118.7,,,yes,
+3287,NM,"Central Valley Elec Coop, Inc",Central Valley Electric Cooperative,Cooperative,utility,6167,9.79,1149,112.39,,,yes,
+22690,NM,Roosevelt County Elec Coop Inc,Roosevelt County Electric Cooperative,Cooperative,utility,3898,13.54,1023,138.6,,,yes,
+59647,NM,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,3302,17.09,628,107.32,,,no,
+17826,NM,"Springer Electric Coop, Inc",Springer Electric Cooperative,Cooperative,utility,2423,21.96,491,107.79,,,yes,
+13318,NM,"Navopache Electric Coop, Inc",Navopache Electric Cooperative,Cooperative,utility,1500,15.1,451,68.17,,,yes,
+17715,NM,Southwestern Electric Coop Inc,Southwestern Electric Cooperative,Cooperative,utility,1435,25.31,532,134.52,,,yes,
+57313,NM,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,346,15.59,711,110.89,,,no,
+16057,NM,"Rio Grande Electric Coop, Inc",Rio Grande Electric Cooperative,Cooperative,utility,232,18.66,594,110.85,,,yes,
+66026,NM,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,107,16.01,1326,212.31,,,no,
+19160,NM,"Tri-County Electric Coop, Inc (OK)",Tri-County Electric Cooperative,Cooperative,utility,7,31.43,83,26.19,,,yes,
+13407,NV,Nevada Power Co,NV Energy (Nevada Power),Investor Owned,utility,933357,13.08,878,114.92,,,yes,https://electricbillmath.com/utility/nv/nevada-power-co/
+17166,NV,Sierra Pacific Power Co,NV Energy (Sierra Pacific Power),Investor Owned,utility,334961,13.65,663,90.55,,,yes,https://electricbillmath.com/utility/nv/sierra-pacific-power-co/
+59647,NV,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,24985,16.67,906,151.01,,,no,
+19840,NV,"Valley Electric Assn, Inc",Valley Electric Association,Cooperative,utility,22728,15.33,1130,173.15,,,yes,
+14245,NV,Overton Power District No 5,Overton Power District No 5,Political Subdivision,utility,15852,12.46,1143,142.49,,,yes,
+57313,NV,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,12391,12.54,758,95.01,,,no,
+2008,NV,City of Boulder City,City of Boulder City,Municipal,utility,7157,10.67,1115,118.99,,,yes,
+13073,NV,"Mt Wheeler Power, Inc",Mt Wheeler Power,Cooperative,utility,5175,9.42,1286,121.13,,,yes,
+20332,NV,Wells Rural Electric Co,Wells Rural Electric,Cooperative,utility,4653,10.22,1035,105.87,,,yes,
+22814,NV,Raft Rural Elec Coop Inc,Raft Rural Electric Cooperative,Cooperative,utility,1568,11.28,854,96.35,,,yes,
+59580,NV,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,1482,14.84,1114,165.26,,,no,
+66026,NV,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,1468,15.56,873,135.9,,,no,
+59943,NV,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,147,13.21,827,109.18,,,no,
+18260,NV,Surprise Valley Electrification,Surprise Valley Electrification,Cooperative,utility,6,13.97,806,112.5,,,yes,
+4226,NY,Consolidated Edison Co-NY Inc,Con Edison (Consolidated Edison of New York),Investor Owned,utility,2777072,36.74,373,137.1,311927,24.29,yes,https://electricbillmath.com/utility/ny/consolidated-edison-co-ny-inc/
+13573,NY,Niagara Mohawk Power Corp.,National Grid New York (Niagara Mohawk),Investor Owned,utility,1449428,19.89,652,129.73,87141,10.37,yes,https://electricbillmath.com/utility/ny/niagara-mohawk-power-corp/
+11171,NY,Long Island Power Authority,PSEG Long Island (LIPA),State,utility,1032471,26.17,744,194.75,19,16.43,yes,https://electricbillmath.com/utility/ny/long-island-power-authority/
+13511,NY,New York State Elec & Gas Corp,NYSEG (New York State Electric & Gas),Investor Owned,utility,747709,22.59,744,168.05,45993,13.11,yes,https://electricbillmath.com/utility/ny/new-york-state-elec-and-gas-corp/
+16183,NY,Rochester Gas & Electric Corp,RG&E (Rochester Gas and Electric),Investor Owned,utility,302692,22.01,699,153.76,50925,13.41,yes,https://electricbillmath.com/utility/ny/rochester-gas-and-electric-corp/
+3249,NY,Central Hudson Gas & Elec Corp,Central Hudson Gas & Electric,Investor Owned,utility,246232,27.67,696,192.6,24375,18.08,yes,https://electricbillmath.com/utility/ny/central-hudson-gas-and-elec-corp/
+14154,NY,Orange & Rockland Utils Inc,Orange & Rockland Utilities,Investor Owned,utility,193698,26.21,694,181.87,19359,14.61,yes,https://electricbillmath.com/utility/ny/orange-and-rockland-utils-inc/
+59647,NY,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,42658,24.81,551,136.64,,,no,
+57313,NY,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,16876,18.59,541,100.51,,,no,
+5930,NY,Village of Fairport,Village of Fairport,Municipal,utility,16414,7.8,1247,97.26,,,yes,
+9645,NY,Jamestown Board of Public Util,Jamestown Board of Public Util,Municipal,utility,15518,8.51,876,74.51,,,yes,
+6775,NY,Village of Freeport,Village of Freeport,Municipal,utility,13422,13.53,796,107.72,,,yes,
+15145,NY,City of Plattsburgh,City of Plattsburgh,Municipal,utility,8809,5.35,1554,83.07,,,yes,
+59580,NY,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,8745,28.08,563,158.02,,,no,
+11811,NY,Town of Massena,Town of Massena,Municipal,utility,8122,8.04,1235,99.24,,,yes,
+59943,NY,Spruce Finance,Spruce Finance,Behind the Meter,behind_the_meter_solar,8032,19.08,539,102.91,,,no,
+17512,NY,Village of Solvay,Village of Solvay,Municipal,utility,4711,7.45,1076,80.13,,,yes,
+66101,NY,FirstEnergy Pennsylvania Electric Co,FirstEnergy Pennsylvania Electric,Investor Owned,utility,3353,15.25,790,120.49,41,6.03,yes,
+6369,NY,Fishers Island Utility Co Inc,Fishers Island Utility,Investor Owned,utility,655,41.37,657,271.77,,,yes,
+66026,NY,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,533,17.03,655,111.52,,,no,
+14006,OH,Ohio Power Co,AEP Ohio,Investor Owned,utility,537711,18.97,944,179.1,810877,10.26,yes,https://electricbillmath.com/utility/oh/ohio-power-co/
+3542,OH,Duke Energy Ohio Inc,Duke Energy Ohio,Investor Owned,utility,277897,16.83,915,154.05,422368,8.17,yes,https://electricbillmath.com/utility/oh/duke-energy-ohio-inc/
+13998,OH,Ohio Edison Co,Ohio Edison,Investor Owned,utility,265391,16.01,821,131.45,695693,7.42,yes,https://electricbillmath.com/utility/oh/ohio-edison-co/
+4922,OH,Dayton Power & Light Co,AES Ohio (Dayton Power & Light),Investor Owned,utility,142651,16.12,980,158.08,326666,7.07,yes,https://electricbillmath.com/utility/oh/dayton-power-and-light-co/
+3755,OH,Cleveland Electric Illum Co,The Illuminating Company (FirstEnergy),Investor Owned,utility,137419,16.22,636,103.09,540162,7.71,yes,https://electricbillmath.com/utility/oh/cleveland-electric-illum-co/
+18085,OH,South Central Power Company,South Central Power,Cooperative,utility,118458,15.39,1123,172.78,,,yes,https://electricbillmath.com/utility/oh/south-central-power-company/
+18997,OH,The Toledo Edison Co,Toledo Edison,Investor Owned,utility,85959,16.49,771,127.14,193719,7.89,yes,https://electricbillmath.com/utility/oh/the-toledo-edison-co/
+3762,OH,City of Cleveland,Cleveland Public Power,Municipal,utility,64905,16.36,511,83.58,,,yes,https://electricbillmath.com/utility/oh/city-of-cleveland/
+7977,OH,City of Hamilton,City of Hamilton,Municipal,utility,27209,15.49,794,122.97,,,yes,
+10668,OH,Licking Rural Electric Inc,Licking Rural Electric,Cooperative,utility,26038,17.03,1086,184.89,,,yes,
+4683,OH,City of Cuyahoga Falls,City of Cuyahoga Falls,Municipal,utility,24256,12.73,630,80.15,,,yes,
+12990,OH,Consolidated Cooperative,Consolidated Cooperative,Cooperative,utility,17091,17.02,1324,225.23,,,yes,
+15054,OH,"Pioneer Rural Elec Coop, Inc",Pioneer Rural Electric Cooperative,Cooperative,utility,16384,16.37,1349,220.82,,,yes,
+2502,OH,"Buckeye Rural Elec Coop, Inc",Buckeye Rural Electric Cooperative,Cooperative,utility,16056,20.48,1092,223.62,,,yes,
+20477,OH,City of Westerville,City of Westerville,Municipal,utility,15791,14.46,935,135.26,,,yes,
+7891,OH,Guernsey-Muskingum El Coop Inc,Guernsey-Muskingum El Coop,Cooperative,utility,15349,18.25,975,177.93,,,yes,
+4065,OH,City of Columbus,City of Columbus,Municipal,utility,15346,12.97,594,77.02,,,yes,
+11200,OH,"Lorain-Medina R E C, Inc",Lorain-Medina R E C,Cooperative,utility,15298,17.5,1212,212.16,,,yes,
+8761,OH,Holmes-Wayne Electric Coop Inc,Holmes-Wayne Electric Cooperative,Cooperative,utility,14793,17.23,1041,179.42,,,yes,
+2054,OH,City of Bowling Green,City of Bowling Green,Municipal,utility,13114,15.28,655,100.16,,,yes,
+19501,OH,"Union Rural Electric Coop, Inc",Union Rural Electric Cooperative,Cooperative,utility,12392,16.77,1183,198.3,,,yes,
+19951,OH,City of Wadsworth,City of Wadsworth,Municipal,utility,12296,12.21,788,96.21,,,yes,
+13602,OH,City of Niles,City of Niles,Municipal,utility,11889,12.4,637,78.98,,,yes,
+2651,OH,Butler Rural Electric Coop Inc,Butler Rural Electric Cooperative,Cooperative,utility,11531,18.44,1389,256.15,,,yes,
+8034,OH,Hancock-Wood Electric Coop Inc,Hancock-Wood Electric Cooperative,Cooperative,utility,11292,17.27,1127,194.71,,,yes,
+14381,OH,City of Painesville,City of Painesville,Municipal,utility,10851,13.21,685,90.49,,,yes,
+12515,OH,"Midwest Electric, Inc",Midwest Electric,Cooperative,utility,10830,15.77,1351,213.03,,,yes,
+15095,OH,City of Piqua,City of Piqua,Municipal,utility,9802,13.21,773,102.15,,,yes,
+14599,OH,"Paulding-Putman Elec Coop, Inc",Paulding-Putman Electric Cooperative,Cooperative,utility,9153,17.83,1148,204.78,,,yes,
+10830,OH,City of Lebanon,City of Lebanon,Municipal,utility,8852,12.11,859,104.09,,,yes,
+13693,OH,"North Central Elec Coop, Inc",North Central Electric Cooperative,Cooperative,utility,8431,17.78,1234,219.54,,,yes,
+3216,OH,City of Celina,City of Celina,Municipal,utility,7726,10.02,1072,107.36,,,yes,
+14194,OH,City of Orrville,City of Orrville,Municipal,utility,6327,10.97,1013,111.11,,,yes,
+5336,OH,City of Dover,City of Dover,Municipal,utility,5870,15.01,790,118.67,,,yes,
+3824,OH,Clyde Light & Power,Clyde Light & Power,Municipal,utility,2785,13.02,773,100.69,,,yes,
+66036,OH,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,1243,19.81,749,148.46,,,no,
+12377,OH,Midwest Energy Cooperative,Midwest Energy Cooperative,Cooperative,utility,866,18.79,1053,197.84,,,yes,
+66026,OH,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,521,19.11,821,156.85,,,no,
+14063,OK,Oklahoma Gas & Electric Co,OG&E (Oklahoma Gas and Electric),Investor Owned,utility,716295,12.49,1046,130.71,,,yes,https://electricbillmath.com/utility/ok/oklahoma-gas-and-electric-co/
+15474,OK,Public Service Co of Oklahoma,PSO (Public Service Company of Oklahoma),Investor Owned,utility,506245,14.23,1020,145.2,,,yes,https://electricbillmath.com/utility/ok/public-service-co-of-oklahoma/
+14062,OK,Oklahoma Electric Coop Inc,Oklahoma Electric Cooperative,Cooperative,utility,59539,12.87,1256,161.69,,,yes,https://electricbillmath.com/utility/ok/oklahoma-electric-coop-inc/
+5661,OK,City of Edmond,City of Edmond,Municipal,utility,39944,10.73,1130,121.31,,,yes,
+13734,OK,Northeast Oklahoma Electric Co,Northeast Oklahoma Electric,Cooperative,utility,38163,13.79,1131,156.01,,,yes,
+19785,OK,Verdigris Valley Elec Coop Inc,Verdigris Valley Electric Cooperative,Cooperative,utility,35514,12.4,1384,171.57,,,yes,
+5598,OK,East Central Oklahoma Elec Coop Inc,East Central Oklahoma Electric Cooperative,Cooperative,utility,33788,13.59,1141,155.04,,,yes,
+10599,OK,"Lake Region Electric Coop, Inc",Lake Region Electric Cooperative,Cooperative,utility,25042,13.03,1183,154.23,,,yes,
+2911,OK,"Canadian Valley Elec Coop, Inc",Canadian Valley Electric Cooperative,Cooperative,utility,24981,13.32,1281,170.57,,,yes,
+60482,OK,CKenergy Electric Cooperative,CKenergy Electric Cooperative,Cooperative,utility,22775,13.84,994,137.59,,,yes,
+3527,OK,Choctaw Electric Coop Inc,Choctaw Electric Cooperative,Cooperative,utility,21697,13.69,1204,164.83,,,yes,
+10170,OK,"Kiamichi Electric Coop, Inc",Kiamichi Electric Cooperative,Cooperative,utility,20997,13.94,1097,152.93,,,yes,
+3226,OK,"Central Rural Electric Cooperative, Inc",Central Rural Electric Cooperative,Cooperative,utility,20052,12.89,1499,193.24,,,yes,
+4401,OK,"Cotton Electric Coop, Inc",Cotton Electric Cooperative,Cooperative,utility,19906,12.74,1285,163.76,,,yes,
+18125,OK,Stillwater Utilities Authority,Stillwater Utilities Authority,Municipal,utility,19604,13.79,880,121.39,,,yes,
+4296,OK,"Cookson Hills Elec Coop, Inc",Cookson Hills Electric Cooperative,Cooperative,utility,17740,15.7,1160,182.08,,,yes,
+15746,OK,Red River Valley Rrl Elec Assn,Red River Valley Rrl Electric Association,Cooperative,utility,16152,11.96,1099,131.39,,,yes,
+17603,OK,Southeastern Electric Coop Inc,Southeastern Electric Cooperative,Cooperative,utility,15575,12.29,1220,149.91,,,yes,
+3478,OK,Cimarron Electric Coop,Cimarron Electric Cooperative,Cooperative,utility,15541,12.5,981,122.66,,,yes,
+19160,OK,"Tri-County Electric Coop, Inc (OK)",Tri-County Electric Cooperative,Cooperative,utility,15072,15.93,705,112.22,,,yes,
+9246,OK,"Indian Electric Coop, Inc",Indian Electric Cooperative,Cooperative,utility,14832,13.41,1306,175.15,,,yes,
+14775,OK,People's Electric Cooperative,People's Electric Cooperative,Cooperative,utility,14774,15.62,1388,216.8,,,yes,
+15202,OK,City of Ponca City,City of Ponca City,Municipal,utility,13907,12.52,885,110.81,,,yes,
+3647,OK,City of Claremore,City of Claremore,Municipal,utility,12012,13.74,929,127.7,,,yes,
+14289,OK,Ozarks Electric Coop Corp,Ozarks Electric Cooperative,Cooperative,utility,11873,14.87,1003,149.1,,,yes,
+13807,OK,Northwestern Electric Coop Inc,Northwestern Electric Cooperative,Cooperative,utility,9644,16.82,891,149.88,,,yes,
+16382,OK,"Rural Electric Coop, Inc",Rural Electric Cooperative,Cooperative,utility,9157,11.93,1155,137.75,,,yes,
+416,OK,City of Altus,City of Altus,Municipal,utility,8252,13.09,978,127.92,,,yes,
+10012,OK,Kay Electric Coop,Kay Electric Cooperative,Cooperative,utility,4389,14.82,1013,150.17,,,yes,
+817,OK,Arkansas Valley Elec Coop Corp,Arkansas Valley Electric Cooperative,Cooperative,utility,4272,13.75,1115,153.28,,,yes,
+5860,OK,Empire District Electric Co,Liberty Utilities (Empire District Electric),Investor Owned,utility,3951,14.93,1071,159.93,,,yes,
+296,OK,"Alfalfa Electric Coop, Inc",Alfalfa Electric Cooperative,Cooperative,utility,2646,10.85,1539,167.08,,,yes,
+17671,OK,Southwest Arkansas E C C,Southwest Arkansas E C C,Cooperative,utility,220,12.88,983,126.59,,,yes,
+66026,OK,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,163,14.7,1890,277.81,,,no,
+15248,OR,Portland General Electric Co,Portland General Electric,Investor Owned,utility,840457,18.79,753,141.56,,,yes,https://electricbillmath.com/utility/or/portland-general-electric-co/
+14354,OR,PacifiCorp,PacifiCorp,Investor Owned,utility,552756,15.18,877,133.04,,,yes,https://electricbillmath.com/utility/or/pacificorp/
+6022,OR,City of Eugene,Eugene Water & Electric Board (EWEB),Municipal,utility,90395,14.24,871,124.01,,,yes,https://electricbillmath.com/utility/or/city-of-eugene/
+3264,OR,Central Lincoln People's Ut Dt,Central Lincoln People's Ut Dt,Political Subdivision,utility,36113,11.39,975,111.12,,,yes,
+3240,OR,Central Electric Coop Inc,Central Electric Cooperative,Cooperative,utility,35385,10.49,1296,135.94,,,yes,
+17839,OR,City of Springfield,City of Springfield,Municipal,utility,30212,8.39,1019,85.48,,,yes,
+14109,OR,"Oregon Trail El Cons Coop, Inc",Oregon Trail El Cons Coop,Cooperative,utility,25995,10.97,1001,109.83,,,yes,
+18917,OR,Tillamook Peoples Utility Dist,Tillamook Peoples Utility Dist,Political Subdivision,utility,20263,12.66,1007,127.6,,,yes,
+40437,OR,Emerald People's Utility Dist,Emerald People's Utility Dist,Political Subdivision,utility,19946,11.54,1239,143.02,,,yes,
+4743,OR,"Consumers Power, Inc",Consumers Power,Cooperative,utility,18921,13.9,1161,161.33,,,yes,
+12439,OR,"Midstate Electric Coop, Inc",Midstate Electric Cooperative,Cooperative,utility,18875,11.85,1256,148.85,,,yes,
+16555,OR,Salem Electric,Salem Electric,Cooperative,utility,18499,10.91,874,95.36,,,yes,
+12187,OR,City of McMinnville,City of McMinnville,Municipal,utility,17666,7.82,970,75.81,,,yes,
+40438,OR,Columbia River Peoples Ut Dist,Columbia River Peoples Ut Dist,Political Subdivision,utility,16430,9.75,1160,113.08,,,yes,
+4317,OR,"Coos-Curry Electric Coop, Inc",Coos-Curry Electric Cooperative,Cooperative,utility,15854,13.97,950,132.78,,,yes,
+9191,OR,Idaho Power Co,Idaho Power,Investor Owned,utility,14179,11.91,1082,128.88,,,yes,
+19325,OR,Umatilla Electric Coop Assn,Umatilla Electric Cooperative Assn,Cooperative,utility,12784,10.11,1191,120.43,,,yes,
+10681,OR,Lane Electric Coop Inc,Lane Electric Cooperative,Cooperative,utility,12463,13.34,1259,167.92,,,yes,
+6582,OR,City of Forest Grove,City of Forest Grove,Municipal,utility,10484,10.7,965,103.21,,,yes,
+13788,OR,Northern Wasco County PUD,Northern Wasco County PUD,Political Subdivision,utility,9773,7.86,1212,95.3,,,yes,
+28541,OR,Clatskanie Peoples Util Dist,Clatskanie Peoples Util Dist,Political Subdivision,utility,3774,7.58,1487,112.61,,,yes,
+57313,OR,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,3618,9.34,465,43.5,,,no,
+18260,OR,Surprise Valley Electrification,Surprise Valley Electrification,Cooperative,utility,1215,13.13,1099,144.26,,,yes,
+59647,OR,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,80,12.22,403,49.27,,,no,
+4041,OR,"Columbia Rural Elec Assn, Inc",Columbia Rural Electric Association,Cooperative,utility,44,14.53,1523,221.21,,,yes,
+66101,PA,FirstEnergy Pennsylvania Electric Co,FirstEnergy Pennsylvania Electric,Investor Owned,utility,1471463,18.77,884,165.99,337478,7.75,yes,https://electricbillmath.com/utility/pa/firstenergy-pennsylvania-electric-co/
+14940,PA,PECO Energy Co,PECO Energy,Investor Owned,utility,1225334,18.02,755,136.07,313659,10.49,yes,https://electricbillmath.com/utility/pa/peco-energy-co/
+14715,PA,PPL Electric Utilities Corp,PPL Electric Utilities,Investor Owned,utility,836316,18.6,880,163.72,474935,6.51,yes,https://electricbillmath.com/utility/pa/ppl-electric-utilities-corp/
+5487,PA,Duquesne Light Co,Duquesne Light,Investor Owned,utility,437551,23.47,611,143.33,115573,11.94,yes,https://electricbillmath.com/utility/pa/duquesne-light-co/
+19390,PA,"UGI Utilities, Inc",UGI Utilities,Investor Owned,utility,54721,19.77,855,169.01,460,8.89,yes,https://electricbillmath.com/utility/pa/ugi-utilities-inc/
+40220,PA,Adams Electric Cooperative Inc,Adams Electric Cooperative,Cooperative,utility,32580,15.41,1183,182.28,,,yes,
+40224,PA,"Central Electric Coop, Inc",Central Electric Cooperative,Cooperative,utility,23675,16.9,791,133.77,,,yes,
+40292,PA,REA Energy Coop Inc,REA Energy Cooperative,Cooperative,utility,20951,16.14,966,155.96,,,yes,
+40290,PA,Tri-County Rural Elec Coop Inc (PA),Tri-County Rural Electric Cooperative,Cooperative,utility,18214,22.38,570,127.55,,,yes,
+40293,PA,"Northwestern Rural E C A, Inc",Northwestern Rural E C A,Cooperative,utility,18200,16.08,940,151.18,,,yes,
+40222,PA,Valley Rural Electric Coop Inc,Valley Rural Electric Cooperative,Cooperative,utility,18057,15.13,977,147.87,,,yes,
+40289,PA,Claverack Rural Elec Coop Inc,Claverack Rural Electric Cooperative,Cooperative,utility,16765,18.73,861,161.34,,,yes,
+40167,PA,"Somerset Rural Elec Coop, Inc",Somerset Rural Electric Cooperative,Cooperative,utility,12354,14.37,892,128.24,,,yes,
+3329,PA,Borough of Chambersburg,Borough of Chambersburg,Municipal,utility,9952,12.25,843,103.26,,,yes,
+40221,PA,"Bedford Rural Elec Coop, Inc",Bedford Rural Electric Cooperative,Cooperative,utility,8849,16.76,975,163.41,,,yes,
+57313,PA,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,6912,15.34,661,101.36,,,no,
+3597,PA,Citizens Electric Co,Citizens Electric,Investor Owned,utility,6001,14.53,1214,176.39,4,3.54,yes,
+20334,PA,Wellsborough Electric Co,Wellsborough Electric,Investor Owned,utility,5174,19.01,704,133.79,,,yes,
+59647,PA,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,5089,20.58,568,116.9,,,no,
+15045,PA,Pike County Light & Power Co,Pike County Light & Power,Investor Owned,utility,3709,22.2,685,151.98,656,11.83,yes,
+66026,PA,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,989,21.29,677,144.21,,,no,
+59580,PA,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,71,21.9,345,75.59,,,no,
+13214,RI,The Narragansett Electric Co,Rhode Island Energy (Narragansett Electric),Investor Owned,utility,338735,29.45,563,165.83,119439,16.29,yes,https://electricbillmath.com/utility/ri/the-narragansett-electric-co/
+14537,RI,Clear River Electric and Water District,Clear River Electric and Water District,Municipal,utility,4388,19.06,694,132.29,,,yes,
+59647,RI,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,3605,28.9,562,162.51,,,no,
+1857,RI,Block Island Utility District,Block Island Utility District,Political Subdivision,utility,1637,38.67,390,150.89,,,yes,
+66036,RI,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,184,25.55,631,161.19,,,no,
+66026,RI,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,114,25.3,493,124.85,,,no,
+57313,RI,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,95,22.07,592,130.7,,,no,
+17539,SC,"Dominion Energy South Carolina, Inc",Dominion Energy South Carolina,Investor Owned,utility,712679,16.41,1032,169.35,,,yes,https://electricbillmath.com/utility/sc/dominion-energy-south-carolina-inc/
+5416,SC,"Duke Energy Carolinas, LLC",Duke Energy Carolinas,Investor Owned,utility,582062,13.47,1051,141.55,,,yes,https://electricbillmath.com/utility/sc/duke-energy-carolinas-llc/
+17543,SC,South Carolina Public Service Authority,Santee Cooper,State,utility,188962,12.91,959,123.85,,,yes,https://electricbillmath.com/utility/sc/south-carolina-public-service-authority/
+3046,SC,Duke Energy Progress,Duke Energy Progress,Investor Owned,utility,143884,14.09,1206,169.91,,,yes,https://electricbillmath.com/utility/sc/duke-energy-progress/
+1613,SC,Berkeley Electric Coop Inc,Berkeley Electric Cooperative,Cooperative,utility,119545,16.32,1149,187.48,,,yes,https://electricbillmath.com/utility/sc/berkeley-electric-coop-inc/
+8786,SC,Horry Electric Coop Inc,Horry Electric Cooperative,Cooperative,utility,91545,13.83,1072,148.23,,,yes,https://electricbillmath.com/utility/sc/horry-electric-coop-inc/
+14398,SC,Palmetto Electric Coop Inc,Palmetto Electric Cooperative,Cooperative,utility,69848,14.39,1210,174.22,,,yes,https://electricbillmath.com/utility/sc/palmetto-electric-coop-inc/
+1890,SC,Blue Ridge Electric Coop Inc,Blue Ridge Electric Cooperative,Cooperative,utility,68647,19.82,999,197.98,,,yes,https://electricbillmath.com/utility/sc/blue-ridge-electric-coop-inc/
+21002,SC,York Electric Coop Inc,York Electric Cooperative,Cooperative,utility,66369,13.68,1084,148.29,,,yes,https://electricbillmath.com/utility/sc/york-electric-coop-inc/
+10768,SC,"Laurens Electric Coop, Inc",Laurens Electric Cooperative,Cooperative,utility,59786,15.62,1071,167.25,,,yes,https://electricbillmath.com/utility/sc/laurens-electric-coop-inc/
+12462,SC,Mid-Carolina Electric Coop Inc,Mid-Carolina Electric Cooperative,Cooperative,utility,57067,16.83,1158,194.86,,,yes,https://electricbillmath.com/utility/sc/mid-carolina-electric-coop-inc/
+162,SC,Aiken Electric Coop Inc,Aiken Electric Cooperative,Cooperative,utility,50850,17.51,1099,192.47,,,yes,https://electricbillmath.com/utility/sc/aiken-electric-coop-inc/
+16195,SC,City of Rock Hill,City of Rock Hill,Municipal,utility,36786,12.34,833,102.79,,,yes,
+16606,SC,"Santee Electric Coop, Inc",Santee Electric Cooperative,Cooperative,utility,35356,16.39,1289,211.26,,,yes,
+5929,SC,"Fairfield Electric Coop, Inc",Fairfield Electric Cooperative,Cooperative,utility,33071,15.6,1158,180.63,,,yes,
+66073,SC,MPD Electric Cooperative,MPD Electric Cooperative,Cooperative,utility,32130,13.73,1312,180.11,,,yes,
+1763,SC,"Black River Electric Coop, Inc",Black River Electric Cooperative,Cooperative,utility,30874,15.14,1289,195.19,,,yes,
+2212,SC,"Broad River Electric Coop, Inc",Broad River Electric Cooperative,Cooperative,utility,23660,17.16,1077,184.82,,,yes,
+7654,SC,Greer Commission of Public Wks,Greer Commission of Public Wks,Municipal,utility,23192,12.81,898,115.08,,,yes,
+11355,SC,"Lynches River Elec Coop, Inc",Lynches River Electric Cooperative,Cooperative,utility,21730,16.34,1066,174.12,,,yes,
+14164,SC,City of Orangeburg,City of Orangeburg,Municipal,utility,20682,15.18,1079,163.78,,,yes,
+14175,SC,"Tri-County Electric Coop, Inc (SC)",Tri-County Electric Cooperative,Cooperative,utility,17670,19.94,1131,225.5,,,yes,
+6709,SC,Easley Combined Utility System,Easley Combined Utility System,Municipal,utility,16019,12.81,980,125.61,,,yes,
+5644,SC,"Edisto Electric Coop, Inc",Edisto Electric Cooperative,Cooperative,utility,15540,18.99,1200,227.93,,,yes,
+13524,SC,"Newberry Electric Coop, Inc",Newberry Electric Cooperative,Cooperative,utility,13215,17.06,1010,172.19,,,yes,
+7646,SC,Greenwood CPW,Greenwood CPW,Municipal,utility,11676,9.97,831,82.83,,,yes,
+59647,SC,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,7102,17.77,755,134.16,,,no,
+6894,SC,City of Gaffney,City of Gaffney,Municipal,utility,6198,12.32,982,121.01,,,yes,
+11118,SC,Lockhart Power Co,Lockhart Power,Investor Owned,utility,4961,14.23,1113,158.31,,,yes,
+8333,SC,Haywood Electric Member Corp,Haywood EMC,Cooperative,utility,10,18.46,542,100,,,yes,
+13781,SD,Northern States Power Co - Minnesota,Xcel Energy (Northern States Power),Investor Owned,utility,94137,13.13,771,101.24,,,yes,https://electricbillmath.com/utility/sd/northern-states-power-co-minnesota/
+19545,SD,"Black Hills Power, Inc.",Black Hills Power,Investor Owned,utility,67608,15.12,700,105.88,,,yes,https://electricbillmath.com/utility/sd/black-hills-power-inc/
+13809,SD,NorthWestern Energy,NorthWestern Energy,Investor Owned,utility,51787,13.35,939,125.34,,,yes,https://electricbillmath.com/utility/sd/northwestern-energy/
+17267,SD,Sioux Valley SW Elec Coop,Sioux Valley SW Electric Cooperative,Cooperative,utility,22989,13.94,1265,176.42,,,yes,
+19293,SD,Southeastern Electric Coop Inc,Southeastern Electric Cooperative,Cooperative,utility,20959,12.98,1167,151.37,,,yes,
+20401,SD,West River Electric Assn Inc,West River Electric Association,Cooperative,utility,18975,15.16,896,135.78,,,yes,
+20187,SD,Watertown Municipal Utilities,Watertown Municipal Utilities,Municipal,utility,11775,9.29,886,82.26,,,yes,
+2285,SD,City of Brookings,City of Brookings,Municipal,utility,10769,10.69,880,94.09,,,yes,
+1769,SD,"Black Hills Electric Coop, Inc",Black Hills Electric Cooperative,Cooperative,utility,9415,14.79,1122,165.83,,,yes,
+14232,SD,Otter Tail Power Co,Otter Tail Power,Investor Owned,utility,9094,11.42,1080,123.34,,,yes,
+3236,SD,"Central Electric Coop, Inc",Central Electric Cooperative,Cooperative,utility,6515,14.67,1537,225.5,,,yes,
+12199,SD,Montana-Dakota Utilities Co,Montana-Dakota Utilities,Investor Owned,utility,6348,12.99,852,110.69,,,yes,
+15040,SD,City of Pierre,City of Pierre,Municipal,utility,6183,10.94,902,98.71,,,yes,
+13750,SD,"Northern Electric Coop, Inc",Northern Electric Cooperative,Cooperative,utility,5823,11.43,2094,239.29,,,yes,
+16286,SD,Rosebud Electric Coop Inc,Rosebud Electric Cooperative,Cooperative,utility,4911,11.88,1154,137.05,,,yes,
+12341,SD,MidAmerican Energy Co,MidAmerican Energy,Investor Owned,utility,4236,8.9,1117,99.4,,,yes,
+4720,SD,Dakota Energy Coop Inc,Dakota Energy Cooperative,Cooperative,utility,3231,16.28,1694,275.69,,,yes,
+11475,SD,City of Madison,City of Madison,Municipal,utility,2818,12.41,1057,131.21,,,yes,
+13853,SD,Oahe Electric Coop Inc,Oahe Electric Cooperative,Cooperative,utility,2335,10.54,1612,169.88,,,yes,
+19896,SD,City of Volga,City of Volga,Municipal,utility,1094,12.79,929,118.87,,,yes,
+13337,SD,Nebraska Public Power District,Nebraska Public Power District (NPPD),Political Subdivision,utility,1047,10.08,1234,124.44,,,yes,
+13216,TN,Nashville Electric Service,Nashville Electric Service (NES),Municipal,utility,424808,14.04,1040,146,,,yes,https://electricbillmath.com/utility/tn/nashville-electric-service/
+12293,TN,City of Memphis,"Memphis Light, Gas and Water (MLGW)",Municipal,utility,385015,13.24,1142,151.19,,,yes,https://electricbillmath.com/utility/tn/city-of-memphis/
+12470,TN,Middle Tennessee E M C,Middle Tennessee Electric,Cooperative,utility,311520,12.47,1295,161.57,,,yes,https://electricbillmath.com/utility/tn/middle-tennessee-e-m-c/
+10421,TN,Knoxville Utilities Board,Knoxville Utilities Board (KUB),Municipal,utility,196674,13.83,1109,153.38,,,yes,https://electricbillmath.com/utility/tn/knoxville-utilities-board/
+3408,TN,City of Chattanooga,EPB Chattanooga,Municipal,utility,164914,12.89,1121,144.47,,,yes,https://electricbillmath.com/utility/tn/city-of-chattanooga/
+19898,TN,Volunteer Electric Coop,Volunteer Electric Cooperative,Cooperative,utility,105248,13.08,1210,158.32,,,yes,https://electricbillmath.com/utility/tn/volunteer-electric-coop/
+4624,TN,Cumberland Elec Member Corp,Cumberland EMC,Cooperative,utility,101734,13.76,1437,197.71,,,yes,https://electricbillmath.com/utility/tn/cumberland-elec-member-corp/
+3704,TN,City of Clarksville,CDE Lightband (Clarksville),Municipal,utility,77509,13.67,1166,159.41,,,yes,https://electricbillmath.com/utility/tn/city-of-clarksville/
+9777,TN,Johnson City,BrightRidge (Johnson City),Municipal,utility,72729,13.22,1184,156.46,,,yes,https://electricbillmath.com/utility/tn/johnson-city/
+5399,TN,Duck River Elec Member Corp,Duck River EMC,Cooperative,utility,71969,13.59,1381,187.71,,,yes,https://electricbillmath.com/utility/tn/duck-river-elec-member-corp/
+10906,TN,City of Lenoir,Lenoir City Utilities Board (LCUB),Municipal,utility,63379,12.82,1240,158.94,,,yes,https://electricbillmath.com/utility/tn/city-of-lenoir/
+19574,TN,Upper Cumberland E M C,Upper Cumberland EMC,Cooperative,utility,45862,13.71,1225,167.98,,,yes,
+727,TN,Appalachian Electric Coop,Appalachian Electric Cooperative,Cooperative,utility,44280,13.58,1263,171.42,,,yes,
+17694,TN,Southwest Tennessee E M C,Southwest Tennessee EMC,Cooperative,utility,43847,13.72,1322,181.4,,,yes,
+10331,TN,Kingsport Power Co,Kingsport Power,Investor Owned,utility,43364,12.28,1290,158.45,,,yes,
+16949,TN,Sevier County Electric System,Sevier County Electric System,Municipal,utility,36001,12.06,1174,141.6,,,yes,
+16930,TN,Sequachee Valley Electric Coop,Sequachee Valley Electric Cooperative,Cooperative,utility,33315,13.77,1166,160.49,,,yes,
+7625,TN,City of Greeneville,City of Greeneville,Municipal,utility,32686,12.69,1244,157.9,,,yes,
+9612,TN,City of Jackson,City of Jackson,Municipal,utility,32264,12.57,1089,136.88,,,yes,
+3855,TN,Columbia Power System,Columbia Power System,Municipal,utility,32032,12.73,1110,141.3,,,yes,
+5148,TN,City of Dickson,City of Dickson,Municipal,utility,31000,13,1268,164.87,,,yes,
+6608,TN,Fort Loudoun Electric Coop,Fort Loudoun Electric Cooperative,Cooperative,utility,30743,12.83,1368,175.54,,,yes,
+12330,TN,Meriwether Lewis Electric Coop,Meriwether Lewis Electric Cooperative,Cooperative,utility,30485,14.24,1211,172.36,,,yes,
+2247,TN,City of Bristol,City of Bristol,Municipal,utility,30081,11.54,1296,149.6,,,yes,
+2960,TN,"Caney Fork Electric Coop, Inc",Caney Fork Electric Cooperative,Cooperative,utility,29863,13.6,1194,162.4,,,yes,
+3758,TN,City of Cleveland,City of Cleveland,Municipal,utility,29740,13.34,1118,149.15,,,yes,
+7174,TN,Gibson Electric Members Corp,Gibson Electric Members,Cooperative,utility,29483,13.72,1323,181.4,,,yes,
+577,TN,City of Alcoa Utilities,City of Alcoa Utilities,Municipal,utility,28498,12.99,1231,159.96,,,yes,
+3812,TN,City of Clinton,City of Clinton,Municipal,utility,26320,13.66,1219,166.61,,,yes,
+8764,TN,"Holston Electric Coop, Inc",Holston Electric Cooperative,Cooperative,utility,25947,13.97,1187,165.87,,,yes,
+19162,TN,Tri-County Elec Member Corp (TN),Tri-County EMC,Cooperative,utility,25085,12.92,1300,168.04,,,yes,
+6923,TN,City of Gallatin,City of Gallatin,Municipal,utility,23744,12.79,1071,136.96,,,yes,
+5763,TN,City of Elizabethton,City of Elizabethton,Municipal,utility,23381,12.3,1163,143.05,,,yes,
+15293,TN,Powell Valley Electric Coop,Powell Valley Electric Cooperative,Cooperative,utility,21217,12.22,1079,131.86,,,yes,
+10579,TN,City of LaFollette,City of LaFollette,Municipal,utility,20083,14.33,1095,156.98,,,yes,
+13550,TN,City of Newport,City of Newport,Municipal,utility,20003,15.05,1102,165.83,,,yes,
+40166,TN,"Chickasaw Electric Coop, Inc",Chickasaw Electric Cooperative,Cooperative,utility,19723,11.8,1429,168.68,,,yes,
+11789,TN,Maryville Utilities,Maryville Utilities,Municipal,utility,19485,12.11,1172,141.96,,,yes,
+10799,TN,City of Lawrenceburg,City of Lawrenceburg,Municipal,utility,18239,13,1228,159.65,,,yes,
+10968,TN,City of Lexington,City of Lexington,Municipal,utility,17991,12.8,1097,140.45,,,yes,
+18643,TN,Tennessee Valley Electric Coop,Tennessee Valley Electric Cooperative,Cooperative,utility,16919,13.03,1114,145.08,,,yes,
+6234,TN,City of Fayetteville,City of Fayetteville,Municipal,utility,16729,12.49,1294,161.62,,,yes,
+15016,TN,Pickwick Electric Coop,Pickwick Electric Cooperative,Cooperative,utility,16595,13.42,1250,167.7,,,yes,
+14455,TN,City of Paris,City of Paris,Municipal,utility,16316,12.29,1141,140.16,,,yes,
+4294,TN,City of Cookeville,City of Cookeville,Municipal,utility,16182,11.85,983,116.53,,,yes,
+13933,TN,City of Oak Ridge,City of Oak Ridge,Municipal,utility,15586,13.37,942,125.93,,,yes,
+20228,TN,Weakley County Mun Elec Sys,Weakley County Mun Electric Sys,Municipal,utility,15323,12.29,1339,164.58,,,yes,
+15141,TN,Plateau Electric Cooperative,Plateau Electric Cooperative,Cooperative,utility,14323,14.04,982,137.79,,,yes,
+12988,TN,City of Morristown,City of Morristown,Municipal,utility,13571,13.4,1093,146.44,,,yes,
+11222,TN,Loudon Utilities Board,Loudon Utilities Board,Municipal,utility,12846,12.24,1275,156.09,,,yes,
+15507,TN,City of Pulaski,City of Pulaski,Municipal,utility,12496,14.1,1202,169.45,,,yes,
+13027,TN,"Mountain Electric Coop, Inc",Mountain Electric Cooperative,Cooperative,utility,12388,13.09,1029,134.7,,,yes,
+3075,TN,Carroll County,Carroll County,Municipal,utility,12348,12.66,1237,156.69,,,yes,
+16223,TN,City of Rockwood,City of Rockwood,Municipal,utility,12081,13.34,1240,165.44,,,yes,
+947,TN,Athens Utility Board,Athens Utility Board,Municipal,utility,11761,12.44,1171,145.71,,,yes,
+17047,TN,City of Shelbyville,City of Shelbyville,Municipal,utility,9970,11.88,1136,134.95,,,yes,
+5509,TN,City of Dyersburg,City of Dyersburg,Municipal,utility,9495,11.69,1180,137.94,,,yes,
+8147,TN,City of Harriman,City of Harriman,Municipal,utility,9375,14.04,1149,161.32,,,yes,
+19266,TN,Tullahoma Board-Public Utils,Tullahoma Board-Public Utils,Municipal,utility,9324,11.72,1165,136.54,,,yes,
+4920,TN,City of Dayton,City of Dayton,Municipal,utility,9149,12.55,1085,136.18,,,yes,
+1936,TN,Bolivar Energy Authority,Bolivar Energy Authority,Municipal,utility,8913,14.17,1189,168.57,,,yes,
+1578,TN,Benton County,Benton County,Municipal,utility,8750,15.11,1114,168.39,,,yes,
+40236,TN,"Forked Deer Electric Coop, Inc",Forked Deer Electric Cooperative,Cooperative,utility,8331,14.97,1372,205.49,,,yes,
+17829,TN,City of Springfield,City of Springfield,Municipal,utility,7696,12.42,1115,138.51,,,yes,
+5961,TN,Town of Erwin,Town of Erwin,Municipal,utility,7669,13.14,1024,134.62,,,yes,
+18384,TN,City of Sweetwater,City of Sweetwater,Municipal,utility,7584,12.27,1308,160.46,,,yes,
+12532,TN,City of Milan,City of Milan,Municipal,utility,6908,13.04,1250,162.96,,,yes,
+12186,TN,McMinnville Electric System,McMinnville Electric System,Municipal,utility,6702,12.98,994,129.05,,,yes,
+20793,TN,City of Winchester,City of Winchester,Municipal,utility,5325,12.48,1112,138.78,,,yes,
+19430,TN,City of Union City,City of Union City,Municipal,utility,5198,11.86,1058,125.48,,,yes,
+27222,TN,City of Ripley,City of Ripley,Municipal,utility,5114,13.17,1119,147.39,,,yes,
+10960,TN,City of Lewisburg,City of Lewisburg,Municipal,utility,5046,11.88,1154,137.11,,,yes,
+6008,TN,City of Etowah,City of Etowah,Municipal,utility,4466,14.16,1158,163.98,,,yes,
+2411,TN,City of Brownsville,City of Brownsville,Municipal,utility,4076,12.17,1048,127.56,,,yes,
+4437,TN,City of Covington,City of Covington,Municipal,utility,3745,11.75,1087,127.7,,,yes,
+13039,TN,City of Mt Pleasant,City of Mt Pleasant,Municipal,utility,3538,13.74,1196,164.38,,,yes,
+9023,TN,City of Humboldt,City of Humboldt,Municipal,utility,3535,12.16,1062,129.16,,,yes,
+19154,TN,Tri-State Electric Member Corp,Tri-State EMC,Cooperative,utility,2834,14.9,1041,155.02,,,yes,
+17452,TN,City of Smithville,City of Smithville,Municipal,utility,2441,12.7,926,117.64,,,yes,
+17740,TN,City of Sparta,City of Sparta,Municipal,utility,2270,12.5,968,121,,,yes,
+19149,TN,City of Trenton,City of Trenton,Municipal,utility,1959,13.58,1012,137.4,,,yes,
+9697,TN,City of Jellico,City of Jellico,Municipal,utility,1621,14.06,1152,161.99,,,yes,
+13437,TN,City of Newbern,City of Newbern,Municipal,utility,1500,10.89,1145,124.72,,,yes,
+6784,TN,French Broad Elec Member Corp,French Broad EMC,Cooperative,utility,1003,16.4,768,125.91,,,yes,
+17564,TN,South Kentucky Rural E C C,South Kentucky RECC,Cooperative,utility,148,14.03,843,118.24,,,yes,
+4622,TN,"Cumberland Valley Electric, Inc.",Cumberland Valley Electric,Cooperative,utility,76,14.65,816,119.52,,,yes,
+814,TN,Entergy Arkansas LLC,Entergy Arkansas,Investor Owned,utility,1,12.86,2917,375,,,yes,
+15847,TX,Reliant Energy Retail Services,Reliant Energy,Retail Power Marketer,retail_provider,1545510,18.38,1038,190.67,,,yes,https://electricbillmath.com/utility/tx/reliant-energy-retail-services/
+19327,TX,"TXU Energy Retail Co, LLC",TXU Energy,Retail Power Marketer,retail_provider,1442516,19.36,1088,210.7,,,yes,https://electricbillmath.com/utility/tx/txu-energy-retail-co-llc/
+16604,TX,City of San Antonio,CPS Energy (San Antonio),Municipal,utility,888946,12.4,1075,133.34,,,yes,https://electricbillmath.com/utility/tx/city-of-san-antonio/
+1015,TX,Austin Energy,Austin Energy,Municipal,utility,522446,13.14,835,109.73,,,yes,https://electricbillmath.com/utility/tx/austin-energy/
+55937,TX,Entergy Texas Inc.,Entergy Texas,Investor Owned,utility,469094,13.89,1237,171.83,,,yes,https://electricbillmath.com/utility/tx/entergy-texas-inc/
+9949,TX,Just Energy,Just Energy,Retail Power Marketer,retail_provider,437966,16.92,1160,196.28,,,yes,https://electricbillmath.com/utility/tx/just-energy/
+14626,TX,"Pedernales Electric Coop, Inc",Pedernales Electric Cooperative,Cooperative,utility,420753,12.75,1202,153.24,,,yes,https://electricbillmath.com/utility/tx/pedernales-electric-coop-inc/
+57132,TX,"US Retailers, LLC","US Retailers (Cirro Energy, Discount Power, Pennywise Power)",Retail Power Marketer,retail_provider,416504,15.77,1313,207.11,,,yes,https://electricbillmath.com/utility/tx/us-retailers-llc/
+56212,TX,"Ambit Energy Holdings, LLC",Ambit Energy,Retail Power Marketer,retail_provider,364649,19.74,915,180.67,,,yes,https://electricbillmath.com/utility/tx/ambit-energy-holdings-llc/
+5701,TX,El Paso Electric Co,El Paso Electric,Investor Owned,utility,320320,13.86,685,95,,,yes,https://electricbillmath.com/utility/tx/el-paso-electric-co/
+5078,TX,"Denton County Elec Coop, Inc",Denton County Electric Cooperative,Cooperative,utility,310805,13.18,1192,157.07,,,yes,https://electricbillmath.com/utility/tx/denton-county-elec-coop-inc/
+64682,TX,"Gexa Energy, LP",Gexa Energy,Retail Power Marketer,retail_provider,310726,17.42,1194,208.01,,,yes,https://electricbillmath.com/utility/tx/gexa-energy-lp/
+7554,TX,Green Mountain Energy Company,Green Mountain Energy,Retail Power Marketer,retail_provider,273660,18.49,909,167.96,,,yes,https://electricbillmath.com/utility/tx/green-mountain-energy-company/
+54820,TX,Direct Energy Services,Direct Energy Services,Retail Power Marketer,retail_provider,259458,17.3,1153,199.44,,,yes,https://electricbillmath.com/utility/tx/direct-energy-services/
+57394,TX,Value Based Brands LLC,"Value Based Brands (4Change Energy, Express Energy, Veteran Energy)",Retail Power Marketer,retail_provider,245378,17.15,1206,206.79,,,yes,https://electricbillmath.com/utility/tx/value-based-brands-llc/
+17718,TX,Southwestern Public Service Co,Xcel Energy (Southwestern Public Service),Investor Owned,utility,223685,13.94,937,130.54,,,yes,https://electricbillmath.com/utility/tx/southwestern-public-service-co/
+54862,TX,Champion Energy Services,Champion Energy Services,Retail Power Marketer,retail_provider,218102,10.16,978,99.32,,,no,https://electricbillmath.com/utility/tx/champion-energy-services/
+17698,TX,Southwestern Electric Power Co,SWEPCO (Southwestern Electric Power),Investor Owned,utility,157119,12.6,1159,146.09,,,yes,https://electricbillmath.com/utility/tx/southwestern-electric-power-co/
+49853,TX,Amigo Energy,Amigo Energy,Retail Power Marketer,retail_provider,152002,16.69,1114,185.95,,,yes,https://electricbillmath.com/utility/tx/amigo-energy/
+50041,TX,"Stream SPE, LTD",Stream Energy,Retail Power Marketer,retail_provider,142525,17.67,1201,212.27,,,yes,https://electricbillmath.com/utility/tx/stream-spe-ltd/
+56286,TX,"Retail Energy Solutions, LLC","Retail Energy Solutions (Frontier Utilities, Companion Energy)",Retail Power Marketer,retail_provider,134980,17.08,1160,198.17,,,yes,https://electricbillmath.com/utility/tx/retail-energy-solutions-llc/
+11501,TX,Magic Valley Electric Coop Inc,Magic Valley Electric Cooperative,Cooperative,utility,129596,10.51,1336,140.46,,,yes,https://electricbillmath.com/utility/tx/magic-valley-electric-coop-inc/
+13374,TX,"Constellation NewEnergy, Inc",Constellation,Retail Power Marketer,retail_provider,127616,16.62,1209,200.95,,,yes,https://electricbillmath.com/utility/tx/constellation-newenergy-inc/
+19126,TX,"TriEagle Energy, L.P.",TriEagle Energy,Retail Power Marketer,retail_provider,119408,16.24,1169,189.85,,,yes,https://electricbillmath.com/utility/tx/trieagle-energy-l-p/
+1892,TX,"Bluebonnet Electric Coop, Inc",Bluebonnet Electric Cooperative,Cooperative,utility,119030,11.59,1244,144.15,,,yes,https://electricbillmath.com/utility/tx/bluebonnet-electric-coop-inc/
+19159,TX,"Tri-County Electric Coop, Inc (TX)",Tri-County Electric Cooperative,Cooperative,utility,117857,15.07,1512,227.78,,,yes,https://electricbillmath.com/utility/tx/tri-county-electric-coop-inc-tx/
+64011,TX,Rhythm Ops LLC,Rhythm Energy,Retail Power Marketer,retail_provider,112931,16.55,979,162.05,,,yes,https://electricbillmath.com/utility/tx/rhythm-ops-llc/
+56571,TX,AP Holdings LLC,AP Holdings,Retail Power Marketer,retail_provider,99078,9.83,1212,119.07,,,no,https://electricbillmath.com/utility/tx/ap-holdings-llc/
+7559,TX,"Grayson-Collin Elec Coop, Inc",Grayson-Collin Electric Cooperative,Cooperative,utility,97950,17.04,1128,192.28,,,yes,https://electricbillmath.com/utility/tx/grayson-collin-elec-coop-inc/
+7752,TX,Guadalupe Valley Elec Coop Inc,Guadalupe Valley Electric Cooperative,Cooperative,utility,95358,11.83,1225,144.84,,,yes,https://electricbillmath.com/utility/tx/guadalupe-valley-elec-coop-inc/
+19490,TX,United Electric Coop Service Inc,United Electric Cooperative Service,Cooperative,utility,91268,13.91,1297,180.47,,,yes,https://electricbillmath.com/utility/tx/united-electric-coop-service-inc/
+16613,TX,Sam Houston Electric Coop Inc,Sam Houston Electric Cooperative,Cooperative,utility,88424,14.18,1184,167.81,,,yes,https://electricbillmath.com/utility/tx/sam-houston-electric-coop-inc/
+6182,TX,"Farmers Electric Coop, Inc",Farmers Electric Cooperative,Cooperative,utility,88221,11.95,1236,147.68,,,yes,https://electricbillmath.com/utility/tx/farmers-electric-coop-inc/
+18976,TX,Trinity Valley Elec Coop Inc,Trinity Valley Electric Cooperative,Cooperative,utility,82224,12.24,1290,157.97,,,yes,https://electricbillmath.com/utility/tx/trinity-valley-elec-coop-inc/
+6958,TX,City of Garland,Garland Power & Light,Municipal,utility,70627,13.68,1066,145.86,,,yes,https://electricbillmath.com/utility/tx/city-of-garland/
+5063,TX,City of Denton,Denton Municipal Electric,Municipal,utility,63757,13.6,940,127.84,,,yes,https://electricbillmath.com/utility/tx/city-of-denton/
+2442,TX,City of Bryan,Bryan Texas Utilities (BTU),Municipal,utility,62535,10.89,1122,122.12,,,yes,https://electricbillmath.com/utility/tx/city-of-bryan/
+64521,TX,Ironhorse Power Services LLC,Ironhorse Power Services,Retail Power Marketer,retail_provider,62114,8.37,1270,106.24,,,no,https://electricbillmath.com/utility/tx/ironhorse-power-services-llc/
+17561,TX,South Plains Electric Coop Inc,South Plains Electric Cooperative,Cooperative,utility,58726,11.02,1041,114.62,,,yes,https://electricbillmath.com/utility/tx/south-plains-electric-coop-inc/
+65314,TX,"BKV-BPP Retail, LLC",BKV Energy,Retail Power Marketer,retail_provider,58419,14.95,1471,219.91,,,yes,https://electricbillmath.com/utility/tx/bkv-bpp-retail-llc/
+60583,TX,Atlantic Energy LLC,Atlantic Energy,Retail Power Marketer,retail_provider,58376,16.13,1511,243.74,,,yes,https://electricbillmath.com/utility/tx/atlantic-energy-llc/
+13418,TX,City of New Braunfels,New Braunfels Utilities,Municipal,utility,57050,12.39,1064,131.81,,,yes,https://electricbillmath.com/utility/tx/city-of-new-braunfels/
+57486,TX,"XOOM Energy Texas, LLC",XOOM Energy Texas,Retail Power Marketer,retail_provider,53755,17.2,1113,191.38,,,yes,https://electricbillmath.com/utility/tx/xoom-energy-texas-llc/
+56248,TX,"Young Energy, LLC",Young Energy,Retail Power Marketer,retail_provider,51776,20.86,955,199.16,,,yes,https://electricbillmath.com/utility/tx/young-energy-llc/
+13830,TX,Nueces Electric Cooperative,Nueces Electric Cooperative,Cooperative,utility,49903,11.35,1309,148.57,,,yes,
+2409,TX,Brownsville Public Utilities Board,Brownsville Public Utilities Board,Municipal,utility,48500,11.22,1108,124.31,,,yes,
+19579,TX,Upshur Rural Elec Coop Corp,Upshur Rural Electric Cooperative,Cooperative,utility,44971,12.71,1208,153.58,,,yes,
+62862,TX,Chariot Energy,Chariot Energy,Retail Power Marketer,retail_provider,42638,16.26,1380,224.47,,,yes,
+3940,TX,City of College Station,City of College Station,Municipal,utility,42531,14.58,940,137.01,,,yes,
+4975,TX,Deep East Texas Elec Coop Inc,Deep East Texas Electric Cooperative,Cooperative,utility,40593,14.05,1035,145.49,,,yes,
+3282,TX,"Central Texas Elec Coop, Inc",Central Texas Electric Cooperative,Cooperative,utility,40305,12.17,1074,130.69,,,yes,
+12452,TX,Mid-South Electric Coop Assn,Mid-South Electric Cooperative Assn,Cooperative,utility,37251,15.37,1273,195.62,,,yes,
+18476,TX,"Tara Energy, LLC",Tara Energy,Retail Power Marketer,retail_provider,36822,16.31,1127,183.86,,,yes,
+20927,TX,"Wood County Electric Coop, Inc",Wood County Electric Cooperative,Cooperative,utility,36173,12.83,1112,142.72,,,yes,
+1175,TX,"Bandera Electric Coop, Inc",Bandera Electric Cooperative,Cooperative,utility,35906,12.77,1191,152,,,yes,
+2049,TX,"Bowie-Cass Electric Coop, Inc",Bowie-Cass Electric Cooperative,Cooperative,utility,34727,13.35,1154,154.04,,,yes,
+16638,TX,"San Bernard Electric Coop, Inc",San Bernard Electric Cooperative,Cooperative,utility,32557,14.11,1255,177.13,,,yes,
+7129,TX,City of Georgetown,City of Georgetown,Municipal,utility,31654,13.77,879,121.06,,,yes,
+64923,TX,Capital Energy PA LLC,"Capital Energy PA (Budget Power, Sunrise Power, Value Power)",Retail Power Marketer,retail_provider,31337,13.32,1337,178.02,,,yes,
+12268,TX,"Medina Electric Coop, Inc",Medina Electric Cooperative,Cooperative,utility,30778,12.54,1150,144.12,,,yes,
+8620,TX,"HILCO Electric Cooperative, Inc.",HILCO Electric Cooperative,Cooperative,utility,27850,14.82,1469,217.75,,,yes,
+62952,TX,"Southern Federal Power, LLC",Southern Federal Power,Retail Power Marketer,retail_provider,24764,8.03,1497,120.24,,,no,
+3470,TX,Cherokee County Elec Coop Assn,Cherokee County Electric Cooperative Assn,Cooperative,utility,22613,14.76,1159,171.11,,,yes,
+28978,TX,City of San Marcos,City of San Marcos,Municipal,utility,22362,12.73,915,116.47,,,yes,
+8898,TX,Houston County Elec Coop Inc,Houston County Electric Cooperative,Cooperative,utility,21761,15.28,873,133.44,,,yes,
+19806,TX,"Victoria Electric Coop, Inc",Victoria Electric Cooperative,Cooperative,utility,21716,12.4,1290,160.04,,,yes,
+9668,TX,"Jasper-Newton Elec Coop, Inc",Jasper-Newton Electric Cooperative,Cooperative,utility,21316,14.1,1108,156.22,,,yes,
+17710,TX,"Spark Energy, LP",Spark Energy,Retail Power Marketer,retail_provider,21051,17.42,1238,215.57,,,yes,
+20948,TX,Wise Electric Coop Inc,Wise Electric Cooperative,Cooperative,utility,20682,15.33,1441,220.96,,,yes,
+28604,TX,Kerrville Public Utility Board,Kerrville Public Utility Board,Municipal,utility,20283,9.42,1148,108.12,,,yes,
+7979,TX,Hamilton County Elec Coop Assn,Hamilton County Electric Cooperative Assn,Cooperative,utility,19876,12.64,1008,127.36,,,yes,
+16146,TX,"Navasota Valley Elec Coop, Inc",Navasota Valley Electric Cooperative,Cooperative,utility,19861,16.26,978,158.91,,,yes,
+64929,TX,"Good Charlie & Co., LLC",Good Charlie & Co.,Retail Power Marketer,retail_provider,19603,14.04,1460,204.99,,,yes,
+27369,TX,Taylor Electric Coop Inc,Taylor Electric Cooperative,Cooperative,utility,19215,16.14,1081,174.46,,,yes,
+13332,TX,"Navarro County Elec Coop, Inc",Navarro County Electric Cooperative,Cooperative,utility,19029,12.92,1266,163.57,,,yes,
+61855,TX,"Pulse Power, LLC",Pulse Power,Retail Power Marketer,retail_provider,18744,14.65,978,143.28,,,yes,
+55982,TX,Heart of Texas Electric Coop,Heart of Texas Electric Cooperative,Cooperative,utility,18476,11.89,1573,187.03,,,yes,
+67693,TX,"Abundance Energy, LLC",Abundance Energy,Retail Power Marketer,retail_provider,18346,8.37,1224,102.47,,,no,
+16461,TX,"Rusk County Electric Coop, Inc",Rusk County Electric Cooperative,Cooperative,utility,18253,13.3,1352,179.77,,,yes,
+64554,TX,OhmConnect Texas LLC,OhmConnect Texas,Retail Power Marketer,retail_provider,17300,14.58,1140,166.25,,,yes,
+4262,TX,Cooke County Elec Coop Assn,Cooke County Electric Cooperative Assn,Cooperative,utility,16192,15.46,1174,181.47,,,yes,
+6427,TX,City of Floresville,City of Floresville,Municipal,utility,16149,12.23,1403,171.58,,,yes,
+7634,TX,City of Greenville,City of Greenville,Municipal,utility,16117,16.65,1043,173.59,,,yes,
+62987,TX,Octopus Energy LLC,Octopus Energy,Retail Power Marketer,retail_provider,16026,11.91,1661,197.89,,,no,
+64906,TX,Mothership,Mothership,Retail Power Marketer,retail_provider,15838,14.92,1554,231.86,,,yes,
+9590,TX,"Jackson Electric Coop, Inc",Jackson Electric Cooperative,Cooperative,utility,15670,14.55,945,137.47,,,yes,
+58963,TX,Brooklet Energy Distribution,Brooklet Energy Distribution,Retail Power Marketer,retail_provider,15227,12.42,1013,125.9,,,yes,
+20230,TX,Weatherford Mun Utility System,Weatherford Mun Utility System,Municipal,utility,14661,12.8,1153,147.48,,,yes,
+6183,TX,"Fayette Electric Coop, Inc",Fayette Electric Cooperative,Cooperative,utility,14439,12.53,1032,129.24,,,yes,
+10009,TX,Karnes Electric Coop Inc,Karnes Electric Cooperative,Cooperative,utility,13599,10.25,1494,153.15,,,yes,
+10649,TX,Lamar County Elec Coop Assn,Lamar County Electric Cooperative Assn,Cooperative,utility,13121,13.43,1082,145.35,,,yes,
+59647,TX,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,12989,27.4,810,222.04,,,no,
+1273,TX,"Bartlett Electric Coop, Inc",Bartlett Electric Cooperative,Cooperative,utility,12402,15.23,1371,208.74,,,yes,
+4146,TX,Concho Valley Elec Coop Inc,Concho Valley Electric Cooperative,Cooperative,utility,12230,13.5,943,127.31,,,yes,
+6173,TX,Fannin County Electric Coop,Fannin County Electric Cooperative,Cooperative,utility,11962,16.25,1174,190.78,,,yes,
+61265,TX,Pogo Energy LLC,Pogo Energy,Retail Power Marketer,retail_provider,11433,18.62,1061,197.57,,,yes,
+65413,TX,Tesla Energy Ventures,Tesla Energy Ventures,Retail Power Marketer,retail_provider,11432,12.83,1624,208.43,,,yes,
+59808,TX,MP2 Energy LLC,MP2 Energy,Retail Power Marketer,retail_provider,10154,12.99,952,123.69,,,yes,
+16627,TX,San Patricio Electric Coop Inc,San Patricio Electric Cooperative,Cooperative,utility,10087,14.16,1155,163.45,,,yes,
+1591,TX,"Big Country Electric Coop, Inc",Big Country Electric Cooperative,Cooperative,utility,9533,13.33,803,106.99,,,yes,
+64977,TX,Revolution Energy LLC,Revolution Energy,Retail Power Marketer,retail_provider,9526,14.57,1162,169.33,,,yes,
+14424,TX,"Panola-Harrison Elec Coop, Inc",Panola-Harrison Electric Cooperative,Cooperative,utility,9432,10.66,1174,125.21,,,yes,
+16057,TX,"Rio Grande Electric Coop, Inc",Rio Grande Electric Cooperative,Cooperative,utility,9371,18.29,919,168.11,,,yes,
+11364,TX,"Lyntegar Electric Coop, Inc",Lyntegar Electric Cooperative,Cooperative,utility,9163,10.35,1099,113.73,,,yes,
+16900,TX,City of Seguin,City of Seguin,Municipal,utility,8913,11.06,1009,111.56,,,yes,
+4295,TX,Comanche County Elec Coop Assn,Comanche County Electric Cooperative Assn,Cooperative,utility,7487,15.65,1184,185.33,,,yes,
+57313,TX,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,7145,13.31,739,98.41,,,no,
+63422,TX,Varsity Energy,Varsity Energy,Retail Power Marketer,retail_provider,6634,14,1277,178.68,,,yes,
+2194,TX,City of Brenham,City of Brenham,Municipal,utility,6073,10.36,1087,112.58,,,yes,
+17693,TX,"Southwest Texas Elec Coop, Inc",Southwest Texas Electric Cooperative,Cooperative,utility,5934,14.65,549,80.36,,,yes,
+20472,TX,"Wharton County Elec Coop, Inc",Wharton County Electric Cooperative,Cooperative,utility,5583,14.18,1153,163.56,,,yes,
+65310,TX,"Think Energy, LLC",Think Energy,Retail Power Marketer,retail_provider,5532,15.33,1400,214.57,,,yes,
+49818,TX,"Alliance Power Company, LLC.","Alliance Power Company, LLC.",Retail Power Marketer,retail_provider,5512,10.89,1214,132.18,,,no,
+66036,TX,"EverBright, LLC",EverBright,Behind the Meter,behind_the_meter_solar,4939,18.17,903,163.98,,,no,
+66332,TX,"Base Texas REP, LLC",Base Texas REP,Retail Power Marketer,retail_provider,4692,14.44,1181,170.63,,,yes,
+55878,TX,Hudson Energy Services,Hudson Energy Services,Retail Power Marketer,retail_provider,4013,13.05,1204,157.18,,,yes,
+7561,TX,"Greenbelt Electric Coop, Inc",Greenbelt Electric Cooperative,Cooperative,utility,3929,17.88,599,107.09,,,yes,
+11014,TX,"Lighthouse Electric Coop, Inc",Lighthouse Electric Cooperative,Cooperative,utility,3880,16.18,584,94.4,,,yes,
+1169,TX,Bailey County Elec Coop Assn,Bailey County Electric Cooperative Assn,Cooperative,utility,3461,9.82,625,61.35,,,yes,
+57350,TX,Summer Energy LLC,Summer Energy,Retail Power Marketer,retail_provider,3122,21.18,902,191.04,,,yes,
+13757,TX,North Plains Electric Coop Inc,North Plains Electric Cooperative,Cooperative,utility,3093,11.53,908,104.73,,,yes,
+4939,TX,"Deaf Smith Electric Coop, Inc",Deaf Smith Electric Cooperative,Cooperative,utility,2993,8.57,1530,131.08,,,yes,
+64312,TX,"JP Energy Resources, LLC",JP Energy Resources,Retail Power Marketer,retail_provider,2943,11.81,960,113.35,,,no,
+61264,TX,Heritage Power LLC,Heritage Power,Retail Power Marketer,retail_provider,2915,15.57,1189,185.08,,,yes,
+66026,TX,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,2886,20.02,1131,226.31,,,no,
+10625,TX,"Lamb County Electric Coop, Inc",Lamb County Electric Cooperative,Cooperative,utility,2799,9.83,1069,105.1,,,yes,
+54872,TX,"Accent Energy Holdings, LLC",Accent Energy Holdings,Retail Power Marketer,retail_provider,2749,17.97,1121,201.38,,,yes,
+66333,TX,"Light Energy, LLC",Light Energy,Retail Power Marketer,retail_provider,2317,11.89,616,73.19,,,no,
+10817,TX,"Lea County Electric Coop, Inc",Lea County Electric Cooperative,Cooperative,utility,2206,10.64,1225,130.36,,,yes,
+49952,TX,3000 Energy Corp,3000 Energy,Retail Power Marketer,retail_provider,1327,14.32,1088,155.82,,,yes,
+64727,TX,Branch Energy Texas LLC,Branch Energy Texas,Retail Power Marketer,retail_provider,1191,18.15,2585,469.11,,,yes,
+16063,TX,"Rita Blanca Electric Coop, Inc",Rita Blanca Electric Cooperative,Cooperative,utility,1166,8.41,2716,228.42,,,yes,
+66436,TX,Maison Energy LLC,Maison Energy,Retail Power Marketer,retail_provider,1099,15.3,1052,160.95,,,yes,
+17671,TX,Southwest Arkansas E C C,Southwest Arkansas E C C,Cooperative,utility,1094,13.29,1601,212.85,,,yes,
+59848,TX,"ResCom Energy, LLC",ResCom Energy,Retail Power Marketer,retail_provider,672,14.26,998,142.24,,,yes,
+66867,TX,David Energy Supply LLC,David Energy Supply,Retail Power Marketer,retail_provider,667,13.31,1090,145.03,,,yes,
+67241,TX,"Elevate Energy, LLC",Elevate Energy,Retail Power Marketer,retail_provider,399,13.14,1191,156.5,,,yes,
+65353,TX,Arrow Energy TX LLC,Arrow Energy TX,Retail Power Marketer,retail_provider,342,11.62,1111,129.17,,,no,
+19160,TX,"Tri-County Electric Coop, Inc (OK)",Tri-County Electric Cooperative,Cooperative,utility,220,15.55,809,125.91,,,yes,
+62117,TX,"SFE Energy Texas, Inc.",SFE Energy Texas,Retail Power Marketer,retail_provider,163,14.51,525,76.18,,,yes,
+57459,TX,"Wolverine Alternative Investments, LLC",Wolverine Alternative Investments,Retail Power Marketer,retail_provider,159,12.49,1639,204.72,,,yes,
+58956,TX,"SmartEnergy Holdings, LLC",SmartEnergy Holdings,Retail Power Marketer,retail_provider,137,20.68,1139,235.58,,,yes,
+59931,TX,"MidAmerican Energy Services, LLC",MidAmerican Energy Services,Retail Power Marketer,retail_provider,132,44.57,81,36.3,,,yes,
+56734,TX,Smart Prepaid Electric,Smart Prepaid Electric,Retail Power Marketer,retail_provider,85,17.51,806,141.08,,,yes,
+17715,TX,Southwestern Electric Coop Inc,Southwestern Electric Cooperative,Cooperative,utility,11,23.33,727,169.7,,,yes,
+67932,TX,Texans Choice Power,Texans Choice Power,Retail Power Marketer,retail_provider,4,15,42,6.25,,,yes,
+58952,TX,Tomorrow Energy Corp.,Tomorrow Energy,Retail Power Marketer,retail_provider,1,10,83,8.33,,,no,
+14354,UT,PacifiCorp,PacifiCorp,Investor Owned,utility,969037,13.52,746,100.84,,,yes,https://electricbillmath.com/utility/ut/pacificorp/
+15444,UT,Provo City Corp,Provo City,Municipal,utility,36032,11.38,619,70.42,,,yes,
+17874,UT,City of St George,City of St George,Municipal,utility,28681,11.71,927,108.62,,,yes,
+40165,UT,"Dixie Escalante R E A, Inc",Dixie Escalante R E A,Cooperative,utility,28410,9.17,1337,122.54,,,yes,
+10879,UT,Lehi City Corporation,Lehi City,Municipal,utility,28051,10.05,831,83.59,,,yes,
+11135,UT,City of Logan,City of Logan,Municipal,utility,19879,12.99,504,65.48,,,yes,
+13137,UT,City of Murray,City of Murray,Municipal,utility,17724,12.45,597,74.29,,,yes,
+17732,UT,Spanish Fork City Corporation,Spanish Fork City,Municipal,utility,16588,10.39,694,72.08,,,yes,
+2010,UT,City of Bountiful,City of Bountiful,Municipal,utility,15762,13.48,850,114.54,,,yes,
+8366,UT,Heber Light & Power Company,Heber Light & Power,Municipal,utility,13903,14.4,820,118.06,,,yes,
+12866,UT,Moon Lake Electric Assn Inc,Moon Lake Electric Association,Cooperative,utility,13441,9.3,979,91.06,,,yes,
+6957,UT,"Garkane Energy Coop, Inc",Garkane Energy Cooperative,Cooperative,utility,11895,11.62,874,101.53,,,yes,
+17845,UT,City of Springville,City of Springville,Municipal,utility,10918,12.95,788,102.03,,,yes,
+18206,UT,Strawberry Electric Serv Dist,Strawberry Electric Serv Dist,Political Subdivision,utility,3640,15.26,1154,176.08,,,yes,
+13314,UT,Navajo Tribal Utility Authority,Navajo Tribal Utility Authority,State,utility,1807,14.59,578,84.39,,,yes,
+5862,UT,"Empire Electric Assn, Inc",Empire Electric Association,Cooperative,utility,950,16.22,668,108.39,,,yes,
+59647,UT,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,715,15.62,598,93.41,,,no,
+20332,UT,Wells Rural Electric Co,Wells Rural Electric,Cooperative,utility,508,10.81,876,94.7,,,yes,
+22814,UT,Raft Rural Elec Coop Inc,Raft Rural Electric Cooperative,Cooperative,utility,386,11.32,1034,117.01,,,yes,
+13073,UT,"Mt Wheeler Power, Inc",Mt Wheeler Power,Cooperative,utility,212,10.51,917,96.31,,,yes,
+57313,UT,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,1,17.27,917,158.33,,,no,
+19876,VA,Virginia Electric & Power Co,Dominion Energy Virginia,Investor Owned,utility,2408901,15.2,1038,157.75,,,yes,https://electricbillmath.com/utility/va/virginia-electric-and-power-co/
+733,VA,Appalachian Power Co,Appalachian Power,Investor Owned,utility,467581,17.16,1084,186,,,yes,https://electricbillmath.com/utility/va/appalachian-power-co/
+40228,VA,Rappahannock Electric Coop,Rappahannock Electric Cooperative,Cooperative,utility,172883,15.49,1195,185.19,,,yes,https://electricbillmath.com/utility/va/rappahannock-electric-coop/
+13640,VA,Northern Virginia Elec Coop,Northern Virginia Electric Cooperative,Cooperative,utility,169027,12.6,1142,143.9,,,yes,https://electricbillmath.com/utility/va/northern-virginia-elec-coop/
+17066,VA,Shenandoah Valley Elec Coop,Shenandoah Valley Electric Cooperative,Cooperative,utility,86656,14.49,1200,173.9,,,yes,https://electricbillmath.com/utility/va/shenandoah-valley-elec-coop/
+21244,VA,"Southside Electric Coop, Inc",Southside Electric Cooperative,Cooperative,utility,57305,15.48,1162,179.82,,,yes,https://electricbillmath.com/utility/va/southside-electric-coop-inc/
+4794,VA,City of Danville,City of Danville,Municipal,utility,38226,15.81,1025,161.96,,,yes,
+3291,VA,Central Virginia Electric Coop,Central Virginia Electric Cooperative,Cooperative,utility,35353,16.16,1238,200.06,,,yes,
+84,VA,A & N Electric Coop,A & N Electric Cooperative,Cooperative,utility,33035,14.4,992,142.9,,,yes,
+12260,VA,Mecklenburg Electric Cooperative,Mecklenburg Electric Cooperative,Cooperative,utility,30077,14.32,1050,150.41,,,yes,
+10171,VA,Kentucky Utilities Co,Kentucky Utilities,Investor Owned,utility,22759,15.32,1238,189.59,,,yes,
+13762,VA,"Northern Neck Elec Coop, Inc",Northern Neck Electric Cooperative,Cooperative,utility,18199,16.01,1197,191.7,,,yes,
+8198,VA,City of Harrisonburg,City of Harrisonburg,Municipal,utility,18133,11.51,974,112.08,,,yes,
+11560,VA,City of Manassas,City of Manassas,Municipal,utility,13945,12.31,1108,136.34,,,yes,
+2248,VA,Bristol Virginia Utilities,Bristol Virginia Utilities,Municipal,utility,13648,11.62,1239,143.99,,,yes,
+16558,VA,City of Salem,City of Salem,Municipal,utility,11426,15.51,947,146.86,,,yes,
+15410,VA,Prince George Electric Coop,Prince George Electric Cooperative,Cooperative,utility,10917,13.52,1394,188.36,,,yes,
+15293,VA,Powell Valley Electric Coop,Powell Valley Electric Cooperative,Cooperative,utility,6571,12.13,1154,140.06,,,yes,
+19882,VA,Virginia Tech Electric Service,Virginia Tech Electric Service,State,utility,5750,18.43,801,147.53,,,yes,
+66026,VA,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,1125,19.72,242,47.72,,,no,
+57313,VA,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,66,4.02,380,15.28,,,no,
+7601,VT,Green Mountain Power Corp,Green Mountain Power,Investor Owned,utility,227727,23.29,601,139.9,,,yes,https://electricbillmath.com/utility/vt/green-mountain-power-corp/
+19791,VT,"Vermont Electric Cooperative, Inc",Vermont Electric Cooperative,Cooperative,utility,36019,24.33,567,138.02,,,yes,
+2548,VT,City of Burlington Electric,City of Burlington Electric,Municipal,utility,17974,19.8,428,84.81,,,yes,
+59647,VT,Sunrun Inc.,Sunrun,Behind the Meter,behind_the_meter_solar,2561,29.48,520,153.36,,,no,
+57313,VT,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,1578,20.62,437,90.14,,,no,
+59622,VT,"Ahana Renewables, LLC",Ahana Renewables,Behind the Meter,behind_the_meter_solar,495,27.76,533,148.06,,,no,
+59580,VT,"SunPower Capital, LLC",SunPower Capital,Behind the Meter,behind_the_meter_solar,323,38.8,225,87.38,,,no,
+15500,WA,Puget Sound Energy Inc,Puget Sound Energy,Investor Owned,utility,1104338,17.01,863,146.74,,,yes,https://electricbillmath.com/utility/wa/puget-sound-energy-inc/
+16868,WA,City of Seattle,Seattle City Light,Municipal,utility,472309,14.74,594,87.48,,,yes,https://electricbillmath.com/utility/wa/city-of-seattle/
+17470,WA,PUD No 1 of Snohomish County,Snohomish County PUD,Political Subdivision,utility,349905,12.08,937,113.29,,,yes,https://electricbillmath.com/utility/wa/pud-no-1-of-snohomish-county/
+20169,WA,Avista Corp,Avista,Investor Owned,utility,247159,14.16,916,129.76,,,yes,https://electricbillmath.com/utility/wa/avista-corp/
+3660,WA,PUD No 1 of Clark County,Clark Public Utilities,Political Subdivision,utility,223119,10.63,983,104.5,,,yes,https://electricbillmath.com/utility/wa/pud-no-1-of-clark-county/
+18429,WA,City of Tacoma,Tacoma Public Utilities,Municipal,utility,177554,11.45,919,105.14,,,yes,https://electricbillmath.com/utility/wa/city-of-tacoma/
+14354,WA,PacifiCorp,PacifiCorp,Investor Owned,utility,114998,14.33,1164,166.84,,,yes,https://electricbillmath.com/utility/wa/pacificorp/
+1579,WA,PUD No 1 of Benton County,Benton PUD,Political Subdivision,utility,50835,9.13,1195,109.11,,,yes,https://electricbillmath.com/utility/wa/pud-no-1-of-benton-county/
+4442,WA,PUD No 1 of Cowlitz County,PUD No 1 of Cowlitz County,Political Subdivision,utility,48849,9.23,1296,119.62,,,yes,
+14624,WA,PUD No 2 of Grant County,PUD No 2 of Grant County,Political Subdivision,utility,43160,6.17,1644,101.34,,,yes,
+3413,WA,PUD No 1 of Chelan County,PUD No 1 of Chelan County,Political Subdivision,utility,42571,3.78,1754,66.33,,,yes,
+8699,WA,Inland Power & Light Company,Inland Power & Light,Cooperative,utility,42351,9.56,1435,137.28,,,yes,
+7548,WA,PUD No 1 of Grays Harbor County,PUD No 1 of Grays Harbor County,Political Subdivision,utility,40116,12.69,1045,132.64,,,yes,
+14668,WA,Peninsula Light Company,Peninsula Light,Cooperative,utility,35595,11.3,1224,138.35,,,yes,
+15419,WA,PUD No 3 of Mason County,PUD No 3 of Mason County,Political Subdivision,utility,34378,14.45,1125,162.5,,,yes,
+3644,WA,PUD No 1 of Clallam County,PUD No 1 of Clallam County,Political Subdivision,utility,30934,12.14,1242,150.68,,,yes,
+10944,WA,PUD No 1 of Lewis County,PUD No 1 of Lewis County,Political Subdivision,utility,29779,10.08,1395,140.71,,,yes,
+6716,WA,PUD No 1 of Franklin County,PUD No 1 of Franklin County,Political Subdivision,utility,27692,9.99,1214,121.35,,,yes,
+15979,WA,City of Richland,City of Richland,Municipal,utility,26340,10,1200,119.9,,,yes,
+59013,WA,PUD No 1 of Jefferson County,PUD No 1 of Jefferson County,Political Subdivision,utility,18750,13.86,988,136.93,,,yes,
+14055,WA,PUD No 1 of Okanogan County,PUD No 1 of Okanogan County,Political Subdivision,utility,18230,10.42,1385,144.31,,,yes,
+5326,WA,PUD No 1 of Douglas County,PUD No 1 of Douglas County,Political Subdivision,utility,16909,3.17,2300,72.98,,,yes,
+14324,WA,PUD No 2 of Pacific County,PUD No 2 of Pacific County,Political Subdivision,utility,16586,9.36,973,91.07,,,yes,
+5832,WA,Elmhurst Mutual Power & Light Co,Elmhurst Mutual Power & Light,Cooperative,utility,15538,8.68,1256,109.03,,,yes,
+14170,WA,Orcas Power & Light Coop,Orcas Power & Light Coop,Cooperative,utility,14034,19.01,942,179.09,,,yes,
+1625,WA,Benton Rural Electric Assn,Benton Rural Electric Association,Cooperative,utility,13864,9.67,1383,133.66,,,yes,
+19784,WA,Vera Irrigation District #15,Vera Irrigation District #15,Political Subdivision,utility,12299,9.59,1093,104.88,,,yes,
+10393,WA,PUD No 1 of Klickitat County,PUD No 1 of Klickitat County,Political Subdivision,utility,11977,12.55,1115,139.96,,,yes,
+12744,WA,Modern Electric Water Company,Modern Electric Water,Cooperative,utility,9504,7.67,910,69.72,,,yes,
+15231,WA,City of Port Angeles,City of Port Angeles,Municipal,utility,9394,10.21,934,95.42,,,yes,
+14653,WA,PUD No 1 of Pend Oreille County,PUD No 1 of Pend Oreille County,Political Subdivision,utility,9209,8.96,1401,125.51,,,yes,
+3295,WA,City of Centralia,City of Centralia,Municipal,utility,9118,9.91,1118,110.85,,,yes,
+6149,WA,City of Ellensburg,City of Ellensburg,Municipal,utility,8846,11.07,876,96.96,,,yes,
+10627,WA,Lakeview Light & Power,Lakeview Light & Power,Cooperative,utility,8341,10.87,1066,115.9,,,yes,
+1723,WA,"Big Bend Electric Coop, Inc",Big Bend Electric Cooperative,Cooperative,utility,6365,9.61,1602,154.04,,,yes,
+4041,WA,"Columbia Rural Elec Assn, Inc",Columbia Rural Electric Association,Cooperative,utility,4466,15.59,1123,175.08,,,yes,
+57313,WA,Tesla Inc.,Tesla,Behind the Meter,behind_the_meter_solar,99,4.71,502,23.65,,,no,
+10454,WA,Kootenai Electric Cooperative,Kootenai Electric Cooperative,Cooperative,utility,93,12.11,2083,252.33,,,yes,
+13758,WA,"Northern Lights, Inc",Northern Lights,Cooperative,utility,18,12.9,1005,129.63,,,yes,
+20847,WI,Wisconsin Electric Power Co,We Energies (Wisconsin Electric Power),Investor Owned,utility,1056086,20.53,640,131.37,,,yes,https://electricbillmath.com/utility/wi/wisconsin-electric-power-co/
+20856,WI,Wisconsin Power & Light Co,Alliant Energy Wisconsin (WPL),Investor Owned,utility,440746,18.47,694,128.22,,,yes,https://electricbillmath.com/utility/wi/wisconsin-power-and-light-co/
+20860,WI,Wisconsin Public Service Corp,Wisconsin Public Service,Investor Owned,utility,415643,17.2,616,105.93,,,yes,https://electricbillmath.com/utility/wi/wisconsin-public-service-corp/
+13780,WI,Northern States Power Co,Xcel Energy Wisconsin (Northern States Power),Investor Owned,utility,222746,15.56,726,112.86,,,yes,https://electricbillmath.com/utility/wi/northern-states-power-co/
+11479,WI,Madison Gas & Electric Co,Madison Gas and Electric (MGE),Investor Owned,utility,148482,21.11,505,106.58,,,yes,https://electricbillmath.com/utility/wi/madison-gas-and-electric-co/
+108,WI,Adams-Columbia Electric Coop,Adams-Columbia Electric Cooperative,Cooperative,utility,36159,18.98,643,122.04,,,yes,
+15344,WI,Polk-Burnett Electric Coop,Polk-Burnett Electric Cooperative,Cooperative,utility,20584,15.96,797,127.26,,,yes,
+1251,WI,Barron Electric Coop,Barron Electric Cooperative,Cooperative,utility,19395,16.02,883,141.5,,,yes,
+16060,WI,Riverland Energy Cooperative,Riverland Energy Cooperative,Cooperative,utility,19120,16.19,1061,171.84,,,yes,
+13936,WI,Oakdale Electric Coop,Oakdale Electric Cooperative,Cooperative,utility,17139,15.95,751,119.74,,,yes,
+18312,WI,Sun Prairie Utilities,Sun Prairie Utilities,Municipal,utility,17082,12.11,611,74.04,,,yes,
+11571,WI,Manitowoc Public Utilities,Manitowoc Public Utilities,Municipal,utility,16169,11.44,571,65.36,,,yes,
+10056,WI,City of Kaukauna (WI),City of Kaukauna,Municipal,utility,14872,12.87,722,92.94,,,yes,
+16740,WI,Scenic Rivers Energy Coop,Scenic Rivers Energy Cooperative,Cooperative,utility,13655,15.49,1143,177.09,,,yes,
+18336,WI,Superior Water and Light Co,Superior Water and Light,Investor Owned,utility,13290,15.78,555,87.55,,,yes,
+13815,WI,Northwestern Wisconsin Elec Co,Northwestern Wisconsin Electric,Investor Owned,utility,12999,14.64,574,84.04,,,yes,
+20862,WI,Wisconsin Rapids W W & L Comm,Wisconsin Rapids W W & L Comm,Municipal,utility,12347,13.61,656,89.31,,,yes,
+11740,WI,City of Marshfield,City of Marshfield,Municipal,utility,11974,10.33,707,73.11,,,yes,
+4715,WI,Dahlberg Light & Power Co,Dahlberg Light & Power,Investor Owned,utility,11001,13.16,586,77.14,,,yes,
+13963,WI,Oconomowoc Utilities,Oconomowoc Utilities,Municipal,utility,10391,14.17,681,96.48,,,yes,
+3701,WI,Clark Electric Coop,Clark Electric Cooperative,Cooperative,utility,9616,14.45,1230,177.82,,,yes,
+5417,WI,Dunn County Electric Coop,Dunn County Electric Cooperative,Cooperative,utility,9542,16.17,990,160.12,,,yes,
+12298,WI,City of Menasha,City of Menasha,Municipal,utility,8683,13.23,609,80.57,,,yes,
+18181,WI,City of Stoughton,City of Stoughton,Municipal,utility,8338,12.85,671,86.27,,,yes,
+18249,WI,City of Sturgeon Bay,City of Sturgeon Bay,Municipal,utility,7865,12.81,597,76.44,,,yes,
+16196,WI,Rock Energy Cooperative,Rock Energy Cooperative,Cooperative,utility,7409,14.31,985,140.9,,,yes,
+15159,WI,City of Plymouth,City of Plymouth,Municipal,utility,7331,12.16,728,88.57,,,yes,
+8212,WI,Hartford Electric,Hartford Electric,Municipal,utility,7039,11.94,631,75.31,,,yes,
+16082,WI,City of River Falls,City of River Falls,Municipal,utility,6914,14.02,658,92.26,,,yes,
+20211,WI,Village of Waunakee,Village of Waunakee,Municipal,utility,6906,12.14,721,87.54,,,yes,
+3208,WI,Cedarburg Light & Water Comm,Cedarburg Light & Water Comm,Municipal,utility,6168,13.44,648,87.07,,,yes,
+19324,WI,Two Rivers Water & Light,Two Rivers Water & Light,Municipal,utility,5581,13.04,517,67.47,,,yes,
+5574,WI,East Central Energy,East Central Energy,Cooperative,utility,5201,17.2,796,136.86,,,yes,
+13481,WI,City of New Richmond,City of New Richmond,Municipal,utility,5089,12.4,719,89.18,,,yes,
+13697,WI,North Central Power Co Inc,North Central Power,Investor Owned,utility,5063,16.38,452,74.05,,,yes,
+17011,WI,Shawano Municipal Utilities,Shawano Municipal Utilities,Municipal,utility,4977,14.41,585,84.3,,,yes,
+15804,WI,Reedsburg Utility Comm,Reedsburg Utility Comm,Municipal,utility,4956,12.36,702,86.78,,,yes,
+10605,WI,Lake Mills Light & Water,Lake Mills Light & Water,Municipal,utility,4134,14.54,625,90.83,,,yes,
+20213,WI,Waupun Utilities,Waupun Utilities,Municipal,utility,3957,12.35,689,85.1,,,yes,
+9690,WI,Jefferson Utilities,Jefferson Utilities,Municipal,utility,3752,12.43,695,86.4,,,yes,
+13036,WI,Village of Mt. Horeb,Village of Mt. Horeb,Municipal,utility,3644,13.01,691,89.86,,,yes,
+6043,WI,City of Evansville,City of Evansville,Municipal,utility,3549,13.22,784,103.72,,,yes,
+13467,WI,New London Electric&Water Util,New London Electric&Water Util,Municipal,utility,3539,12.67,641,81.27,,,yes,
+17324,WI,Slinger Utilities,Slinger Utilities,Municipal,utility,2830,12.36,700,86.48,,,yes,
+4073,WI,City of Columbus,City of Columbus,Municipal,utility,2468,12.77,657,83.96,,,yes,
+15978,WI,City of Richland Center,City of Richland Center,Municipal,utility,2431,12.49,588,73.52,,,yes,
+13448,WI,City of New Holstein,City of New Holstein,Municipal,utility,2248,14.06,731,102.75,,,yes,
+1776,WI,City of Black River Falls,City of Black River Falls,Municipal,utility,2244,14.79,714,105.59,,,yes,
+15086,WI,Pioneer Power and Light Co,Pioneer Power and Light,Investor Owned,utility,2021,16.76,513,85.93,,,yes,
+15312,WI,Village of Prairie Du Sac,Village of Prairie Du Sac,Municipal,utility,1919,11.97,661,79.13,,,yes,
+307,WI,Algoma Utility Comm,Algoma Utility Comm,Municipal,utility,1702,13.54,542,73.46,,,yes,
+20182,WI,Waterloo Light & Water Comm,Waterloo Light & Water Comm,Municipal,utility,1621,14.69,662,97.24,,,yes,
+2273,WI,Brodhead Water & Lighting Comm,Brodhead Water & Lighting Comm,Municipal,utility,1549,13.48,714,96.2,,,yes,
+11125,WI,City of Lodi,City of Lodi,Municipal,utility,1500,13.75,651,89.57,,,yes,
+1997,WI,City of Boscobel,City of Boscobel,Municipal,utility,1453,11.05,696,76.83,,,yes,
+6424,WI,Florence Utility Comm,Florence Utility Comm,Municipal,utility,1432,16.89,454,76.66,,,yes,
+13965,WI,Oconto Falls Water & Light Comm,Oconto Falls Water & Light Comm,Municipal,utility,1366,14.41,616,88.82,,,yes,
+9124,WI,Hustisford Utilities,Hustisford Utilities,Municipal,utility,1318,14.25,719,102.51,,,yes,
+13438,WI,Village of New Glarus,Village of New Glarus,Municipal,utility,1100,14.72,632,93.05,,,yes,
+5551,WI,City of Eagle River,City of Eagle River,Municipal,utility,1065,14.75,504,74.29,,,yes,
+20434,WI,City of Westby,City of Westby,Municipal,utility,1056,11.94,690,82.39,,,yes,
+4607,WI,City of Cuba City,City of Cuba City,Municipal,utility,998,11.98,678,81.21,,,yes,
+9936,WI,Juneau Utility Comm,Juneau Utility Comm,Municipal,utility,968,11.99,692,83.02,,,yes,
+13145,WI,Village of Muscoda,Village of Muscoda,Municipal,utility,934,11.36,668,75.83,,,yes,
+20583,WI,Whitehall Electric Utility,Whitehall Electric Utility,Municipal,utility,782,12.52,695,87.07,,,yes,
+40036,WI,Westfield Electric Company,Westfield Electric,Investor Owned,utility,622,17.26,609,105.17,,,yes,
+4247,WI,Consolidated Water Power Co,Consolidated Water Power,Investor Owned,utility,70,11.44,771,88.21,,,yes,
+733,WV,Appalachian Power Co,Appalachian Power,Investor Owned,utility,347654,16.97,1157,196.4,,,yes,https://electricbillmath.com/utility/wv/appalachian-power-co/
+12796,WV,Monongahela Power Co,Mon Power (Monongahela Power),Investor Owned,utility,334336,14.31,932,133.32,,,yes,https://electricbillmath.com/utility/wv/monongahela-power-co/
+15263,WV,The Potomac Edison Company,Potomac Edison,Investor Owned,utility,138070,13.1,1256,164.57,,,yes,https://electricbillmath.com/utility/wv/the-potomac-edison-company/
+20521,WV,Wheeling Power Co,Wheeling Power,Investor Owned,utility,34202,17.61,940,165.54,,,yes,
+1764,WV,Black Diamond Power Co,Black Diamond Power,Investor Owned,utility,3243,20.1,855,171.85,,,yes,
+66026,WV,"Palmetto Solar, LLC",Palmetto Solar,Behind the Meter,behind_the_meter_solar,54,29.4,77,22.69,,,no,
+14354,WY,PacifiCorp,PacifiCorp,Investor Owned,utility,118517,15.13,710,107.47,,,yes,https://electricbillmath.com/utility/wy/pacificorp/
+3461,WY,Cheyenne Light Fuel & Power,Cheyenne Light Fuel & Power,Investor Owned,utility,44072,17.32,526,91.16,,,yes,
+11273,WY,Lower Valley Energy Inc,Lower Valley Energy,Cooperative,utility,23172,6.99,1914,133.87,,,yes,
+19156,WY,Powder River Energy Corp,Powder River Energy,Cooperative,utility,15548,12.2,1156,141.07,,,yes,
+12199,WY,Montana-Dakota Utilities Co,Montana-Dakota Utilities,Investor Owned,utility,14993,11.96,845,101.04,,,yes,
+7222,WY,City of Gillette,City of Gillette,Municipal,utility,14134,12.9,891,114.89,,,yes,
+8566,WY,High Plains Power Inc,High Plains Power,Cooperative,utility,12868,14.24,947,134.87,,,yes,
+27058,WY,"High West Energy, Inc",High West Energy,Cooperative,utility,5692,14.72,982,144.48,,,yes,
+19545,WY,"Black Hills Power, Inc.",Black Hills Power,Investor Owned,utility,2179,13.77,766,105.51,,,yes,
+21081,WY,Yampa Valley Electric Assn Inc,Yampa Valley Electric Association,Cooperative,utility,573,17.39,844,146.87,,,yes,
+6169,WY,Fall River Rural Elec Coop Inc,Fall River Rural Electric Cooperative,Cooperative,utility,347,10.99,1836,201.73,,,yes,
+12825,WY,NorthWestern Energy LLC,NorthWestern Energy,Investor Owned,utility,299,12.39,796,98.66,,,yes,
+44372,TX,Oncor Electric Delivery Company LLC,Oncor,,tx_delivery_utility,,,1106,,3545814,5.64,yes,https://electricbillmath.com/texas-delivery-charges/oncor/
+8901,TX,CenterPoint Energy,CenterPoint Energy Houston Electric,,tx_delivery_utility,,,1124,,2529039,5.41,yes,https://electricbillmath.com/texas-delivery-charges/centerpoint/
+3278,TX,AEP Texas Central Company,AEP Texas Central,,tx_delivery_utility,,,1154,,793896,5.91,yes,https://electricbillmath.com/texas-delivery-charges/aep-texas-central/
+40051,TX,Texas-New Mexico Power Co,Texas-New Mexico Power (TNMP),,tx_delivery_utility,,,1151,,237930,7.09,yes,https://electricbillmath.com/texas-delivery-charges/tnmp/
+20404,TX,AEP Texas North Company,AEP Texas North,,tx_delivery_utility,,,981,,158488,5.86,yes,https://electricbillmath.com/texas-delivery-charges/aep-texas-north/
+11292,TX,City of Lubbock,Lubbock Power & Light,,tx_delivery_utility,,,874,,94738,6.31,yes,https://electricbillmath.com/texas-delivery-charges/lubbock/

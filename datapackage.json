@@ -1,0 +1,102 @@
+{
+  "name": "us-utility-rates",
+  "title": "U.S. electric utility residential rates 2025",
+  "homepage": "https://electricbillmath.com/methodology/#download",
+  "version": "2025",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Form EIA-861, data year 2025",
+      "path": "https://www.eia.gov/electricity/data/eia861/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "utilities",
+      "path": "data/electricbillmath-utilities-2025.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "eia_id",
+            "type": "integer",
+            "description": "EIA utility number (Form 861). Stable across years; join key for other EIA data."
+          },
+          {
+            "name": "state",
+            "type": "string",
+            "description": "Two-letter state code (incl. DC). A utility serving several states has one row per state."
+          },
+          {
+            "name": "name_eia",
+            "type": "string",
+            "description": "Name exactly as reported to EIA."
+          },
+          {
+            "name": "name_common",
+            "type": "string",
+            "description": "Name customers know (e.g. \"Pacific Gas & Electric\" for \"Pacific Gas & Electric Co.\"). For Texas holding companies the retail brands are added, taken from the PUCT REP directory."
+          },
+          {
+            "name": "ownership",
+            "type": "string",
+            "description": "EIA ownership class: Investor Owned, Cooperative, Municipal, Political Subdivision, State, Federal, Retail Power Marketer, Behind the Meter. Empty for Texas delivery utilities."
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "utility = sells energy and delivery together; retail_provider = competitive retailer (mainly Texas); behind_the_meter_solar = rooftop solar lease/PPA company; tx_delivery_utility = Texas wires company (TDU)."
+          },
+          {
+            "name": "residential_customers",
+            "type": "integer",
+            "description": "Residential customers (annual average) for bundled or retail service."
+          },
+          {
+            "name": "avg_cents_per_kwh",
+            "type": "number",
+            "description": "Residential revenue divided by residential sales, in cents per kWh. All-in average, including fixed charges."
+          },
+          {
+            "name": "avg_kwh_per_month",
+            "type": "integer",
+            "description": "Residential sales per customer per month, in kWh."
+          },
+          {
+            "name": "avg_bill_usd_per_month",
+            "type": "number",
+            "description": "Residential revenue per customer per month, in US dollars."
+          },
+          {
+            "name": "delivery_only_customers",
+            "type": "integer",
+            "description": "Customers that buy only delivery from this utility (energy from a competitive supplier). Empty where not reported."
+          },
+          {
+            "name": "delivery_cents_per_kwh",
+            "type": "number",
+            "description": "Delivery revenue divided by delivery sales for those customers, in cents per kWh."
+          },
+          {
+            "name": "comparable",
+            "type": "string",
+            "description": "no = should not be ranked against utilities: solar lease/PPA companies, and Texas retail providers below 12 cents/kWh whose reported revenue does not cover a full bill."
+          },
+          {
+            "name": "page_url",
+            "type": "string",
+            "description": "Page on electricbillmath.com with the explanation for this utility. Empty for small utilities without a page."
+          }
+        ]
+      }
+    }
+  ]
+}

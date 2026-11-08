@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "U.S. electric utility residential rates 2025"
+authors:
+  - name: "Electric Bill Math"
+    website: "https://electricbillmath.com/"
+license: CC-BY-4.0
+url: "https://electricbillmath.com/methodology/#download"
+repository: "https://github.com/electricbillmath/us-utility-rates"
+version: "2025"
+date-released: "2026-11-08"
+keywords: [electricity, utilities, electricity prices, EIA-861, energy, residential]
+references:
+  - type: data
+    title: "Form EIA-861 Annual Electric Power Industry Report, data year 2025"
+    authors:
+      - name: "U.S. Energy Information Administration"
+    url: "https://www.eia.gov/electricity/data/eia861/"
